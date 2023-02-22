@@ -3,21 +3,21 @@
 
 <dir>
 <title>[COLORwhite]Free Content[/COLOR]</title>
-<link>https://archive.org/download/free_20230123/free.xml</link>
+<link>https://schwiftyrepo.github.io/zuul/free.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
 
 <dir>
 <title>[COLORwhite]Debrid Movies[/COLOR]</title>
-<link>https://archive.org/download/deb_20230123/deb.xml</link>
+<link>https://schwiftyrepo.github.io/zuul/deb.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
 
 <dir>
 <title>[COLORwhite]Debrid TV Shows[/COLOR]</title>
-<link>https://archive.org/download/debtv/debtv.xml</link>
+<link>https://schwiftyrepo.github.io/zuul/debtv.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
