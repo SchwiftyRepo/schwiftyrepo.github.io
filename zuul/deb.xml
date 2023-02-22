@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<dir>
+<title>[COLORwhite]4K Movies: One Click[/COLOR]</title>
+<link>https://mad-eric.bitbucket.io/4k.json</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>[COLORwhite]New Movies 2023[/COLOR]</title>
+<tmdb>list/8236189</tmdb>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>[COLORwhite]New Movies 2022[/COLOR]</title>
+<tmdb>list/8214945</tmdb>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>[COLORwhite]Trending Movies[/COLOR]</title>
+<tmdb>movies/popular</tmdb>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>[COLORwhite]My Top 100 Movies[/COLOR]</title>
+<link>https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/mymovies.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>[COLORwhite]Top 100 British Cinema[/COLOR]</title>
+<link>https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/british.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>[COLORwhite]Best Picture Winners[/COLOR]</title>
+<link>https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/oscars.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>[COLORwhite]Movie Collections (Over 400)[/COLOR]</title>
+<link>https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/collections.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+
+
+
+
