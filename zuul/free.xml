@@ -79,13 +79,6 @@
 </dir>
 
 <dir>
-<title>[COLORwhite]Free Sports Channels (App)[/COLOR]</title>
-<link>plugin://plugin.video.ftasport</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
-
-<dir>
 <title>[COLORwhite]MP3 Streams[/COLOR]</title>
 <link>plugin://plugin.audio.mp3streams</link>
 <thumbnail></thumbnail>
