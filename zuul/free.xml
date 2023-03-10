@@ -73,6 +73,13 @@
 
 <dir>
 <title>[COLORwhite]Free Sports Channels[/COLOR]</title>
+<link>https://mad-eric.bitbucket.io/fsportz.json</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>[COLORwhite]Free Sports Channels (App)[/COLOR]</title>
 <link>plugin://plugin.video.ftasport</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -85,10 +92,5 @@
 <fanart></fanart>
 </dir>
 
-<dir>
-<title>[COLORwhite]Test[/COLOR]</title>
-<link>https://mad-eric.bitbucket.io/fsportz.json</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
+
 
