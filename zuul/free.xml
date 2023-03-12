@@ -79,6 +79,13 @@
 </dir>
 
 <dir>
+<title>[COLORwhite]Replays[/COLOR]</title>
+<link>https://mad-eric.bitbucket.io/replays.json</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
 <title>[COLORwhite]MP3 Streams[/COLOR]</title>
 <link>plugin://plugin.audio.mp3streams</link>
 <thumbnail></thumbnail>
