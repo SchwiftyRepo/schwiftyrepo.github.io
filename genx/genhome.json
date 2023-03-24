@@ -1,0 +1,43 @@
+{
+	"items": [
+	    {
+			"type": "dir",
+			"title": "[COLORwhite]One Click[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/1click.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORwhite]Free Movies[/COLOR]",
+			"link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/newmovies.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORwhite]Movies[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/jendeb.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORwhite]TV Shows[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/tvshows.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORwhite]New Movies[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/tmdbsel.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORwhite]New TV Shows[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/tmdb.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORwhite]Settings[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/settings.json"
+		}
+		
+		
+		
+	]
+	
+}
