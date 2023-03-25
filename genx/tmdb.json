@@ -1,0 +1,426 @@
+{
+    "items": [
+     {
+      "type": "dir",
+      "title": "Beyond Paradise",
+      "link": "tmdb/tv/205072",
+	  "thumbnail": "https://i.imgur.com/WzbQ4dC.jpg"
+     },
+     {
+      "type": "dir",
+      "title": "Agent Elvis",
+      "link": "tmdb/tv/110126",
+	  "thumbnail": "https://i.imgur.com/hAC3lfz.jpg"
+     },
+     {
+      "type": "dir",
+      "title": "Power Book II: Ghost",
+      "link": "tmdb/tv/97890",
+	  "thumbnail": "https://i.imgur.com/RIy2uCL.jpg"
+     },
+     {
+      "type": "dir",
+      "title": "Ted Lasso",
+      "link": "tmdb/tv/97546",
+	  "thumbnail": "https://i.imgur.com/hFwYgkL.jpg"
+     },
+     {
+      "type": "dir",
+      "title": "Kin",
+      "link": "tmdb/tv/112693",
+	  "thumbnail": "https://i.imgur.com/cIGR3Lu.jpg"
+     },
+     {
+      "type": "dir",
+      "title": "A Town Called Malice",
+      "link": "tmdb/tv/194632",
+	  "thumbnail": "https://i.imgur.com/mddl2cP.jpg"
+     },
+     {
+      "type": "dir",
+      "title": "The Mandalorian",
+      "link": "tmdb/tv/82856",
+	  "thumbnail": "https://i.imgur.com/nMxAFQ8.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Star Trek: Picard",
+      "link": "tmdb/tv/85949",
+	  "thumbnail": "https://i.imgur.com/DkzdQdc.jpg"
+    },
+	{
+      "type": "dir",
+      "title": "The Last of Us",
+      "link": "tmdb/tv/100088",
+	  "thumbnail": "https://i.imgur.com/zUp4en4.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Servant",
+      "link": "tmdb/tv/88055",
+	  "thumbnail": "https://i.imgur.com/AqwZEDf.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Your Honor",
+      "link": "tmdb/tv/86430",
+	  "thumbnail": "https://i.imgur.com/4JdYpIt.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Godfather of Harlem",
+      "link": "tmdb/tv/79086",
+	  "thumbnail": "https://i.imgur.com/OEYq2K8.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Last King of the Cross",
+      "link": "tmdb/tv/204290",
+	  "thumbnail": "https://i.imgur.com/3yDWQ7s.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Young Sheldon",
+      "link": "tmdb/tv/71728",
+	  "thumbnail": "https://i.imgur.com/Oes1vLm.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Walker",
+      "link": "tmdb/tv/99121",
+	  "thumbnail": "https://i.imgur.com/QSYQF9d.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Shrinking",
+      "link": "tmdb/tv/136311",
+	  "thumbnail": "https://i.imgur.com/jgEZUV2.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Poker Face",
+      "link": "tmdb/tv/120998",
+	  "thumbnail": "https://i.imgur.com/WZPEqWU.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Wolf Pack",
+      "link": "tmdb/tv/134865",
+	  "thumbnail": "https://i.imgur.com/1xdpXCp.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Chemistry of Death",
+      "link": "tmdb/tv/217180",
+	  "thumbnail": "https://i.imgur.com/vqFAiYv.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "The Flash",
+      "link": "tmdb/tv/60735",
+	  "thumbnail": "https://i.imgur.com/P5kUM9m.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Kung Fu",
+      "link": "tmdb/tv/114165",
+	  "thumbnail": "https://i.imgur.com/ZFQHK61.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "The Ark",
+      "link": "tmdb/tv/47663",
+	  "thumbnail": "https://i.imgur.com/KDdgI9B.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "South Park",
+      "link": "tmdb/tv/2190",
+	  "thumbnail": "https://i.imgur.com/LaTyckM.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Abbott Elementary",
+      "link": "tmdb/tv/125935",
+	  "thumbnail": "https://i.imgur.com/zJDQ53Q.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Pretty Hard Cases",
+      "link": "tmdb/tv/117327",
+	  "thumbnail": "https://i.imgur.com/JCyXD0Z.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Run the Burbs",
+      "link": "tmdb/tv/139474",
+	  "thumbnail": "https://i.imgur.com/AIVjORU.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "The Rookie: Feds",
+      "link": "tmdb/tv/201992",
+	  "thumbnail": "https://i.imgur.com/dgDiJJU.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Star Wars: The Bad Batch",
+      "link": "tmdb/tv/105971",
+	  "thumbnail": "https://i.imgur.com/L38zqHI.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "La Brea",
+      "link": "tmdb/tv/128839",
+	  "thumbnail": "https://i.imgur.com/bwMc49H.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Animal Control",
+      "link": "tmdb/tv/214162",
+	  "thumbnail": "https://i.imgur.com/xFvUluL.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Hello Tomorrow!",
+      "link": "tmdb/tv/125000",
+	  "thumbnail": "https://i.imgur.com/QgTBG2x.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Carnival Row",
+      "link": "tmdb/tv/90027",
+	  "thumbnail": "https://i.imgur.com/DOnVmhl.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Not Dead Yet",
+      "link": "tmdb/tv/203178",
+	  "thumbnail": "https://i.imgur.com/kHxLu78.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Mayfair Witches",
+      "link": "tmdb/tv/207863",
+	  "thumbnail": "https://i.imgur.com/i2vfdDb.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Dam",
+      "link": "tmdb/tv/220492",
+	  "thumbnail": "https://i.imgur.com/aF87uwy.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "The Spencer Sisters",
+      "link": "tmdb/tv/218805",
+	  "thumbnail": "https://i.imgur.com/JoWKEuS.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Young Rock",
+      "link": "tmdb/tv/97754",
+	  "thumbnail": "https://i.imgur.com/RLwiQfq.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "The Catch",
+      "link": "tmdb/tv/218976",
+	  "thumbnail": "https://i.imgur.com/kMvk5hM.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Quantum Leap",
+      "link": "tmdb/tv/202102",
+	  "thumbnail": "https://i.imgur.com/XvAfZrB.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Magnum P.I.",
+      "link": "tmdb/tv/79593",
+	  "thumbnail": "https://i.imgur.com/E9ezTlz.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Family Guy",
+      "link": "tmdb/tv/1434",
+	  "thumbnail": "https://i.imgur.com/vINLkaU.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "The Equalizer",
+      "link": "tmdb/tv/95205",
+	  "thumbnail": "https://i.imgur.com/nKtBn0Y.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Bob's Burgers",
+      "link": "tmdb/tv/32726",
+	  "thumbnail": "https://i.imgur.com/tI0gTbg.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "The Company You Keep",
+      "link": "tmdb/tv/208713",
+	  "thumbnail": "https://i.imgur.com/lqiHqFd.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "The Simpsons",
+      "link": "tmdb/tv/456",
+	  "thumbnail": "https://i.imgur.com/1wlWvIt.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "The Great North",
+      "link": "tmdb/tv/93221",
+	  "thumbnail": "https://i.imgur.com/JfLR9Lr.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "The Nevers",
+      "link": "tmdb/tv/80828",
+	  "thumbnail": "https://i.imgur.com/0jy4Knn.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Children Ruin Everything",
+      "link": "tmdb/tv/154167",
+	  "thumbnail": "https://i.imgur.com/t64nUMD.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Alert",
+      "link": "tmdb/tv/202308",
+	  "thumbnail": "https://i.imgur.com/6wanhHB.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Fantasy Island",
+      "link": "tmdb/tv/125116",
+	  "thumbnail": "https://i.imgur.com/cStx8mg.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "All American",
+      "link": "tmdb/tv/82428",
+	  "thumbnail": "https://i.imgur.com/mQsVxlo.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "How I Met Your Father",
+      "link": "tmdb/tv/124010",
+	  "thumbnail": "https://i.imgur.com/eQDtuvd.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "The Watchful Eye",
+      "link": "tmdb/tv/205440",
+	  "thumbnail": "https://i.imgur.com/bYAzarf.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "All American: Homecoming",
+      "link": "tmdb/tv/153723",
+	  "thumbnail": "https://i.imgur.com/P9VDu8S.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "FBI: Most Wanted",
+      "link": "tmdb/tv/94372",
+	  "thumbnail": "https://i.imgur.com/hWdKBIB.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "9-1-1: Lone Star",
+      "link": "tmdb/tv/89393",
+	  "thumbnail": "https://i.imgur.com/wi0CKcM.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Will Trent",
+      "link": "tmdb/tv/208569",
+	  "thumbnail": "https://i.imgur.com/uJ9sna7.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "The Rookie",
+      "link": "tmdb/tv/79744",
+	  "thumbnail": "https://i.imgur.com/wxCUjuu.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Night Court",
+      "link": "tmdb/tv/202101",
+	  "thumbnail": "https://i.imgur.com/k7nyi7P.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "FBI",
+      "link": "tmdb/tv/80748",
+	  "thumbnail": "https://i.imgur.com/vWBkTZL.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "American Auto",
+      "link": "tmdb/tv/124641",
+	  "thumbnail": "https://i.imgur.com/7jEk0gh.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Accused",
+      "link": "tmdb/tv/202097",
+	  "thumbnail": "https://i.imgur.com/Au1Sag4.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Wong & Winchester",
+      "link": "tmdb/tv/216787",
+	  "thumbnail": "https://i.imgur.com/kf4YxBl.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "FBI: International",
+      "link": "tmdb/tv/121658",
+	  "thumbnail": "https://i.imgur.com/Txc7ZtE.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "The Winchesters",
+      "link": "tmdb/tv/128113",
+	  "thumbnail": "https://i.imgur.com/PxmIKsL.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Son of a Critch",
+      "link": "tmdb/tv/154827",
+	  "thumbnail": "https://i.imgur.com/MStAsRc.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Chicago Med",
+      "link": "tmdb/tv/62650",
+	  "thumbnail": "https://i.imgur.com/6rJVC7P.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Chicago Fire",
+      "link": "tmdb/tv/44006",
+	  "thumbnail": "https://i.imgur.com/mpAb25Z.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "The Conners",
+      "link": "tmdb/tv/80550",
+	  "thumbnail": "https://i.imgur.com/PBxbp16.jpg"
+    },
+    {
+      "type": "dir",
+      "title": "Snowfall",
+      "link": "tmdb/tv/71694",
+	  "thumbnail": "https://i.imgur.com/ltHfMb4.jpg"
+    }
+	
+	
+    ]
+}
