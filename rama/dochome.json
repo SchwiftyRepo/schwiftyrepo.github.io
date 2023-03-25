@@ -1,0 +1,21 @@
+{
+	"items": [     
+        {
+            "type": "dir",
+            "title": "[COLORwhite]New Documentaries[/COLOR]",
+            "link": "https://mad-eric.bitbucket.io/docu.json"
+		},
+		{
+            "type": "dir", 
+            "title": "[COLORwhite]Documentary Channels[/COLOR]", 
+            "link": "https://mad-eric.bitbucket.io/livedocs.json" 
+        },
+		{
+            "type": "dir",
+            "title": "[COLORwhite]You Tube Documentaries[/COLOR]",
+            "link": "https://www.youtube.com/playlist_list=PLviL5t4JOQSOdBhgNGld-xu5cofvmVpFB"
+		}
+        
+    ]
+    
+}
