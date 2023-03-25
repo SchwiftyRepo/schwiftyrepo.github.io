@@ -1,0 +1,44 @@
+{
+    "items": [  
+    {
+            "type": "dir", 
+            "title": "[COLORwhite]Samsung TV[/COLOR]", 
+            "samsung_tv": "regions"  
+        },
+        {
+            "type": "plugin", 
+            "title": "[COLORwhite]Documentary Heaven[/COLOR]", 
+            "link": "plugin.video.documentaryheaven" 
+        }, 
+        {
+            "type": "plugin", 
+            "title": "[COLORwhite]Pluto TV App[/COLOR]", 
+            "link": "plugin.video.plutotv" 
+        }, 
+        {
+            "type": "dir", 
+            "title": "[COLORwhite]Free Sports[/COLOR]", 
+            "link": "https://mawashi360.github.io/fsport.json" 
+        },
+        {
+            "type": "plugin", 
+            "title": "[COLORwhite]MP3 Streams[/COLOR]", 
+            "link": "plugin.audio.mp3streams/"
+        },
+        {
+            "type": "dir", 
+            "title": "[COLORwhite]Fluxus TV[/COLOR]", 
+            "link": "https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/master/files/FTV-ENG" 
+        },
+        {
+            "type": "dir", 
+            "title": "[COLORwhite]World Free TV[/COLOR]", 
+            "link": "https://mawashi360.github.io/worldfree.m3u" 
+       } 
+       
+       
+        
+       
+  
+    ]
+}
