@@ -1,0 +1,24 @@
+{
+"items": [
+		
+		{
+            "type": "dir",
+            "title": "[COLORwhite]New Movies 2023[/COLOR]",
+            "link": "tmdb/list/8236189"
+        },
+		{
+            "type": "dir",
+            "title": "[COLORwhite]New Movies 2022[/COLOR]",
+            "link": "tmdb/list/8214945"
+        },
+	    {
+            "type": "dir",
+            "title": "[COLORwhite]Latest Movies[/COLOR]",
+            "link": "tmdb/movie/now_playing"
+        }
+		
+		
+		
+
+	]
+}
