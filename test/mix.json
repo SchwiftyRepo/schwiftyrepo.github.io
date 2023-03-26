@@ -79,6 +79,31 @@
             "type": "item",
             "title": "Star Sports 2 HD",
             "link": "https://eas4.gcdn.co/UKS76/index.m3u8"
+        },
+	    {
+            "type": "item",
+            "title": "A Sports HD",
+            "link": "https://eas4.gcdn.co/UKS1/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Astro Cricket",
+            "link": "https://eas4.gcdn.co/UKS2/index.m3u8"
+        },
+	    {
+            "type": "item",
+            "title": "Viaplay",
+            "link": "https://eas4.gcdn.co/UKS3/index.m3u8"
+        },
+	       {
+            "type": "item",
+            "title": "Bein Sports 2 (Fr)",
+            "link": "https://eas4.gcdn.co/UKS5/index.m3u8"
+        },
+	           {
+            "type": "item",
+            "title": "Bein Sports",
+            "link": "https://eas4.gcdn.co/UKS7/index.m3u8"
         }
 		
 		
