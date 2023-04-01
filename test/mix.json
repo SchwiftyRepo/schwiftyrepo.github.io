@@ -242,6 +242,11 @@
 		},
 		{
 			"type": "item",
+			"title": "DAZN",
+			"link": "https://eas4.gcdn.co/UKS41/index.m3u8"
+		},
+		{
+			"type": "item",
 			"title": "DAZN 1",
 			"link": "https://eas4.gcdn.co/UKS48/index.m3u8"
 		},
