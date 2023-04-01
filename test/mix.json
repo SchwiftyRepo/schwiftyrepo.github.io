@@ -28,17 +28,7 @@
 		{
 			"type": "item",
 			"title": "Sky Sports Cricket",
-			"link": "https://eas4.gcdn.co/UKS41/index.m3u8"
-		},
-		{
-			"type": "item",
-			"title": "Sky Sports Mix",
-			"link": "https://eas4.gcdn.co/UKS45/index.m3u8"
-		},
-		{
-			"type": "item",
-			"title": "Sky Sports Arena",
-			"link": "https://eas4.gcdn.co/UKS51/index.m3u8"
+			"link": "https://eas4.gcdn.co/UKS52/index.m3u8"
 		},
 		{
 			"type": "item",
@@ -64,6 +54,21 @@
 			"type": "item",
 			"title": "Sky Sports PL",
 			"link": "https://eas4.gcdn.co/UKS61/index.m3u8"
+		},
+		{
+			"type": "item",
+			"title": "Sky Sports Arena",
+			"link": "https://eas4.gcdn.co/UKS51/index.m3u8"
+		},
+		{
+			"type": "item",
+			"title": "Sky Sports Action",
+			"link": "https://eas4.gcdn.co/UKS50/index.m3u8"
+		},
+		{
+			"type": "item",
+			"title": "Sky Sports Mix",
+			"link": "https://eas4.gcdn.co/UKS59/index.m3u8"
 		},
 		{
 			"type": "item",
