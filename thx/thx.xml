@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<dir>
+<name>4K Movies (Debrid)</name>
+<link>https://mad-eric.bitbucket.io/4k.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>4K Movies (Free)</name>
+<link>https://mad-eric.bitbucket.io/free4k.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>New Movies</name>
+<link>https://mad-eric.bitbucket.io/newrels.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>British Cinema</name>
+<link>https://mad-eric.bitbucket.io/brit.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Documentaries</name>
+<link>https://mad-eric.bitbucket.io/docu.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Documentary Channels</name>
+<link>https://mad-eric.bitbucket.io/livedocs.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Comedy Shows</name>
+<link>https://mad-eric.bitbucket.io/com.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Sports Replays</name>
+<link>https://mad-eric.bitbucket.io/replays.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Free Sports</name>
+<link>https://mad-eric.bitbucket.io/fsportz.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Family Movies</name>
+<link>https://mad-eric.bitbucket.io/fam.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Live TV</name>
+<link>https://mad-eric.bitbucket.io/live.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+
+
+
+
+
