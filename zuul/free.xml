@@ -65,15 +65,8 @@
 </dir>
 
 <dir>
-<title>[COLORwhite]BBC iPlayer[/COLOR]</title>
-<link>plugin://plugin.video.iplayerwww</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
-
-<dir>
-<title>[COLORwhite]Samsung TV[/COLOR]</title>
-<link>plugin://plugin.video.samm_tv</link>
+<name>Live TV Channels</name>
+<link>https://mad-eric.bitbucket.io/live.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
