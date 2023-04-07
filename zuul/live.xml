@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<dir>
+<name>UK Channels</name>
+<link>plugin://plugin.video.samm_tv/samsung_tv/region/gb</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>US Channels</name>
+<link>plugin://plugin.video.samm_tv/samsung_tv/region/us</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Canadian Channels</name>
+<link>plugin://plugin.video.samm_tv/samsung_tv/region/ca</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>BBC iPlayer</name>
+<link>plugin://plugin.video.iplayerwww</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Documentary Heaven</name>
+<link>plugin://plugin.video.documentaryheaven</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Pluto TV</name>
+<link>plugin://plugin.video.plutotv</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>MP3 Streams</name>
+<link>plugin://plugin.audio.mp3streams</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
