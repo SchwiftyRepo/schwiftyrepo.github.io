@@ -65,8 +65,8 @@
 </dir>
 
 <dir>
-<name>Live TV Channels</name>
-<link>https://mad-eric.bitbucket.io/live.xml</link>
+<name>Live TV Channels*</name>
+<link>https://schwiftyrepo.github.io/zuul/live.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
