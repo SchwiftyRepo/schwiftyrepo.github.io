@@ -3,7 +3,7 @@
 
 <dir>
 <title>[COLORwhite]1 Click Movies[/COLOR]</title>
-<link>https://bitbucket.org/Mad-Eric/textfiles/raw/master/newmovies.json</link>
+<link>https://mad-eric.bitbucket.io/newrels.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
@@ -31,7 +31,7 @@
 
 <dir>
 <title>[COLORwhite]Documentaries[/COLOR]</title>
-<link>https://mad-eric.bitbucket.io/docu.json</link>
+<link>https://mad-eric.bitbucket.io/docu.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
@@ -80,7 +80,7 @@
 
 <dir>
 <title>[COLORwhite]Replays[/COLOR]</title>
-<link>https://mad-eric.bitbucket.io/replays.json</link>
+<link>https://mad-eric.bitbucket.io/replays.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
