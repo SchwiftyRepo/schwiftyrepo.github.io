@@ -30,6 +30,13 @@
 </dir>
 
 <dir>
+<title>[COLORwhite]TV Shows[/COLOR]</title>
+<link>https://mad-eric.bitbucket.io/newtv.json</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
 <title>[COLORwhite]Documentaries[/COLOR]</title>
 <link>https://mad-eric.bitbucket.io/docu.xml</link>
 <thumbnail></thumbnail>
