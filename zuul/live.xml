@@ -44,6 +44,13 @@
 </dir>
 
 <dir>
+<name>Music Channels</name>
+<link>https://mad-eric.bitbucket.io/music.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
 <name>MP3 Streams</name>
 <link>plugin://plugin.audio.mp3streams</link>
 <thumbnail></thumbnail>
