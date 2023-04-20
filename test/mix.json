@@ -177,8 +177,13 @@
         },
         {
             "type": "item",
-            "title": "Bein Sport 2 HD",
-            "link": "https://epg.pw/stream/8a53d099d0cc92cc7e9041b538c4181374a30720d48ff233f8eb0ec0bfb0446a.ctv"
+            "title": "Ziggo Sport",
+            "link": "https://epg.pw/stream/44f1360561b92d031b99ed57d94c85bbc2b66dcdf17334be522054262a391db7.ctv"
+        },
+        {
+            "type": "item",
+            "title": "X Sport",
+            "link": "https://epg.pw/stream/daff8f637d98f1ba568a3a402e5bfea11391f3f51d6a9e792cefdf5ac0f48a8e.ctv"
         }
     ]
 }
