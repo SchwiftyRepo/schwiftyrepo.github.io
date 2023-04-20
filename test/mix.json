@@ -24,6 +24,11 @@
             "type": "dir",
             "title": "[COLORwhite]Free Sports Channels[/COLOR]",
             "link": "https://mad-eric.bitbucket.io/fsportz.json"
+        },
+        {
+            "type": "dir",
+            "title": "[COLORwhite]Test[/COLOR]",
+            "link": "https://schwiftyrepo.github.io/test/spt.xml"
         }
        
     ]
