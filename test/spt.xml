@@ -25,3 +25,5 @@ https://epg.pw/stream/2f025fe90826a17addd76213b13be0363819b0f2d5d9da7936519a12e7
 https://epg.pw/stream/2ac3f359ccc591cc02788ff47467007ae96967b76f69cdfab108f70790248b0b.ctv
 #EXTINF:-1 tvg-name="Eir Sport 1" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/03/20170303121401611433_54.png" group-title="United Kingdom",[BD]eir sports 1 4k+
 https://epg.pw/stream/2439c3deae6fb2d3a9eac447a493e33238803f66cbd9870bb665b095dbe0b6f6.ctv
+#EXTINF:-1 tvg-name="EuroSport 2 HD UK" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/11/20150211200901737509_55.jpg" group-title="United Kingdom",[BD]eurosport1 hd@@2
+https://epg.pw/stream/8a17de165258b32377e3855ca7fdbeab0b78e6269e365b9569af68186962b239.m3u8
