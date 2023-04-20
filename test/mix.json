@@ -132,8 +132,58 @@
         },
         {
             "type": "item",
-            "title": "Star Sport 1",
-            "link": "https://epg.pw/stream/cf68bdbb4ab0b3b2c2f34335ea4bd5f851ef63945bed5b19a520bd8a9a828775.m3u8"
+            "title": "Bein Sports",
+            "link": "https://epg.pw/stream/8a53d099d0cc92cc7e9041b538c4181374a30720d48ff233f8eb0ec0bfb0446a.ctv"
+        },
+        {
+            "type": "item",
+            "title": "Astro Supersports 1",
+            "link": "https://epg.pw/stream/a8ccbf38eba655fa8f3b9d355441ca9c83fc495ca98ffdd2f81f58a3a9bea89b.ctv"
+        },
+        {
+            "type": "item",
+            "title": "Astro Supersports 1",
+            "link": "https://epg.pw/stream/9420e53ebd1e35fdeee4ceb23abc2c8d1a1a763981c4afe5b55c586b92f515a8.ctv"
+        },
+        {
+            "type": "item",
+            "title": "Astro Supersports 1",
+            "link": "https://epg.pw/stream/9728a55716c43a9a92fd97bfeccb4d4df360bf91d12fd7b2cde6571d85f483d4.ctv"
+        },
+        {
+            "type": "item",
+            "title": "Astro Supersports 2",
+            "link": "https://epg.pw/stream/1f7bc5874d9b02c61e531fbeaaf41f19633f5062de8caa2460b6e2af9dd19ffa.ctv"
+        },
+        {
+            "type": "item",
+            "title": "Astro Supersports 2",
+            "link": "https://epg.pw/stream/0572a61ec4a4998a1c76061fd80a35351b1586fe842c06154f3ec1951632922e.ctv"
+        },
+        {
+            "type": "item",
+            "title": "Astro Supersports 3",
+            "link": "https://epg.pw/stream/daa14b9eb342f1c51ac21a07420169a5500d52a999fda3c8522c8657a09f9f2f.ctv"
+        },
+        {
+            "type": "item",
+            "title": "Astro Supersports 3",
+            "link": "https://epg.pw/stream/3cb6cf2791f4c33f632f3f7fca8605cc31213cd726598b624362e2507fbcf920.ctv"
+        },
+        {
+            "type": "item",
+            "title": "Astro Supersports 4",
+            "link": "https://epg.pw/stream/1915aa09b086cd94645a306fccf83f09bc2323e20227782cc149173039422e0f.ctv"
+        },
+        {
+            "type": "item",
+            "title": "Astro Supersports 4",
+            "link": "https://epg.pw/stream/0a5556038fb3bc1916d5ed01d6bf368e4a2cc2df6463e29c7b90fceaa8b4eac9.ctv"
+        },
+        {
+            "type": "item",
+            "title": "Astro Supersports 5",
+            "link": "https://epg.pw/stream/9a05326577ef03eef61974a84f40375e927b6d25873e497836698dd9cfceab9b.ctv"
         }
     ]
 }
