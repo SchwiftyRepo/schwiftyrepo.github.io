@@ -87,11 +87,6 @@
         },
         {
             "type": "item",
-            "title": "Sky Sports Main Event",
-            "link": "https://epg.pw/stream/164ef066a50dc8515e831e5ffb3f9b54b53a639fd7f0065b3528b10958b39902.ctv"
-        },
-        {
-            "type": "item",
             "title": "Sky Prem League",
             "link": "https://epg.pw/stream/7ed58ecb5b9b232520aef16452ed9911e1e5c13cb6f09547a968e715997519ca.ctv"
         },
@@ -129,11 +124,6 @@
             "type": "item",
             "title": "Sky Sports Racing",
             "link": "https://epg.pw/stream/a430af9c8949f5389b756393a2e3f2775f27657d5abc763a4f999fe267496e87.ctv"
-        },
-        {
-            "type": "item",
-            "title": "Bein Sports",
-            "link": "https://epg.pw/stream/8a53d099d0cc92cc7e9041b538c4181374a30720d48ff233f8eb0ec0bfb0446a.ctv"
         },
         {
             "type": "item",
@@ -184,6 +174,11 @@
             "type": "item",
             "title": "Astro Supersports 5",
             "link": "https://epg.pw/stream/9a05326577ef03eef61974a84f40375e927b6d25873e497836698dd9cfceab9b.ctv"
+        },
+        {
+            "type": "item",
+            "title": "Bein Sport 1 HD",
+            "link": "https://epg.pw/stream/33de3f2d530b48ced0a2928257c2e5c389e4a0b6a1a1ae02aadae55fb3770a2e.ctv"
         }
     ]
 }
