@@ -14,6 +14,11 @@
             "type": "dir",
             "title": "[COLORwhite]Non-English Audio[/COLOR]",
             "link": "https://schwiftyrepo.github.io/test/for.xml"
+        },
+        {
+            "type": "dir",
+            "title": "[COLORwhite]Non-English Audio*[/COLOR]",
+            "link": "https://archive.org/download/for_20230420/for.xml"
         }
        
     ]
