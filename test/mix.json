@@ -177,6 +177,26 @@
         },
         {
             "type": "item",
+            "title": "DAZN F1",
+            "link": "https://epg.pw/stream/cb84349543a0a046d8f18bf93cde81e16cc38adac09b27ceaa661fd6e08ffb40.ctv"
+        },
+        {
+            "type": "item",
+            "title": "DAZN F1",
+            "link": "https://epg.pw/stream/285597e8e275c1ec271cc5c2b2b3a848b7334c96dc454cb3caa457370c2ca8fc.ctv"
+        },
+        {
+            "type": "item",
+            "title": "DAZN F1",
+            "link": "https://epg.pw/stream/90c3f70d3c048aa14f0058a51a0eb75c397909bb32febee409adbf175a3d2178.ctv"
+        },
+        {
+            "type": "item",
+            "title": "DAZN 1",
+            "link": "https://epg.pw/stream/c7d05cf1c8a1c8c27d69637047ae40a2f70517129079bf6a92dcdd6ed8a3dc53.ctv"
+        },
+        {
+            "type": "item",
             "title": "Ziggo Sport",
             "link": "https://epg.pw/stream/44f1360561b92d031b99ed57d94c85bbc2b66dcdf17334be522054262a391db7.ctv"
         },
@@ -184,6 +204,11 @@
             "type": "item",
             "title": "X Sport",
             "link": "https://epg.pw/stream/daff8f637d98f1ba568a3a402e5bfea11391f3f51d6a9e792cefdf5ac0f48a8e.ctv"
+        },
+        {
+            "type": "item",
+            "title": "ESPN",
+            "link": "https://epg.pw/stream/7416cf37010341bc6bf6e611d580174314d591d63b1f2cd6882f91c694051c0c.ctv"
         }
     ]
 }
