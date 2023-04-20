@@ -102,11 +102,6 @@
         },
         {
             "type": "item",
-            "title": "Sky Sports NFL",
-            "link": "https://epg.pw/stream/76db977d8c118970607f7f0cdbafcb2e8800464806c021a76e8c8f7db059ac1b.m3u8"
-        },
-        {
-            "type": "item",
             "title": "Sky Sports F1",
             "link": "https://epg.pw/stream/e7b98ff73e023352f7de64aead29db82769598badffdc14fa00383974595bab0.ctv"
         },
@@ -179,6 +174,11 @@
             "type": "item",
             "title": "Bein Sport 1 HD",
             "link": "https://epg.pw/stream/33de3f2d530b48ced0a2928257c2e5c389e4a0b6a1a1ae02aadae55fb3770a2e.ctv"
+        },
+        {
+            "type": "item",
+            "title": "Bein Sport 2 HD",
+            "link": "https://epg.pw/stream/8a53d099d0cc92cc7e9041b538c4181374a30720d48ff233f8eb0ec0bfb0446a.ctv"
         }
     ]
 }
