@@ -4,6 +4,11 @@
             "type": "dir",
             "title": "[COLORwhite]English Audio[/COLOR]",
             "link": "https://schwiftyrepo.github.io/test/eng.xml"
+        },
+        {
+            "type": "dir",
+            "title": "[COLORwhite]English Audio*[/COLOR]",
+            "link": "https://archive.org/download/eng_20230420/eng.xml"
         }
        
     ]
