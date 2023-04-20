@@ -27,9 +27,6 @@ https://epg.pw/stream/2ac3f359ccc591cc02788ff47467007ae96967b76f69cdfab108f70790
 https://epg.pw/stream/2439c3deae6fb2d3a9eac447a493e33238803f66cbd9870bb665b095dbe0b6f6.ctv
 #EXTINF:-1 tvg-name="EuroSport 2 HD UK" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/11/20150211200901737509_55.jpg" group-title="United Kingdom",[BD]eurosport1 hd@@2
 https://epg.pw/stream/8a17de165258b32377e3855ca7fdbeab0b78e6269e365b9569af68186962b239.m3u8
-#EXTINF:-1 tvg-name="Football UK" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114203553929017_16.png" group-title="United Kingdom",[BD]sky sp football fhd
+#EXTINF:-1 tvg-name="Sky Football" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114203553929017_16.png" group-title="United Kingdom",[BD]sky sp football fhd
 https://epg.pw/stream/223c1acebefd05f36a884fd0bde0adb9d2e385dd32bb4e174e65f8917041434d.ctv
-#EXTINF:-1 tvg-name="Football UK" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114203553929017_16.png" group-title="United Kingdom",[HD]pro football focus
-https://epg.pw/stream/705a2fbe8672a94325065b5e267f67472934cf84ae5184cce3395841ee98e7f1.m3u8
-#EXTINF:-1 tvg-name="Football UK" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114203553929017_16.png" group-title="United Kingdom",[BD]football hub[geo-blocked]
-https://epg.pw/stream/99452762b7ff683edaa090b47762a65d7d0dde2459f7cea2ec0bcc8b3c96475b.m3u8
+
