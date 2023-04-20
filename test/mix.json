@@ -63,11 +63,6 @@
         {
             "type": "item",
             "title": "Sky Sports Main Event",
-            "link": "https://epg.pw/stream/164ef066a50dc8515e831e5ffb3f9b54b53a639fd7f0065b3528b10958b39902.ctv"
-        },
-        {
-            "type": "item",
-            "title": "Sky Sports Main Event",
             "link": "https://epg.pw/stream/b14c960f5b8075fd0ff37f3c7c83f08a15a92bb9fcaacaae0ff995d74bd2c1ce.ctv"
         },
         {
@@ -92,6 +87,11 @@
         },
         {
             "type": "item",
+            "title": "Sky Sports Main Event",
+            "link": "https://epg.pw/stream/164ef066a50dc8515e831e5ffb3f9b54b53a639fd7f0065b3528b10958b39902.ctv"
+        },
+        {
+            "type": "item",
             "title": "Sky Prem League",
             "link": "https://epg.pw/stream/7ed58ecb5b9b232520aef16452ed9911e1e5c13cb6f09547a968e715997519ca.ctv"
         },
@@ -109,6 +109,16 @@
             "type": "item",
             "title": "Sky Sports NFL",
             "link": "https://epg.pw/stream/76db977d8c118970607f7f0cdbafcb2e8800464806c021a76e8c8f7db059ac1b.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Sky Sports F1",
+            "link": "https://epg.pw/stream/e7b98ff73e023352f7de64aead29db82769598badffdc14fa00383974595bab0.ctv"
+        },
+        {
+            "type": "item",
+            "title": "Sky Sports Golf",
+            "link": "https://epg.pw/stream/6e60d55b004bec456cc760391203e0fa6d64a3b06ea7dfae7437cb3ac7ad0215.ctv"
         },
         {
             "type": "item",
