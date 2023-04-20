@@ -129,6 +129,11 @@
             "type": "item",
             "title": "Sky Sports Racing",
             "link": "https://epg.pw/stream/a430af9c8949f5389b756393a2e3f2775f27657d5abc763a4f999fe267496e87.ctv"
+        },
+        {
+            "type": "item",
+            "title": "Star Sport 1",
+            "link": "https://epg.pw/stream/cf68bdbb4ab0b3b2c2f34335ea4bd5f851ef63945bed5b19a520bd8a9a828775.m3u8"
         }
     ]
 }
