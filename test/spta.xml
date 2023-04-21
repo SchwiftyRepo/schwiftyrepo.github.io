@@ -643,6 +643,50 @@ https://epg.pw/stream/0721f7591eff676271a7dfdb11367eede147635f978bcf8d7a58bce40b
 https://epg.pw/stream/31ec150eb77eff54bfacce6f986d75d1c3c79ba2384221151778bed127737794.m3u8
 #EXTINF:-1 tvg-name="Eleven Sports2" tvg-id="2875" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2018/01/17/large/20180117201314378740_23.png" group-title="Taiwan",[HD]eleven sports 3 hd [geo-blocked]
 https://epg.pw/stream/b92ee9e4574f5d5ca7cb270ae98bc38f48a3c2e2d3c84c2aa7f4b88b7031f077.m3u8
+#EXTINF:-1 tvg-name="Dubai Racing 2 TV" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163800003846_85.png" group-title="United Arab Emirates",[BD]dubai racing 2@@2[geo-blocked]
+https://epg.pw/stream/af0737c02d0e54efdc790ff14759af65e52493e99ff3f5f136c307eaa216d385.m3u8
+#EXTINF:-1 tvg-name="Dubai Racing 2 TV" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163800003846_85.png" group-title="United Arab Emirates",[BD]abu dubai racing 2
+https://epg.pw/stream/5fb787ab46e304b4b0dcbec01f3416a5c2f1dbd142e66bc3a85cb47b9116788e.m3u8
+#EXTINF:-1 tvg-name="Dubai Racing 2 TV" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163800003846_85.png" group-title="United Arab Emirates",[BD]dubai racing 2@@8
+https://epg.pw/stream/b2f8d22d4354ec1b760da46850ad603ac74c2fc500c1eb41073bc5d96a6c2937.m3u8
+#EXTINF:-1 tvg-name="Dubai Racing 2 TV" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163800003846_85.png" group-title="United Arab Emirates",[BD]dubai tv@@2[geo-blocked]
+https://epg.pw/stream/0a2ebdd3c20a54dbc4d40eff33cd31a2f8ae85e0d05931a12628a99e2bc4f5a2.m3u8
+#EXTINF:-1 tvg-name="Dubai Racing 2 TV" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163800003846_85.png" group-title="United Arab Emirates",[VGA]dubai racing 2@@3
+https://epg.pw/stream/bc0eb6d4fe80d614703ede71c9c3dc0fe984861a140be0facceee7e12e0682e0.m3u8
+#EXTINF:-1 tvg-name="Dubai Racing TV" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163758715519_39.png" group-title="United Arab Emirates",[VGA]DUBAI RACING UAE
+https://epg.pw/stream/2e4fab905cb26647d61ed6b722c758a8ff5f6457115cc98da422687644f805d3.m3u8
+#EXTINF:-1 tvg-name="Dubai Racing TV" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163758715519_39.png" group-title="United Arab Emirates",[BD]dubai racing 3@@3
+https://epg.pw/stream/308df14e5ded5d92fed9a58e0838e0f11d92b23f64981012bd2ae58c71d456f0.m3u8
+#EXTINF:-1 tvg-name="Dubai Racing TV" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163758715519_39.png" group-title="United Arab Emirates",[BD]dubai tv[geo-blocked]
+https://epg.pw/stream/c1d2e6da3e68800be95df84a7fdc77c4db4ce476ad5a9cdf22063a0dce00bdae.m3u8
+#EXTINF:-1 tvg-name="Dubai Racing TV" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163758715519_39.png" group-title="United Arab Emirates",[HD]dubai tv@@1
+https://epg.pw/stream/afce61e374ce6a17f53a80c7b3e1b21a6b520613e3b30026ffb6f613db2a1b72.m3u8
+#EXTINF:-1 tvg-name="Dubai Sport 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717150805793825_52.jpg" group-title="United Arab Emirates",[BD]dubai sports 2@@7
+https://epg.pw/stream/616e2f641330d1e9d30d579dadad096128700ce592bd95c65adb7a4485479f66.m3u8
+#EXTINF:-1 tvg-name="Dubai Sport 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717150805793825_52.jpg" group-title="United Arab Emirates",[BD]dubai sports 2@@10
+https://epg.pw/stream/f6e7c52de55f9c91edcaafd8029151ed68847aa01871b3831ad298cf38678718.m3u8
+#EXTINF:-1 tvg-name="Dubai Sport 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717150805793825_52.jpg" group-title="United Arab Emirates",[BD]dubai sports 3@@6
+https://epg.pw/stream/2eb5bb6e0674027bda43fac82d737a9680032f0291e1f5c0f8d21c18062984d9.m3u8
+#EXTINF:-1 tvg-name="Dubai Sport 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717150805793825_52.jpg" group-title="United Arab Emirates",[HD]dubai sports 3@@9
+https://epg.pw/stream/368bd386077353caba9dce8d7f120ec69377825911ca3d8625924c04743a4578.m3u8
+#EXTINF:-1 tvg-name="Dubai Sport 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717150805793825_52.jpg" group-title="United Arab Emirates",[BD]dubai sports 2@@11
+https://epg.pw/stream/243d321ed1e86b3d4c86a0ca0080dcfc71079a4a2f659ffd0f313d4b28d45e8b.m3u8
+#EXTINF:-1 tvg-name="Dubai Sport 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717150805793825_52.jpg" group-title="United Arab Emirates",[BD]dubai sports 3@@10
+https://epg.pw/stream/6ac22210859fdd4999ba5657530607a73eab0128782b8aef5dce7adfec65adc3.m3u8
+#EXTINF:-1 tvg-name="Dubai Sport 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717150805793825_52.jpg" group-title="United Arab Emirates",[BD]dubai sports 2@@4
+https://epg.pw/stream/abbadea370d35ba3a9f44df50a0f09f3c297592c99a6afb7e9e88ec7b54d87c2.m3u8
+#EXTINF:-1 tvg-name="Dubai Sport 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717150805793825_52.jpg" group-title="United Arab Emirates",[HD]dubai sports 2@@1
+https://epg.pw/stream/b4e304c20bb8fe8a36449c6cc149af811a93f593f5090e6330f85066d84ba391.m3u8
+#EXTINF:-1 tvg-name="Dubai Sport 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717150805793825_52.jpg" group-title="United Arab Emirates",[BD]dubai sports 3@@1
+https://epg.pw/stream/5f9a9496b1d6f9e0aac99be2ca176a10b548aa2bd5c658dc6312d2dffa68050a.m3u8
+#EXTINF:-1 tvg-name="Dubai Sport 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717150805793825_52.jpg" group-title="United Arab Emirates",[BD]dubai sports 2@@9
+https://epg.pw/stream/8245621098d8b4c175189810f13816bb3f262f477e70cf39b31386b65a4d01c4.m3u8
+#EXTINF:-1 tvg-name="Dubai Sport 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717150805793825_52.jpg" group-title="United Arab Emirates",[BD]dubai sports 3@@8
+https://epg.pw/stream/341f133d229a678831fe517745c64712455a83b8d0d9557b20da6022a50eedb4.m3u8
+#EXTINF:-1 tvg-name="Dubai Sport 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717150805793825_52.jpg" group-title="United Arab Emirates",[BD]dubai sports 2@@6
+https://epg.pw/stream/cd5836b2c98726c130ec7706a1ea088e1f316bf5f0625ad89318952b6fb5240c.m3u8
+#EXTINF:-1 tvg-name="Dubai Sport 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717150805793825_52.jpg" group-title="United Arab Emirates",[BD]dubai sports 3@@5
+https://epg.pw/stream/518c402d4575e2134d9c1045722bc96fecabad98fdc3544b1f442bbb12e289e4.m3u8
 
 
 
