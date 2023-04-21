@@ -169,22 +169,6 @@ https://epg.pw/stream/bf090d3dba2dc4472ddbaa1a7aac1c5cf809fbf445eee892746c95a921
 https://epg.pw/stream/e72d021b0cbf0fa154b2fc784227bef47ba1c26af1cc51805ea71a22be82469f.m3u8
 #EXTINF:-1 tvg-name="Supersport Football" tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/26/large/20220926002335030574_38.jpg" group-title="South Africa",[BD]supersports football[geo-blocked]
 https://epg.pw/stream/6ce3b3b67b5c9dfeb4b5f01e8a8004bf867686cb41ee4267c6e1208f14f2e1e0.ctv
-#EXTINF:-1 tvg-name="Trace Sport Stars" tvg-id="52106" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_283.jpg" group-title="France",[BD]trace sport stars@@1[geo-blocked]
-https://epg.pw/stream/ea480b1f8839c3160d0da815e7055f56867e7991526ea88c3d8fd35bf28289af.m3u8
-#EXTINF:-1 tvg-name="Trace Sport Stars" tvg-id="52106" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_283.jpg" group-title="France",[BD]trace sportstars[geo-blocked]
-https://epg.pw/stream/1f3015376c789cce07104ea9e4a6dae9172ae4c526783a5bfc54b23501075335.m3u8
-#EXTINF:-1 tvg-name="Trace Sport Stars" tvg-id="52106" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_283.jpg" group-title="France",[HD]trace sport stars
-https://epg.pw/stream/0a407da7991b85751eaac47eaa8c0602c8de2cd79dd01181e82d1e0fa1e23745.m3u8
-#EXTINF:-1 tvg-name="Trace Sport Stars" tvg-id="52106" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_283.jpg" group-title="France",[VGA]trace sport (alt)
-https://epg.pw/stream/e399071b6e12573cadffd740b9e3245731bbecac613cee57a09b56be398d031a.m3u8
-#EXTINF:-1 tvg-name="Trace Sport Stars" tvg-id="52106" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_283.jpg" group-title="France",[VGA]trace sport
-https://epg.pw/stream/e7ddf6e7ff2a293c56c2e77b6ce75abc48e0ee650aef97cba5f41e3607c0964c.m3u8
-#EXTINF:-1 tvg-name="Trace Sport Stars" tvg-id="52106" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_283.jpg" group-title="France",[BD]Trace Sport Stars
-https://epg.pw/stream/daaf418431a931525ce042dd216ab6c2b853b09590a2f2848a1fb91ee65e553c.m3u8
-#EXTINF:-1 tvg-name="Trace Sports" tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601224709623811_96.png" group-title="France",[HD]trace sports
-https://epg.pw/stream/657cca7802f90c3c977713be6f0f916b80601c3169cdbf9ffb8d606ae498ba7c.m3u8
-#EXTINF:-1 tvg-name="Trace Sports" tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601224709623811_96.png" group-title="France",[BD]tracesports
-https://epg.pw/stream/75753abfbdce89e72b5ec50f979fed6cc1e5080fdb30001f3d0c29b1ae2a1bc1.m3u8
 #EXTINF:-1 tvg-name="as monaco tv" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/24/20151224123109126417_37.jpg" group-title="France",[HD]Monaco Info (720p) [Not 24/7][geo-blocked]
 https://epg.pw/stream/d187aac01bffa911a44227760305a92351502afa159c0f1ffbb8fbb7959c9ffc.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS France" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205528546352_18.png" group-title="France",[BD]sport en france@@2
