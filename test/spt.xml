@@ -321,5 +321,13 @@ https://epg.pw/stream/fbd60d8c8bb7c7ee487f6d1709e347bcab8383ae34449c4645b4126e00
 https://epg.pw/stream/08d9fdfa1eaa063c7992aa241ea7bd0cc660b7bab04dfb94de98a404951ac90b.m3u8
 #EXTINF:-1 tvg-name="Bein sport1 - Ar " tvg-id="" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/20/20160920022700717507_18.png" group-title="Qatar",[SD]sport1[geo-blocked]
 https://epg.pw/stream/509e9b00fefdd9fff7526a3cb5a5f658b468be6cbcc20686539bbb27c5267d1e.m3u8
+#EXTINF:-1 tvg-name="CSI Web Tv" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205540041026_31.png" group-title="Italy",[HD]csi@@2[geo-blocked]
+https://epg.pw/stream/f5d7bb87d199bff548adf951c57185a2b80ed58ef27d47e49a83ca32e72049f5.m3u8
+#EXTINF:-1 tvg-name="CSI Web Tv" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205540041026_31.png" group-title="Italy",[HD]CSI[geo-blocked]
+https://epg.pw/stream/c86f499751e64fb4291eedaeaf3f8fe2fc86fb923fd6c672c58545bfdb0bb392.m3u8
+#EXTINF:-1 tvg-name="CSI Web Tv" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205540041026_31.png" group-title="Italy",[HD]csi@@1[geo-blocked]
+https://epg.pw/stream/9ca5db6b0c8b15e20866744a681d90eab7098da327404289ddd10620d19ebcd5.m3u8
+#EXTINF:-1 tvg-name="CSI Web Tv" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205540041026_31.png" group-title="Italy",[HD]CSI[geo-blocked]
+https://epg.pw/stream/1ccfdf9a6225bd644a348df9aa873f78a7995bf6de8412ffae9ca173b926132b.m3u8
 
 
