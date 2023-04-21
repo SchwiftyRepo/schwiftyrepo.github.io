@@ -225,5 +225,101 @@ https://epg.pw/stream/e8fe4927894959696606f511088d22c6dd4034a210bd517002dcede729
 https://epg.pw/stream/7833caa91e07ac4544ddeba751cbee8076aa3fd1cc4a47aa62ec97dbfbb00da9.m3u8
 #EXTINF:-1 tvg-name="A-sport" tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Kurdistan",[BD]alfa sport[geo-blocked]
 https://epg.pw/stream/f8b68ec12d1def75360cae3634b448ea866a4ed14d88b84c3d54d7bd42e4c906.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174925938480_69.png" group-title="United Arab Emirates",[BD]abu dhabi sport 1[geo-blocked]
+https://epg.pw/stream/d5805d34cbfe43189a91b1f6617a299125238a84bf768157311d4ce6f3a8ea80.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174925938480_69.png" group-title="United Arab Emirates",[BD]abu dhabi sports 1@@5[geo-blocked]
+https://epg.pw/stream/d075710487859f7895e61e403e8deae39e0ce0ff98c50d798aa8edc2b3739a66.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174925938480_69.png" group-title="United Arab Emirates",[BD]abu dhabi[geo-blocked]
+https://epg.pw/stream/e55e958427221a0bb547a6e39e83d7a22c099ec3371f37d9ef60e00810e888ea.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174925938480_69.png" group-title="United Arab Emirates",[HD]abu dhabi sports 1@@1
+https://epg.pw/stream/599192beef0b5f5623625d4660d26ef6bd681156f8a7807094d8d852b085155f.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174925938480_69.png" group-title="United Arab Emirates",[HD]abu dhabi sports 2@@1
+https://epg.pw/stream/99f089a8e02ce14dd135d8b4d7332f338308e2a0b6ee3f1f02f659a60fbc5d18.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174925938480_69.png" group-title="United Arab Emirates",[BD]abu dhabi sports 1@@4[geo-blocked]
+https://epg.pw/stream/54e2b921fc420062cc335424629ae4f31151e8e2a2ded781473ee8ba9e55162f.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 2" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174542887402_10.png" group-title="United Arab Emirates",[VGA]Abu Dhabi Sports 2[geo-blocked]
+https://epg.pw/stream/839faa2050c81c22863b82649a8dd2d84e1930f47f0ebefa8c06d4e6824f320a.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 2" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174542887402_10.png" group-title="United Arab Emirates",[BD]abu dhabi sports 2@@6[geo-blocked]
+https://epg.pw/stream/2ffe4134ad5b756c7e336e0746f7d13681c64b63a48b79cffb2277fa0254bedf.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 5" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/31/20170131130408254356_41.png" group-title="United Arab Emirates",[BD]Abu Dhabi Sports[geo-blocked]
+https://epg.pw/stream/1471be707ba0bcb86742a993f08a9b89e070a9d1038139988d3adef7e79edf38.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 5" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/31/20170131130408254356_41.png" group-title="United Arab Emirates",[BD]abu dhabi sports 2@@5[geo-blocked]
+https://epg.pw/stream/a00f8cbc9ae95b08a1669dd99da421593150f2c429b892d8096c867cfc4793ae.m3u8
+#EXTINF:-1 tvg-name="Arena Sport" tvg-id="" tvg-country="Croatia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/18/20140518040405912889_73.png" group-title="Croatia",[BD]arena sport 5 hd.
+https://epg.pw/stream/473f8945a19d974733e3c9b1b84838f7b9d3d0268b60060075b9e4ba986a709e.ctv
+#EXTINF:-1 tvg-name="Arena Sport" tvg-id="" tvg-country="Croatia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/18/20140518040405912889_73.png" group-title="Croatia",[BD]arena sport 4[geo-blocked]
+https://epg.pw/stream/d710bce7fe459d241fededfc512add2a73225144fc788352b578293e65e29fec.m3u8
+#EXTINF:-1 tvg-name="Arena Sport" tvg-id="" tvg-country="Croatia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/18/20140518040405912889_73.png" group-title="Croatia",[BD]arena sport 3 hd[geo-blocked]
+https://epg.pw/stream/235f6f712a64ca2d8910d5586a992eb1394878bea95dc92a1726082f61bec58e.m3u8
+#EXTINF:-1 tvg-name="Arena Sport" tvg-id="" tvg-country="Croatia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/18/20140518040405912889_73.png" group-title="Croatia",[BD]arena sport 6@@1[geo-blocked]
+https://epg.pw/stream/b1b866a4633154d7e24374f54f7677eabfbaeba4a5d3720d8b6d9bb2667c1ba6.m3u8
+#EXTINF:-1 tvg-name="Astro Supersports 1" tvg-id="3397" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162758081741_50.jpg" group-title="Malaysia",[BD]astro supersport 10@@1
+https://epg.pw/stream/a8ccbf38eba655fa8f3b9d355441ca9c83fc495ca98ffdd2f81f58a3a9bea89b.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 1" tvg-id="3397" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162758081741_50.jpg" group-title="Malaysia",[BD]astro supersport 1@@1
+https://epg.pw/stream/9420e53ebd1e35fdeee4ceb23abc2c8d1a1a763981c4afe5b55c586b92f515a8.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 1" tvg-id="3397" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162758081741_50.jpg" group-title="Malaysia",[HD]astro supersport@@1
+https://epg.pw/stream/9728a55716c43a9a92fd97bfeccb4d4df360bf91d12fd7b2cde6571d85f483d4.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 2" tvg-id="3387" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="Malaysia",[BD]astro supersport 2@@1
+https://epg.pw/stream/1f7bc5874d9b02c61e531fbeaaf41f19633f5062de8caa2460b6e2af9dd19ffa.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 2" tvg-id="3387" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="Malaysia",[BD]astro supersport 2 fhd
+https://epg.pw/stream/0572a61ec4a4998a1c76061fd80a35351b1586fe842c06154f3ec1951632922e.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 3" tvg-id="3406" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162857392352_67.jpg" group-title="Malaysia",[BD]astro supersport 3@@2
+https://epg.pw/stream/daa14b9eb342f1c51ac21a07420169a5500d52a999fda3c8522c8657a09f9f2f.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 3" tvg-id="3406" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162857392352_67.jpg" group-title="Malaysia",[BD]astro supersport 3
+https://epg.pw/stream/3cb6cf2791f4c33f632f3f7fca8605cc31213cd726598b624362e2507fbcf920.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astro super sport 4k
+https://epg.pw/stream/1915aa09b086cd94645a306fccf83f09bc2323e20227782cc149173039422e0f.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astro supersport 4@@3
+https://epg.pw/stream/0a5556038fb3bc1916d5ed01d6bf368e4a2cc2df6463e29c7b90fceaa8b4eac9.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astro supersport 8@@1
+https://epg.pw/stream/949bbecd8ee24b534969f586dfed17cab3d22dfaa09128105e82c62e19fc3e52.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astro supersport 9@@1[geo-blocked]
+https://epg.pw/stream/d8854481281de28b4d7ab801a81adce13127134535cf9a3a68b76c29cdf3184a.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astro supersport 7@@1
+https://epg.pw/stream/e89a260d65d30eb6e47e321992a34e578c0c273b715a91557dfae805d67c49b3.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astro supersport 6@@1
+https://epg.pw/stream/5094d4ee5946f6cb92efbe229739657f798ad56b04b68c410d7fccbd27a84a5f.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astrosupersport
+https://epg.pw/stream/cad7f9a7b0206e4ba32464cb43a1bf24a9568731a0bc5c1da77eae0d6846aa75.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[HD]astro supersport 4@@1
+https://epg.pw/stream/304360e2a0fac0478f60e036430dcf8b1c463ee3f49050ab35d6400d42c33d09.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[HD]astro supersport 4[geo-blocked]
+https://epg.pw/stream/62676c69ec67efdddbc06dbd1b14c407439574431589848773aa337bc8249f83.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[HD]astro supersport[geo-blocked]
+https://epg.pw/stream/c7de0cce6cfc6952c0cdd1cb927b5187bef41a29790edc801dfef3fa197bb558.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 5" tvg-id="7806" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162956180653_58.jpg" group-title="Malaysia",[BD]astro supersport 5@@1[geo-blocked]
+https://epg.pw/stream/9a05326577ef03eef61974a84f40375e927b6d25873e497836698dd9cfceab9b.ctv
+#EXTINF:-1 tvg-name="BEIN SPORT 1 HD " tvg-id="7189" tvg-country="United Arab Emirates" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/13/large/20160613225651926400_64.png" group-title="United Arab Emirates",[HD]bein sports 1 hd@@3[geo-blocked]
+https://epg.pw/stream/33de3f2d530b48ced0a2928257c2e5c389e4a0b6a1a1ae02aadae55fb3770a2e.ctv
+#EXTINF:-1 tvg-name="BEIN SPORT Ar2" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/25/20161225034447187747_87.jpg" group-title="United Arab Emirates",[BD]bein sport 4k
+https://epg.pw/stream/8a53d099d0cc92cc7e9041b538c4181374a30720d48ff233f8eb0ec0bfb0446a.ctv
+#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-id="4223" tvg-country="Saudi Arabia" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2019/09/07/large/20190907150947924872_73.jpg" group-title="Saudi Arabia",[HD]bein sports 1
+https://epg.pw/stream/75de084b2e05f80ad77f0ed378a056da5676bd1f472943b505547b1d8bcb7126.ctv
+#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-id="4228" tvg-country="Saudi Arabia" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2019/09/07/large/20190907151834997633_57.jpg" group-title="Saudi Arabia",[HD]bein sports xtra@@2[geo-blocked]
+https://epg.pw/stream/a57af7c7b002a8f8bdcf284ab4c09b7e1678203f8f7e7888994d9863a4053eb6.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-id="4228" tvg-country="Saudi Arabia" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2019/09/07/large/20190907151834997633_57.jpg" group-title="Saudi Arabia",[SD]bein sports ñ[geo-blocked]
+https://epg.pw/stream/257768507855418045e0d8b6e8d1979999253f06e35efe800831d8bd05289943.ctv
+#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-id="4228" tvg-country="Saudi Arabia" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2019/09/07/large/20190907151834997633_57.jpg" group-title="Saudi Arabia",[HD]bein sports 7@@1
+https://epg.pw/stream/a2867c004f0ecc58f616e960bb33d6a4482cd03a4868c16232333d91ad6dd2d8.ctv
+#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-id="4228" tvg-country="Saudi Arabia" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2019/09/07/large/20190907151834997633_57.jpg" group-title="Saudi Arabia",[HD]bein sports xtra ñ@@2[geo-blocked]
+https://epg.pw/stream/3be75a40b4a814d1c4a13e4795402cf2fb364ba41948acb291e33637cc338719.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-id="4228" tvg-country="Saudi Arabia" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2019/09/07/large/20190907151834997633_57.jpg" group-title="Saudi Arabia",[BD]bein sports fhd 2
+https://epg.pw/stream/f3e8321e0cf2467172678ce2d8b702b810461d0e35c0d394574f6f0317a1a9ed.m3u8
+#EXTINF:-1 tvg-name="Bein Sport Max 5 Qatar (English)" tvg-id="" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722072933561377_54.png" group-title="Qatar",[BD]bein sport 5
+https://epg.pw/stream/5e8552f202a32dda31f3ab0b29415fba25654e2f4eacd904c8293e24fab4cf5f.ctv
+#EXTINF:-1 tvg-name="Bein Sports 3 France (English)" tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/05/21/large/20150521021119496002_85.jpg" group-title="France",[VGA]dw english@@3[geo-blocked]
+https://epg.pw/stream/b4904e6386f255b374f2bda21746c8bf95db38c582781326db710c659e7d85b6.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 5 France (English)" tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022211356623_79.png" group-title="France",[BD]bein sports 5@@1
+https://epg.pw/stream/03170e8df8eadd3aa14ef83f6dbb16f191cd02359240a0e613ea3ad58a45d61c.ctv
+#EXTINF:-1 tvg-name="Bein Sports 5 France (English)" tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022211356623_79.png" group-title="France",[BD]dw english@@5[geo-blocked]
+https://epg.pw/stream/b30bdcf1ff1a96e2736e01180d48e1ecc5c7d11a1e373da3743a0f7de3abe964.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 6 France (English)" tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022303746688_68.png" group-title="France",[BD]bein sports 6@@1
+https://epg.pw/stream/7f114c34c12a983b6953b20e8961a118ab55c3f5ad06512fc59ea04b5df4768d.ctv
+#EXTINF:-1 tvg-name="Bein Sports HD" tvg-id="52139" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2018/01/14/large/20180114015113420144_45.jpg" group-title="France",[SD]bein sports hd
+https://epg.pw/stream/fbd60d8c8bb7c7ee487f6d1709e347bcab8383ae34449c4645b4126e00750c1d.ctv
+#EXTINF:-1 tvg-name="Bein Sports HD 1 France" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821103521518574_30.jpg" group-title="France",[BD]france 24 hd@@1[geo-blocked]
+https://epg.pw/stream/08d9fdfa1eaa063c7992aa241ea7bd0cc660b7bab04dfb94de98a404951ac90b.m3u8
+#EXTINF:-1 tvg-name="Bein sport1 - Ar " tvg-id="" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/20/20160920022700717507_18.png" group-title="Qatar",[SD]sport1[geo-blocked]
+https://epg.pw/stream/509e9b00fefdd9fff7526a3cb5a5f658b468be6cbcc20686539bbb27c5267d1e.m3u8
 
 
