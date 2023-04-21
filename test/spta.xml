@@ -425,28 +425,6 @@ https://epg.pw/stream/af3ed4fbae6613b5119093cca15e9efc3cd9467871066c84c79275992c
 https://epg.pw/stream/a5674e782731c1b2b885295a9a9cf89ff54be98fbcad49ca9211e6bc240e5c96.m3u8
 #EXTINF:-1 tvg-name="Real Madrid TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022323308714_51.png" group-title="Spain",[BD]real madrid tv@@6[geo-blocked]
 https://epg.pw/stream/f8effbddfd6fa8df98c4469d241790cc7cf3d6c186fbd1283fa638df41efc3a8.m3u8
-#EXTINF:-1 tvg-name="Now Sports 2" tvg-id="4208" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="Hong Kong",[BD]now sport hk 2@@1
-https://epg.pw/stream/25691f043f0d488ca20f90b1ebeee2b6400698aa88cc469c18f460ab799cba1f.ctv
-#EXTINF:-1 tvg-name="Now Sports 2" tvg-id="4208" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="Hong Kong",[BD]now sports 2
-https://epg.pw/stream/93a3d727ce84cd096b27b7663459d77a588eb0e1eda79be49dcb7c929ff5aebb.ctv
-#EXTINF:-1 tvg-name="Now Sports 2" tvg-id="4208" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="Hong Kong",[BD]now sports 2 hd
-https://epg.pw/stream/95af30f5a7e972127ed9bd310ce55ded0efbb78ea28afc65b8aac18113b5bc8f.ctv
-#EXTINF:-1 tvg-name="Now Sports 3" tvg-id="4211" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095639627752_84.jpg" group-title="Hong Kong",[BD]now sport hk 3@@1
-https://epg.pw/stream/b1b31b9919302205a9ead62295f33b57f6f9daf495d8fd1447344ac17eff2e92.ctv
-#EXTINF:-1 tvg-name="Now Sports 3" tvg-id="4211" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095639627752_84.jpg" group-title="Hong Kong",[HD]now sports 3
-https://epg.pw/stream/3847bbe2444b3fd54967b0e75f511971559d997d7b1a0b1be4fe1fdeb25dba57.ctv
-#EXTINF:-1 tvg-name="Now Sports 3" tvg-id="4211" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095639627752_84.jpg" group-title="Hong Kong",[VGA]tnt sports 3@@1
-https://epg.pw/stream/84403554a6e5d0316690e475672b2cd328983fea86c719f10fab9d56f4ca3630.ctv
-#EXTINF:-1 tvg-name="Now Sports 4" tvg-id="4213" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095725690158_52.jpg" group-title="Hong Kong",[HD]nova sports 4
-https://epg.pw/stream/0eb91980802099e06dcceb7c863c3307051a99ec61ba86b1a85bf90bb4f8dcad.ctv
-#EXTINF:-1 tvg-name="Now Sports 5" tvg-id="4216" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095851867371_23.jpg" group-title="Hong Kong",[BD]now sport hk 5@@1
-https://epg.pw/stream/ce68839f8a9cda194332af5c7517d3a5a5e2d274fd28f72ee2b120e2351f00d2.ctv
-#EXTINF:-1 tvg-name="Now Sports 5" tvg-id="4216" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095851867371_23.jpg" group-title="Hong Kong",[HD]tnt sports 5[geo-blocked]
-https://epg.pw/stream/b48b4b1dba044c3fdd16bfdb79245fba8942c57561b255007779174c9c930367.m3u8
-#EXTINF:-1 tvg-name="Now Sports 6" tvg-id="4218" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806100009683117_34.jpg" group-title="Hong Kong",[BD]now sport hk 6@@1[geo-blocked]
-https://epg.pw/stream/dd5731176cfa5e58bb337e9f09a25966e9e93c78c0c7925cb4561aab23adcc81.ctv
-#EXTINF:-1 tvg-name="Now Sports 7" tvg-id="4221" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806100138911158_22.jpg" group-title="Hong Kong",[BD]now sport hk 7@@1
-https://epg.pw/stream/c5036c51453ff9fbbc085756e6cbbc5c237d76cfba825d2c141bb6de3063ca2d.ctv
 #EXTINF:-1 tvg-name="Sony Ten2" tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/07/18/large/20220718125542724590_33.png" group-title="India",[HD]sony ten 4[geo-blocked]
 https://epg.pw/stream/6cde159802b9f069b9ba5516ec40064f4e1b27e16f39901da58d97686783539d.ctv
 #EXTINF:-1 tvg-name="Sony Ten2" tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/07/18/large/20220718125542724590_33.png" group-title="India",[BD]sony ten 5[geo-blocked]
@@ -673,3 +651,25 @@ https://epg.pw/stream/341f133d229a678831fe517745c64712455a83b8d0d9557b20da6022a5
 https://epg.pw/stream/cd5836b2c98726c130ec7706a1ea088e1f316bf5f0625ad89318952b6fb5240c.m3u8
 #EXTINF:-1 tvg-name="Dubai Sport 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717150805793825_52.jpg" group-title="United Arab Emirates",[BD]dubai sports 3@@5
 https://epg.pw/stream/518c402d4575e2134d9c1045722bc96fecabad98fdc3544b1f442bbb12e289e4.m3u8
+#EXTINF:-1 tvg-name="Now Sports 2" tvg-id="4208" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="02-EPL",[BD]now sport hk 2@@1
+https://epg.pw/stream/25691f043f0d488ca20f90b1ebeee2b6400698aa88cc469c18f460ab799cba1f.ctv
+#EXTINF:-1 tvg-name="Now Sports 2" tvg-id="4208" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="02-EPL",[BD]now sports 2
+https://epg.pw/stream/93a3d727ce84cd096b27b7663459d77a588eb0e1eda79be49dcb7c929ff5aebb.ctv
+#EXTINF:-1 tvg-name="Now Sports 2" tvg-id="4208" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="02-EPL",[BD]now sports 2 hd
+https://epg.pw/stream/95af30f5a7e972127ed9bd310ce55ded0efbb78ea28afc65b8aac18113b5bc8f.ctv
+#EXTINF:-1 tvg-name="Now Sports 3" tvg-id="4211" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095639627752_84.jpg" group-title="02-EPL",[BD]now sport hk 3@@1
+https://epg.pw/stream/b1b31b9919302205a9ead62295f33b57f6f9daf495d8fd1447344ac17eff2e92.ctv
+#EXTINF:-1 tvg-name="Now Sports 3" tvg-id="4211" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095639627752_84.jpg" group-title="02-EPL",[HD]now sports 3
+https://epg.pw/stream/3847bbe2444b3fd54967b0e75f511971559d997d7b1a0b1be4fe1fdeb25dba57.ctv
+#EXTINF:-1 tvg-name="Now Sports 3" tvg-id="4211" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095639627752_84.jpg" group-title="02-EPL",[VGA]tnt sports 3@@1
+https://epg.pw/stream/84403554a6e5d0316690e475672b2cd328983fea86c719f10fab9d56f4ca3630.ctv
+#EXTINF:-1 tvg-name="Now Sports 4" tvg-id="4213" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095725690158_52.jpg" group-title="02-EPL",[HD]nova sports 4
+https://epg.pw/stream/0eb91980802099e06dcceb7c863c3307051a99ec61ba86b1a85bf90bb4f8dcad.ctv
+#EXTINF:-1 tvg-name="Now Sports 5" tvg-id="4216" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095851867371_23.jpg" group-title="02-EPL",[BD]now sport hk 5@@1
+https://epg.pw/stream/ce68839f8a9cda194332af5c7517d3a5a5e2d274fd28f72ee2b120e2351f00d2.ctv
+#EXTINF:-1 tvg-name="Now Sports 5" tvg-id="4216" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095851867371_23.jpg" group-title="02-EPL",[HD]tnt sports 5[geo-blocked]
+https://epg.pw/stream/b48b4b1dba044c3fdd16bfdb79245fba8942c57561b255007779174c9c930367.m3u8
+#EXTINF:-1 tvg-name="Now Sports 6" tvg-id="4218" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806100009683117_34.jpg" group-title="02-EPL",[BD]now sport hk 6@@1[geo-blocked]
+https://epg.pw/stream/dd5731176cfa5e58bb337e9f09a25966e9e93c78c0c7925cb4561aab23adcc81.ctv
+#EXTINF:-1 tvg-name="Now Sports 7" tvg-id="4221" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806100138911158_22.jpg" group-title="02-EPL",[BD]now sport hk 7@@1
+https://epg.pw/stream/c5036c51453ff9fbbc085756e6cbbc5c237d76cfba825d2c141bb6de3063ca2d.ctv
