@@ -107,10 +107,8 @@ https://epg.pw/stream/eb688a09de63b8575ca9a206af9684e25fef266ae82736b8cc4e711412
 https://epg.pw/stream/3194fbd18368c211567e9901edf29ac8c699a9d633eab73f3ea4cd4d733a8c89.m3u8
 #EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="United States",[HD]Tennis Channel International[geo-blocked]
 https://epg.pw/stream/74efe10177487b81131c1bd594507b604c63733416d2ad4682c2fdff73e16396.m3u8
-#EXTINF:-1 tvg-name="UFC TV" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020637494753_10.png" group-title="United States",[BD]ucl tv@@1[geo-blocked]
-https://epg.pw/stream/f532954f5c9b56b13fbacedfb3a9999c40b335513ee5a1fd150f2a707c338d04.m3u8
-#EXTINF:-1 tvg-name="UFC TV" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020637494753_10.png" group-title="United States",[VGA]ufc
-https://epg.pw/stream/68a9b24116e23b1c6464bdb078799757c040f7a4c3f69c7939631174ade80811.m3u8
 #EXTINF:-1 tvg-name="UFC TV" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020637494753_10.png" group-title="United States",[HD]xfc tv[geo-blocked]
 https://epg.pw/stream/4f6c63a314d66fb1f35443b933273d7c6133a71d27a1fd385fefc904e11528f1.m3u8
+#EXTINF:-1 tvg-name="UFC TV" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020637494753_10.png" group-title="United States",[VGA]ufc
+https://epg.pw/stream/68a9b24116e23b1c6464bdb078799757c040f7a4c3f69c7939631174ade80811.m3u8
 
