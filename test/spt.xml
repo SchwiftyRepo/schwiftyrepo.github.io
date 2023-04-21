@@ -115,4 +115,10 @@ https://epg.pw/stream/68a9b24116e23b1c6464bdb078799757c040f7a4c3f69c7939631174ad
 https://epg.pw/stream/0c8bf7119022405b31855898f4a3331dc3ecc69bd6797132cd459559e2594e6e.m3u8
 #EXTINF:-1 tvg-name="WWE Network" tvg-id="51764" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909024956017826_38.jpg" group-title="United States",[BD]wwe network hd
 https://epg.pw/stream/56f8957bd07fb73857e81caad86414ee3ead1defb1bff20a4d14c1ff1fadf1d4.ctv
+#EXTINF:-1 tvg-name="Pro Wrestling Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530202414290742_89.png" group-title="United States",[BD]TNA Wrestling[geo-blocked]
+https://epg.pw/stream/642e76be45bf8170797390136f7c48161d2e578834e82c60b799d0c41b80042d.m3u8
+#EXTINF:-1 tvg-name="Pro Wrestling Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530202414290742_89.png" group-title="United States",[BD]IMPACT Wrestling[geo-blocked]
+https://epg.pw/stream/e4a4d109c04ddde3325448908240bae57c6c0a5f8cdedf64d4d25604670eea13.m3u8
+#EXTINF:-1 tvg-name="Pro Wrestling Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530202414290742_89.png" group-title="United States",[BD]Impact Wrestling (1080p)[geo-blocked]
+https://epg.pw/stream/8eae44a8f4b0147b4c0f25a156876820dcfc57f1618fa5f8aba3657580a37303.m3u8
 
