@@ -153,4 +153,10 @@ https://epg.pw/stream/f1e6eedae55297dc07841fe464512c0c55de2e72ecffc7c5cb58b1f0cb
 https://epg.pw/stream/03be660ad6e67c98d157502cd72188ea87c8d6db7445b72e602206f2c53ca52e.m3u8
 #EXTINF:-1 tvg-name="Sports Network" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/01/05/large/20170105145517180728_73.png" group-title="Canada",[HD]Sports Channel Network[geo-blocked]
 https://epg.pw/stream/de0cd1ec1867ffa4501673b293a7427fb168804e8b950a394b9de61ccd4a9d6f.m3u8
+#EXTINF:-1 tvg-name="TSN 2" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/23/large/20160623143838187559_69.png" group-title="Canada",[BD]tsn 2
+https://epg.pw/stream/4bb188500720868f567aa30b7603c974c78d31a73459b0502256df725eae85b8.ctv
+#EXTINF:-1 tvg-name="TSN 3" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/23/large/20160623141803049604_40.png" group-title="Canada",[BD]tsn
+https://epg.pw/stream/94d7287b6990b05edfa41d3b4b4ad906026c416e2bca056536b2d46909962daf.ctv
+#EXTINF:-1 tvg-name="TSN 4" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/23/large/20160623142704100463_38.jpg" group-title="Canada",[HD]tsn 4
+https://epg.pw/stream/bf090d3dba2dc4472ddbaa1a7aac1c5cf809fbf445eee892746c95a921b36da5.ctv
 
