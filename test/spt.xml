@@ -121,4 +121,36 @@ https://epg.pw/stream/642e76be45bf8170797390136f7c48161d2e578834e82c60b799d0c41b
 https://epg.pw/stream/e4a4d109c04ddde3325448908240bae57c6c0a5f8cdedf64d4d25604670eea13.m3u8
 #EXTINF:-1 tvg-name="Pro Wrestling Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530202414290742_89.png" group-title="United States",[BD]Impact Wrestling (1080p)[geo-blocked]
 https://epg.pw/stream/8eae44a8f4b0147b4c0f25a156876820dcfc57f1618fa5f8aba3657580a37303.m3u8
+#EXTINF:-1 tvg-name="EDGE Sport" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Canada",[BD]edge sport@@2
+https://epg.pw/stream/1e79f2455a91b19f5dea4b5ec6f3f74c56c6eb472f10303f3a79bba2e26e3559.m3u8
+#EXTINF:-1 tvg-name="EDGE Sport" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Canada",[BD]edgesport@@5[geo-blocked]
+https://epg.pw/stream/6024ba3cbf5819952dcd4e42db957d168a74147b136c21e9db4aace0b924ca8c.m3u8
+#EXTINF:-1 tvg-name="EDGE Sport" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Canada",[BD]edge sport
+https://epg.pw/stream/4c2d5a8bdc74e662f0f2ddeeb8f72e5b00726dfc8c6706eb56b67f84351c115b.m3u8
+#EXTINF:-1 tvg-name="EDGE Sport" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Canada",[BD]EDGEsport[geo-blocked]
+https://epg.pw/stream/3ec914129f49227da4f4bfe6f9fb39df922574a60a25eac6be641dec34230aaa.m3u8
+#EXTINF:-1 tvg-name="EDGE Sport" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Canada",[BD]edgesport@@9[geo-blocked]
+https://epg.pw/stream/3f0c278d743765fd0c510cd2fee2d305cda7006238b449475a610d3a54400d51.m3u8
+#EXTINF:-1 tvg-name="EDGE Sport" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Canada",[BD]edgesport@@10
+https://epg.pw/stream/898bd7d2f831bb5b4f636a78537e251bc6c9dd6b170a67e4357a0b9bfb8222c9.m3u8
+#EXTINF:-1 tvg-name="EDGE Sport" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Canada",[BD]EDGEsport[geo-blocked]
+https://epg.pw/stream/ef210f4a3a97961d99ce5fbe2d5c86bc32c1375a85771855037bba355341cceb.m3u8
+#EXTINF:-1 tvg-name="EDGE Sport" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Canada",[BD]edgesport@@1
+https://epg.pw/stream/80526d60bc24bfd8233027f36bd8d3e8f4b94960d54510a734dcfd6234fa09cf.m3u8
+#EXTINF:-1 tvg-name="EDGE Sport" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Canada",[BD]edgesport@@3[geo-blocked]
+https://epg.pw/stream/db0e56043539925e90030ba3138de22fbd9caf8fc052076c37fb12d36467a70f.m3u8
+#EXTINF:-1 tvg-name="EDGE Sport" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Canada",[BD]edgesport@@4[geo-blocked]
+https://epg.pw/stream/47aa0e7e695cfc21cf70cb37b82c10bf991cd92b50946cbff2459d022b1a1ac3.m3u8
+#EXTINF:-1 tvg-name="EDGE Sport" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Canada",[VGA]edgesport
+https://epg.pw/stream/24ab7672cf1435b2ace28d383267ac1c90427ed06f2e01384d04953372ff03d0.m3u8
+#EXTINF:-1 tvg-name="EDGE Sport" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Canada",[BD]Edge Sport[geo-blocked]
+https://epg.pw/stream/975e63c80d96fd5df8f5711f721c02ccf0697d54cca07c5d76818c75c2606049.m3u8
+#EXTINF:-1 tvg-name="EDGE Sport" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Canada",[BD]EDGE Sport-1[geo-blocked]
+https://epg.pw/stream/d2d9c5d8b0c71061c249cbaa8a29e87acd2ed2e629d3aa709ff4b707a1bcf4e5.m3u8
+#EXTINF:-1 tvg-name="Sports Network" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/01/05/large/20170105145517180728_73.png" group-title="Canada",[HD]lax sports network
+https://epg.pw/stream/f1e6eedae55297dc07841fe464512c0c55de2e72ecffc7c5cb58b1f0cb69a581.m3u8
+#EXTINF:-1 tvg-name="Sports Network" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/01/05/large/20170105145517180728_73.png" group-title="Canada",[SD]Sports Channel Network[geo-blocked]
+https://epg.pw/stream/03be660ad6e67c98d157502cd72188ea87c8d6db7445b72e602206f2c53ca52e.m3u8
+#EXTINF:-1 tvg-name="Sports Network" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/01/05/large/20170105145517180728_73.png" group-title="Canada",[HD]Sports Channel Network[geo-blocked]
+https://epg.pw/stream/de0cd1ec1867ffa4501673b293a7427fb168804e8b950a394b9de61ccd4a9d6f.m3u8
 
