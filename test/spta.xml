@@ -407,4 +407,26 @@ https://epg.pw/stream/137047bf383c3122c56413610b23e5f8998479eeda0165baa8ff06293f
 https://epg.pw/stream/68d3bb281a75fca0b2383c7bd39684ec6f6a39c54cf0fa8004c48a1423ebe74a.ctv
 #EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@4
 https://epg.pw/stream/a9c0cd2ffc6bedf7fe399b5e8fcc5a6550a882a80b381dd2882e5d4a07e63652.ctv
+#EXTINF:-1 tvg-name="Now Sports 2" tvg-id="4208" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="Hong Kong",[BD]now sport hk 2@@1
+https://epg.pw/stream/25691f043f0d488ca20f90b1ebeee2b6400698aa88cc469c18f460ab799cba1f.ctv
+#EXTINF:-1 tvg-name="Now Sports 2" tvg-id="4208" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="Hong Kong",[BD]now sports 2
+https://epg.pw/stream/93a3d727ce84cd096b27b7663459d77a588eb0e1eda79be49dcb7c929ff5aebb.ctv
+#EXTINF:-1 tvg-name="Now Sports 2" tvg-id="4208" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="Hong Kong",[BD]now sports 2 hd
+https://epg.pw/stream/95af30f5a7e972127ed9bd310ce55ded0efbb78ea28afc65b8aac18113b5bc8f.ctv
+#EXTINF:-1 tvg-name="Now Sports 3" tvg-id="4211" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095639627752_84.jpg" group-title="Hong Kong",[BD]now sport hk 3@@1
+https://epg.pw/stream/b1b31b9919302205a9ead62295f33b57f6f9daf495d8fd1447344ac17eff2e92.ctv
+#EXTINF:-1 tvg-name="Now Sports 3" tvg-id="4211" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095639627752_84.jpg" group-title="Hong Kong",[HD]now sports 3
+https://epg.pw/stream/3847bbe2444b3fd54967b0e75f511971559d997d7b1a0b1be4fe1fdeb25dba57.ctv
+#EXTINF:-1 tvg-name="Now Sports 3" tvg-id="4211" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095639627752_84.jpg" group-title="Hong Kong",[VGA]tnt sports 3@@1
+https://epg.pw/stream/84403554a6e5d0316690e475672b2cd328983fea86c719f10fab9d56f4ca3630.ctv
+#EXTINF:-1 tvg-name="Now Sports 4" tvg-id="4213" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095725690158_52.jpg" group-title="Hong Kong",[HD]nova sports 4
+https://epg.pw/stream/0eb91980802099e06dcceb7c863c3307051a99ec61ba86b1a85bf90bb4f8dcad.ctv
+#EXTINF:-1 tvg-name="Now Sports 5" tvg-id="4216" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095851867371_23.jpg" group-title="Hong Kong",[BD]now sport hk 5@@1
+https://epg.pw/stream/ce68839f8a9cda194332af5c7517d3a5a5e2d274fd28f72ee2b120e2351f00d2.ctv
+#EXTINF:-1 tvg-name="Now Sports 5" tvg-id="4216" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095851867371_23.jpg" group-title="Hong Kong",[HD]tnt sports 5[geo-blocked]
+https://epg.pw/stream/b48b4b1dba044c3fdd16bfdb79245fba8942c57561b255007779174c9c930367.m3u8
+#EXTINF:-1 tvg-name="Now Sports 6" tvg-id="4218" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806100009683117_34.jpg" group-title="Hong Kong",[BD]now sport hk 6@@1[geo-blocked]
+https://epg.pw/stream/dd5731176cfa5e58bb337e9f09a25966e9e93c78c0c7925cb4561aab23adcc81.ctv
+#EXTINF:-1 tvg-name="Now Sports 7" tvg-id="4221" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806100138911158_22.jpg" group-title="Hong Kong",[BD]now sport hk 7@@1
+https://epg.pw/stream/c5036c51453ff9fbbc085756e6cbbc5c237d76cfba825d2c141bb6de3063ca2d.ctv
 
