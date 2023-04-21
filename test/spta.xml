@@ -531,4 +531,20 @@ https://epg.pw/stream/9a05326577ef03eef61974a84f40375e927b6d25873e497836698dd9cf
 https://epg.pw/stream/5e8552f202a32dda31f3ab0b29415fba25654e2f4eacd904c8293e24fab4cf5f.ctv
 #EXTINF:-1 tvg-name="Bein sport1 - Ar " tvg-id="" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/20/20160920022700717507_18.png" group-title="Qatar",[SD]sport1[geo-blocked]
 https://epg.pw/stream/509e9b00fefdd9fff7526a3cb5a5f658b468be6cbcc20686539bbb27c5267d1e.m3u8
+#EXTINF:-1 tvg-name="DIGISPORT" tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/12/20150812151235649450_59.jpg" group-title="Romania",[BD]digi sport 2 高清
+https://epg.pw/stream/6405885d5947edd863365c7a9e0acfd679f6bdf6a1fc7cc4e37e838136289485.ctv
+#EXTINF:-1 tvg-name="DIGISPORT" tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/12/20150812151235649450_59.jpg" group-title="Romania",[BD]digi sport 3 高清
+https://epg.pw/stream/a6e6a8bace61e6057d09d96d4ba3a77d92a5b38e6d22bf6b8b6472d12205daee.ctv
+#EXTINF:-1 tvg-name="DIGISPORT" tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/12/20150812151235649450_59.jpg" group-title="Romania",[BD]digi sport 4 高清
+https://epg.pw/stream/b072c103d3d79e145bb276fbcda1a99f86f335eb5395faa4d4e93d718b17787a.ctv
+#EXTINF:-1 tvg-name="DIGISPORT" tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/12/20150812151235649450_59.jpg" group-title="Romania",[BD]digi sport 3@@1
+https://epg.pw/stream/212800dc45a030e50f2b30a6edf1e3ac8a10cbf2bcdf09d56248a1af3ce9784d.ctv
+#EXTINF:-1 tvg-name="DIGISPORT" tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/12/20150812151235649450_59.jpg" group-title="Romania",[BD]digi sport 2
+https://epg.pw/stream/db37d94bec6c299ef4622fbef972cfaf41d147b561a0056119cd1679dcbb3c7d.ctv
+#EXTINF:-1 tvg-name="DIGISPORT" tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/12/20150812151235649450_59.jpg" group-title="Romania",[BD]digi sport 2
+https://epg.pw/stream/4735ca15643c46968e1e97a9ec73f6e1bb872a85c77878df76e383145db1bf19.m3u8
+#EXTINF:-1 tvg-name="DIGISPORT" tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/12/20150812151235649450_59.jpg" group-title="Romania",[BD]digi sport 4
+https://epg.pw/stream/8c1099d61eadd6fd6f5b3536aa80a85dd428d5c2bfc44286e3937b6cd1ddf2fa.ctv
+#EXTINF:-1 tvg-name="DIGISPORT" tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/12/20150812151235649450_59.jpg" group-title="Romania",[BD]digi sport 2@@1
+https://epg.pw/stream/6b1904e33cd15d12d376813aeb8060264140e62603ce24c4b14be4bc56effe2b.ctv
 
