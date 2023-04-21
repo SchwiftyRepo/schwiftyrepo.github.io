@@ -407,6 +407,46 @@ https://epg.pw/stream/137047bf383c3122c56413610b23e5f8998479eeda0165baa8ff06293f
 https://epg.pw/stream/68d3bb281a75fca0b2383c7bd39684ec6f6a39c54cf0fa8004c48a1423ebe74a.ctv
 #EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@4
 https://epg.pw/stream/a9c0cd2ffc6bedf7fe399b5e8fcc5a6550a882a80b381dd2882e5d4a07e63652.ctv
+#EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Spain",[SD]m+ liga de campeones hd
+https://epg.pw/stream/c0293e107a1e7e0f6cd7d393283b96bad127136087e46d15246078fed91b89aa.ctv
+#EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Spain",[SD]m+ liga de campeones 3
+https://epg.pw/stream/8c3c583766c9bb7eade65f59ca1569a6d974811ca85c10f41ab804d0a6abc3d2.ctv
+#EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Spain",[SD]m+ liga de campeones 3 hd
+https://epg.pw/stream/d470e6dd2006b7955f7b80b4dbf1aa84aea25e48b16e508c65dbec7debca61b5.ctv
+#EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Spain",[BD]m+ liga de campeones 2 fhd
+https://epg.pw/stream/bee54688f409931bd0e76f181138744d9da8ac6c76410cf7122440293788d281.ctv
+#EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Spain",[SD]m+ liga de campeones 2 sd
+https://epg.pw/stream/522ee38212da541a726aa90cf7f68d207eab3000cd5c4b74f6d04d80ed938843.ctv
+#EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Spain",[SD]m+ liga de campeones
+https://epg.pw/stream/bfd86d553e6765eb57eb456034de2c30a4601437d841b814d4106828e71393c9.ctv
+#EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Spain",[BD]m+ liga de campeones fhd
+https://epg.pw/stream/ecb5b74bad2f7ded36cfb7805a3a39ed8c29cc63e6a7e6e229a67c394c603a9e.ctv
+#EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Spain",[BD]m+ liga de campeones 4[geo-blocked]
+https://epg.pw/stream/e64805884d5177c5fa3d1105e59343fa5537c8f48ba9a10daf70637de887335a.ctv
+#EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Spain",[BD]movistar liga de campeones hd[geo-blocked]
+https://epg.pw/stream/ca005c7d655b22712801a97095764f26307019036b999dcdb4e4ab91a204f984.m3u8
+#EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Spain",[HD]movistar liga de campeones 2 hd[geo-blocked]
+https://epg.pw/stream/84e317c80ec82458472b3b6879a7cc9f0483047a179d72f5eb634edc9b1d04a0.m3u8
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022323308714_51.png" group-title="Spain",[BD]real madrid tv hd
+https://epg.pw/stream/df630a806da396cb5e3c5bd8ed5ad3a29872e338198ca650c0bd774a016e50ce.m3u8
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022323308714_51.png" group-title="Spain",[HD]r. madrid tv
+https://epg.pw/stream/907213111b763f34f162548c5fc59f461a9f66bf347aee5831b96bed46e998b3.ctv
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022323308714_51.png" group-title="Spain",[BD]real madrid tv[geo-blocked]
+https://epg.pw/stream/cc244dc275ccc4aba571b09b58b9ba8d01bc2f3543a26570ddb3e36757e8e37d.m3u8
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022323308714_51.png" group-title="Spain",[BD]real madrid tv@@5[geo-blocked]
+https://epg.pw/stream/af2efb3828292f33f3f1c4b8d2ea54cc5c09d6d335f27adc8e67ca320a96a7b4.m3u8
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022323308714_51.png" group-title="Spain",[HD]realmadrid tv[geo-blocked]
+https://epg.pw/stream/a4b9dec584985a16dc570b578a72d3506f5283be97420b5adb0cc3f6e97c3db2.m3u8
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022323308714_51.png" group-title="Spain",[HD]So Real[geo-blocked]
+https://epg.pw/stream/a782e41a4348b1bf636d277c0661acc9248dc82b3c75521ce74857fe2207e1c7.m3u8
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022323308714_51.png" group-title="Spain",[VGA]real madrid - espanhol[geo-blocked]
+https://epg.pw/stream/6a78940000b2179baaf2c8392eb560ef08b6b14a804ce1b4e22a7f45fd413d52.m3u8
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022323308714_51.png" group-title="Spain",[VGA]real madrid - inglês[geo-blocked]
+https://epg.pw/stream/af3ed4fbae6613b5119093cca15e9efc3cd9467871066c84c79275992c47978b.m3u8
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022323308714_51.png" group-title="Spain",[BD]tubi real madrid[geo-blocked]
+https://epg.pw/stream/a5674e782731c1b2b885295a9a9cf89ff54be98fbcad49ca9211e6bc240e5c96.m3u8
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022323308714_51.png" group-title="Spain",[BD]real madrid tv@@6[geo-blocked]
+https://epg.pw/stream/f8effbddfd6fa8df98c4469d241790cc7cf3d6c186fbd1283fa638df41efc3a8.m3u8
 #EXTINF:-1 tvg-name="Now Sports 2" tvg-id="4208" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="Hong Kong",[BD]now sport hk 2@@1
 https://epg.pw/stream/25691f043f0d488ca20f90b1ebeee2b6400698aa88cc469c18f460ab799cba1f.ctv
 #EXTINF:-1 tvg-name="Now Sports 2" tvg-id="4208" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="Hong Kong",[BD]now sports 2
