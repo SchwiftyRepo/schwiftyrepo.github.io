@@ -335,14 +335,6 @@ https://epg.pw/stream/847e38a7d897d0f9fa6df2a744fe0aeebf5b0dc4e95e93d6cb06ee49e5
 https://epg.pw/stream/68ff07d3c93ff34557076e8c6bfe4680be76bbd34b6d477d6569adabdb3c27e6.m3u8
 #EXTINF:-1 tvg-name="Bein sport1 - Ar " tvg-id="" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/20/20160920022700717507_18.png" group-title="Qatar",[SD]sport1[geo-blocked]
 https://epg.pw/stream/509e9b00fefdd9fff7526a3cb5a5f658b468be6cbcc20686539bbb27c5267d1e.m3u8
-#EXTINF:-1 tvg-name="CSI Web Tv" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205540041026_31.png" group-title="Italy",[HD]csi@@2[geo-blocked]
-https://epg.pw/stream/f5d7bb87d199bff548adf951c57185a2b80ed58ef27d47e49a83ca32e72049f5.m3u8
-#EXTINF:-1 tvg-name="CSI Web Tv" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205540041026_31.png" group-title="Italy",[HD]CSI[geo-blocked]
-https://epg.pw/stream/c86f499751e64fb4291eedaeaf3f8fe2fc86fb923fd6c672c58545bfdb0bb392.m3u8
-#EXTINF:-1 tvg-name="CSI Web Tv" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205540041026_31.png" group-title="Italy",[HD]csi@@1[geo-blocked]
-https://epg.pw/stream/9ca5db6b0c8b15e20866744a681d90eab7098da327404289ddd10620d19ebcd5.m3u8
-#EXTINF:-1 tvg-name="CSI Web Tv" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205540041026_31.png" group-title="Italy",[HD]CSI[geo-blocked]
-https://epg.pw/stream/1ccfdf9a6225bd644a348df9aa873f78a7995bf6de8412ffae9ca173b926132b.m3u8
 #EXTINF:-1 tvg-name="Claro Sports" tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/08/20150608032418779210_46.png" group-title="Colombia",[BD]claro sports mx
 https://epg.pw/stream/640642a9d0740e588caaf2154e3cfba57b3244dec618bcab89fe8aa7b67a9296.m3u8
 #EXTINF:-1 tvg-name="Claro Sports" tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/08/20150608032418779210_46.png" group-title="Colombia",[BD]claro sports fhd@@1
