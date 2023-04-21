@@ -121,6 +121,10 @@ https://epg.pw/stream/642e76be45bf8170797390136f7c48161d2e578834e82c60b799d0c41b
 https://epg.pw/stream/e4a4d109c04ddde3325448908240bae57c6c0a5f8cdedf64d4d25604670eea13.m3u8
 #EXTINF:-1 tvg-name="Pro Wrestling Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530202414290742_89.png" group-title="United States",[BD]Impact Wrestling (1080p)[geo-blocked]
 https://epg.pw/stream/8eae44a8f4b0147b4c0f25a156876820dcfc57f1618fa5f8aba3657580a37303.m3u8
+#EXTINF:-1 tvg-name="TIDE SPORTS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/30800292494b4dd11efbee2b2b06f7d2.png" group-title="United States",[BD]SportsGrid (1080p)[geo-blocked]
+https://epg.pw/stream/2e8868ad2a5e18a570ee4f4e3b85d3934490c46ae982ae87a68c6b4eaa5124b2.m3u8
+#EXTINF:-1 tvg-name="TIDE SPORTS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/30800292494b4dd11efbee2b2b06f7d2.png" group-title="United States",[HD]SportsGrid (720p)[geo-blocked]
+https://epg.pw/stream/b093795329429c2febe832ed07076f608d0aa678420194dfe315a87ac8436d07.m3u8
 #EXTINF:-1 tvg-name="EDGE Sport" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Canada",[BD]edge sport@@2
 https://epg.pw/stream/1e79f2455a91b19f5dea4b5ec6f3f74c56c6eb472f10303f3a79bba2e26e3559.m3u8
 #EXTINF:-1 tvg-name="EDGE Sport" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/EDGE.png" group-title="Canada",[BD]edgesport@@5[geo-blocked]
@@ -159,4 +163,9 @@ https://epg.pw/stream/4bb188500720868f567aa30b7603c974c78d31a73459b0502256df725e
 https://epg.pw/stream/94d7287b6990b05edfa41d3b4b4ad906026c416e2bca056536b2d46909962daf.ctv
 #EXTINF:-1 tvg-name="TSN 4" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/23/large/20160623142704100463_38.jpg" group-title="Canada",[HD]tsn 4
 https://epg.pw/stream/bf090d3dba2dc4472ddbaa1a7aac1c5cf809fbf445eee892746c95a921b36da5.ctv
+#EXTINF:-1 tvg-name="TVA SPORT" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Canada",[HD]elta sport[geo-blocked]
+https://epg.pw/stream/e72d021b0cbf0fa154b2fc784227bef47ba1c26af1cc51805ea71a22be82469f.m3u8
+#EXTINF:-1 tvg-name="Supersport Football" tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/26/large/20220926002335030574_38.jpg" group-title="South Africa",[BD]supersports football[geo-blocked]
+https://epg.pw/stream/6ce3b3b67b5c9dfeb4b5f01e8a8004bf867686cb41ee4267c6e1208f14f2e1e0.ctv
+
 
