@@ -93,21 +93,24 @@ mmsh://212.200.255.151/rtv1
 https://epg.pw/stream/e251f1772ee379deaac0c3e28571b9d8f0dcd8dcb2a735af55e6615d530659ac.ctv
 #EXTINF:-1 tvg-name="SporTV 1" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/11/24/large/20221124225810685184_36.png" group-title="Brazil",[HD]sportv 3uhd
 https://epg.pw/stream/8465193ca244c56520ada6945862078b9bef8a4726eb67fa846fd39f7d191419.ctv
-#EXTINF:-1 tvg-name="Sport TV 1" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Portugal",[BD]swiss sport tv@@1
-https://epg.pw/stream/88acf77f81fe0f4816d0b02ab2d4ac3c58f211f2c186e53a6cf6c61f7cb92b33.m3u8
-#EXTINF:-1 tvg-name="Sport TV 2" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173806585584_23.png" group-title="Portugal",[HD]sportv 2
-https://epg.pw/stream/c3434717a012ff9f0432e5396e1a396a8af9447ce65e45776f2c10656fccaa1a.ctv
-#EXTINF:-1 tvg-name="Sport TV 3" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173745399752_34.png" group-title="Portugal",[BD]tvri sport@@3[geo-blocked]
-https://epg.pw/stream/ed62caf3123ba85de554bf1375fded5867cce2f30904966c07f8d0352c816c59.m3u8
-#EXTINF:-1 tvg-name="Sport TV 3" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173745399752_34.png" group-title="Portugal",[BD]t -sport 3 hd[geo-blocked]
-https://epg.pw/stream/e9cf721c201f6155959de2c2be3335ff0a75fd741bcf6b0c9972194d7fbc1237.ctv
-#EXTINF:-1 tvg-name="Sport TV1" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/01/25/20180125084358858969_74.jpg" group-title="Portugal",[HD]tvri sport
-https://epg.pw/stream/abc903e615db1eb945259266282d2159400ce778a78e3dcc5f6bb9f074c82b3f.m3u8
-#EXTINF:-1 tvg-name="Sporting TV" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/01/24/20150124042558391415_30.jpg" group-title="Portugal",[HD]valparaiso sporting[geo-blocked]
-https://epg.pw/stream/70d66989f8d76f5ba2ac52c902bab635d06690a77c498e8d3975b8fe048106b7.m3u8
-#EXTINF:-1 tvg-name="Sporting TV" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/01/24/20150124042558391415_30.jpg" group-title="Portugal",[HD]valparaiso sporting@@1
-https://epg.pw/stream/80701dc41aa77bd12441b0a57ecdf002a824657793a227e85223a1621b2d58d1.m3u8
-#EXTINF:-1 tvg-name="Sporting TV" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/01/24/20150124042558391415_30.jpg" group-title="Portugal",[HD]valparaiso sporting@@2[geo-blocked]
-https://epg.pw/stream/f349c20b53f3948c7df76d240caa6e06831d60166fe249fb20de684bb6d84896.m3u8
-
+#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="United States",[HD]Tennis Channel Deutschland[geo-blocked]
+https://epg.pw/stream/26558042fbd63b8456f12ecfcdd16ebb1ff6e12f715a0b6185718e1115c8ba9f.m3u8
+#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="United States",[BD]super tennis@@1[geo-blocked]
+https://epg.pw/stream/2a28b383a640bfb94657c740acf25f84d4aa4a7394781892a81fea3e8f2c30d3.m3u8
+#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="United States",[HD]Tennis Channel International[geo-blocked]
+https://epg.pw/stream/8a3b50e5a5227fe8c0bc8b015bcdebc34824759be853eaa9cae9ceddfc00d1f8.m3u8
+#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="United States",[BD]super tennis@@2[geo-blocked]
+https://epg.pw/stream/f402e663f31912848f9dfe776432678da018927555dc035fdc1fccd99feb20e4.m3u8
+#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="United States",[HD]Tennis Channel International[geo-blocked]
+https://epg.pw/stream/eb688a09de63b8575ca9a206af9684e25fef266ae82736b8cc4e7114127799dc.m3u8
+#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="United States",[SD]tennis
+https://epg.pw/stream/3194fbd18368c211567e9901edf29ac8c699a9d633eab73f3ea4cd4d733a8c89.m3u8
+#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="United States",[HD]Tennis Channel International[geo-blocked]
+https://epg.pw/stream/74efe10177487b81131c1bd594507b604c63733416d2ad4682c2fdff73e16396.m3u8
+#EXTINF:-1 tvg-name="UFC TV" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020637494753_10.png" group-title="United States",[BD]ucl tv@@1[geo-blocked]
+https://epg.pw/stream/f532954f5c9b56b13fbacedfb3a9999c40b335513ee5a1fd150f2a707c338d04.m3u8
+#EXTINF:-1 tvg-name="UFC TV" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020637494753_10.png" group-title="United States",[VGA]ufc
+https://epg.pw/stream/68a9b24116e23b1c6464bdb078799757c040f7a4c3f69c7939631174ade80811.m3u8
+#EXTINF:-1 tvg-name="UFC TV" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020637494753_10.png" group-title="United States",[HD]xfc tv[geo-blocked]
+https://epg.pw/stream/4f6c63a314d66fb1f35443b933273d7c6133a71d27a1fd385fefc904e11528f1.m3u8
 
