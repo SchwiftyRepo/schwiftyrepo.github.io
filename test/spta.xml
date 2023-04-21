@@ -429,4 +429,18 @@ https://epg.pw/stream/b48b4b1dba044c3fdd16bfdb79245fba8942c57561b255007779174c9c
 https://epg.pw/stream/dd5731176cfa5e58bb337e9f09a25966e9e93c78c0c7925cb4561aab23adcc81.ctv
 #EXTINF:-1 tvg-name="Now Sports 7" tvg-id="4221" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806100138911158_22.jpg" group-title="Hong Kong",[BD]now sport hk 7@@1
 https://epg.pw/stream/c5036c51453ff9fbbc085756e6cbbc5c237d76cfba825d2c141bb6de3063ca2d.ctv
+#EXTINF:-1 tvg-name="Sony Ten2" tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/07/18/large/20220718125542724590_33.png" group-title="India",[HD]sony ten 4[geo-blocked]
+https://epg.pw/stream/6cde159802b9f069b9ba5516ec40064f4e1b27e16f39901da58d97686783539d.ctv
+#EXTINF:-1 tvg-name="Sony Ten2" tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/07/18/large/20220718125542724590_33.png" group-title="India",[BD]sony ten 5[geo-blocked]
+https://epg.pw/stream/554d5b9673b04b8c64332972f08ec34aee2bb5e04c104866074aaf553b32aeca.ctv
+#EXTINF:-1 tvg-name="Sony Ten2" tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/07/18/large/20220718125542724590_33.png" group-title="India",[BD]sony ten 1[geo-blocked]
+https://epg.pw/stream/922e4013775850a3cf84b83353dbbed312d8ab07843ce7809a73d9b1466a57ae.ctv
+#EXTINF:-1 tvg-name="Sony Ten2" tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/07/18/large/20220718125542724590_33.png" group-title="India",[HD]sony ten 2 hd@@3[geo-blocked]
+https://epg.pw/stream/9df1c8ba15dda8a1a52af3f487e03bd7ba660b83a910a989b91718c18f5cd44b.ctv
+#EXTINF:-1 tvg-name="Sony Ten2" tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/07/18/large/20220718125542724590_33.png" group-title="India",[BD]sony ten 2[geo-blocked]
+https://epg.pw/stream/82b7c27d27391f69f9f119dd24d91b0ffecf0376ae40288c876cb71c2169770a.ctv
+#EXTINF:-1 tvg-name="Sony Ten3" tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/22/large/20200422205243134756_78.png" group-title="India",[BD]sony ten 3[geo-blocked]
+https://epg.pw/stream/26ef9d96a944b6798b4d3c1c83440528d711309db49c599599f6a064cc3a6330.ctv
+#EXTINF:-1 tvg-name="Sony Ten3" tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/22/large/20200422205243134756_78.png" group-title="India",[HD]sony ten 3 hd@@1
+https://epg.pw/stream/97be145be55b8a0cbe43bdb08d3925b367f904027105ae510da4d17dff5813f0.ctv
 
