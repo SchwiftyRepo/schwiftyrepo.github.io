@@ -527,5 +527,8 @@ https://epg.pw/stream/62676c69ec67efdddbc06dbd1b14c407439574431589848773aa337bc8
 https://epg.pw/stream/c7de0cce6cfc6952c0cdd1cb927b5187bef41a29790edc801dfef3fa197bb558.ctv
 #EXTINF:-1 tvg-name="Astro Supersports 5" tvg-id="7806" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162956180653_58.jpg" group-title="Malaysia",[BD]astro supersport 5@@1[geo-blocked]
 https://epg.pw/stream/9a05326577ef03eef61974a84f40375e927b6d25873e497836698dd9cfceab9b.ctv
-
+#EXTINF:-1 tvg-name="Bein Sport Max 5 Qatar (English)" tvg-id="" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722072933561377_54.png" group-title="Qatar",[BD]bein sport 5
+https://epg.pw/stream/5e8552f202a32dda31f3ab0b29415fba25654e2f4eacd904c8293e24fab4cf5f.ctv
+#EXTINF:-1 tvg-name="Bein sport1 - Ar " tvg-id="" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/20/20160920022700717507_18.png" group-title="Qatar",[SD]sport1[geo-blocked]
+https://epg.pw/stream/509e9b00fefdd9fff7526a3cb5a5f658b468be6cbcc20686539bbb27c5267d1e.m3u8
 
