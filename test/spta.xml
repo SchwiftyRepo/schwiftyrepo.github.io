@@ -443,4 +443,28 @@ https://epg.pw/stream/82b7c27d27391f69f9f119dd24d91b0ffecf0376ae40288c876cb71c21
 https://epg.pw/stream/26ef9d96a944b6798b4d3c1c83440528d711309db49c599599f6a064cc3a6330.ctv
 #EXTINF:-1 tvg-name="Sony Ten3" tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/22/large/20200422205243134756_78.png" group-title="India",[HD]sony ten 3 hd@@1
 https://epg.pw/stream/97be145be55b8a0cbe43bdb08d3925b367f904027105ae510da4d17dff5813f0.ctv
+#EXTINF:-1 tvg-name="SETANTA SPORTS+" tvg-id="6864" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/04/20151204224355589984_34.png" group-title="Ireland",[VGA]tnt sports sd
+https://epg.pw/stream/5ace4581e0b9ff8b329568ff3fcdac1fac68521bacf3c3651dadba9f6eea1ca4.ctv
+#EXTINF:-1 tvg-name="SETANTA SPORTS+" tvg-id="6864" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/04/20151204224355589984_34.png" group-title="Ireland",[BD]tnt sports hd@@1
+https://epg.pw/stream/1d90de2ee7c9b8f5403a11b10ba7bf8ad1196e5779cec2de2f2aca8b8d27e523.m3u8
+#EXTINF:-1 tvg-name="SETANTA SPORTS+" tvg-id="6864" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/04/20151204224355589984_34.png" group-title="Ireland",[BD]tnt sports hd[geo-blocked]
+https://epg.pw/stream/4037842df8c2470d0319c3bc7ed6911df486d2f864cd5e6c5d3f44222e43576d.m3u8
+#EXTINF:-1 tvg-name="SETANTA SPORTS+" tvg-id="6864" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/04/20151204224355589984_34.png" group-title="Ireland",[BD]tnt sports@@1
+https://epg.pw/stream/27459fa436d51f5a971ea5fc770b97d6edb521fce5d68ab92565f3e3d6981338.ctv
+#EXTINF:-1 tvg-name="SETANTA SPORTS+" tvg-id="6864" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/04/20151204224355589984_34.png" group-title="Ireland",[BD]setanta sports live[geo-blocked]
+https://epg.pw/stream/200277dc7b83cf4e427725a8a6e818facc61fae9826e5bcaac0db22fbf7ad9d0.m3u8
+#EXTINF:-1 tvg-name="Setanta" tvg-id="" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/12/27/large/20161227225415710049_47.png" group-title="Ireland",[BD]setanta 2 hd
+https://epg.pw/stream/67660f72ca5a5b452eb4822f893d7f61b8aa9e752117d06be94c9e589f5dc1b8.m3u8
+#EXTINF:-1 tvg-name="Setanta" tvg-id="" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/12/27/large/20161227225415710049_47.png" group-title="Ireland",[BD]setantakz hd@@1
+https://epg.pw/stream/83dbef5c6469125278a95cc66e74199d6ffa71594aef60070950e978a4c2d607.m3u8
+#EXTINF:-1 tvg-name="Setanta" tvg-id="" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/12/27/large/20161227225415710049_47.png" group-title="Ireland",[BD]setanta sport hd@@1
+https://epg.pw/stream/473233f6973195eca049719ee4469ecc6105a43de06a2d3a8f664b86683cbaa4.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports HD" tvg-id="7038" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/11/25/large/20151125184743312123_85.jpg" group-title="Ireland",[HD]setanta sports 1 hd @@2[geo-blocked]
+https://epg.pw/stream/b5f6a11825d025f89797276d1d03304cb794c1161cbc9af6a6a2fb7ca364de14.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports HD" tvg-id="7038" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/11/25/large/20151125184743312123_85.jpg" group-title="Ireland",[HD]setanta sports 2 hd @@1
+https://epg.pw/stream/8b804ef18de9a29802695adcd006df488570cdec913cabe21605fee24cb3de43.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports HD" tvg-id="7038" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/11/25/large/20151125184743312123_85.jpg" group-title="Ireland",[BD]setanta sports 1 hd kz@@1
+https://epg.pw/stream/318592ee69e2f8eaac6e1c150d64bdb7c1a091885da313ebafec60cd4bdb947b.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports HD" tvg-id="7038" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/11/25/large/20151125184743312123_85.jpg" group-title="Ireland",[BD]setanta sports 2 hd kz@@1
+https://epg.pw/stream/31e9ca688c0d182b16bd71d3be1b6f3c66f23a9d9ef5df16152600612501ea65.m3u8
 
