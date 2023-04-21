@@ -111,4 +111,8 @@ https://epg.pw/stream/74efe10177487b81131c1bd594507b604c63733416d2ad4682c2fdff73
 https://epg.pw/stream/4f6c63a314d66fb1f35443b933273d7c6133a71d27a1fd385fefc904e11528f1.m3u8
 #EXTINF:-1 tvg-name="UFC TV" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020637494753_10.png" group-title="United States",[VGA]ufc
 https://epg.pw/stream/68a9b24116e23b1c6464bdb078799757c040f7a4c3f69c7939631174ade80811.m3u8
+#EXTINF:-1 tvg-name="WWE Network" tvg-id="51764" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909024956017826_38.jpg" group-title="United States",[BD]wwe network 2@@1[geo-blocked]
+https://epg.pw/stream/0c8bf7119022405b31855898f4a3331dc3ecc69bd6797132cd459559e2594e6e.m3u8
+#EXTINF:-1 tvg-name="WWE Network" tvg-id="51764" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909024956017826_38.jpg" group-title="United States",[BD]wwe network hd
+https://epg.pw/stream/56f8957bd07fb73857e81caad86414ee3ead1defb1bff20a4d14c1ff1fadf1d4.ctv
 
