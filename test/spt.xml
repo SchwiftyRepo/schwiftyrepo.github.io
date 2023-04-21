@@ -85,4 +85,14 @@ https://epg.pw/stream/8eb4a464e6a0f2f1f6781474069dbbaf3b51fda65499ae152bb8a22312
 https://epg.pw/stream/7ed58ecb5b9b232520aef16452ed9911e1e5c13cb6f09547a968e715997519ca.ctv
 #EXTINF:-1 tvg-name="Sky Sports Racing" tvg-id="3827" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/07/large/20190907212020803818_26.png" group-title="United Kingdom",[BD]sky sport racing@@1
 https://epg.pw/stream/a430af9c8949f5389b756393a2e3f2775f27657d5abc763a4f999fe267496e87.ctv
+#EXTINF:-1 tvg-name="SporTV 1" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/11/24/large/20221124225810685184_36.png" group-title="Brazil",[BD]sportv tur[geo-blocked]
+https://epg.pw/stream/987bb67c867b3395ffefb5d7e6be957c6d28ed8032bb8745aae0c6bc53dcf92f.m3u8
+#EXTINF:-1 tvg-name="SporTV 1" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/11/24/large/20221124225810685184_36.png" group-title="Brazil",[BD]sportv 1 hd+
+https://epg.pw/stream/cbe62d51b074dcd818c8b9081fd5dc8ebe95dc9d6ac39a2b4f8879c998362a6c.ctv
+#EXTINF:-1 tvg-name="SporTV 1" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/11/24/large/20221124225810685184_36.png" group-title="Brazil",[SD]rtv 1 (576p) [not 24/7]
+mmsh://212.200.255.151/rtv1
+#EXTINF:-1 tvg-name="SporTV 1" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/11/24/large/20221124225810685184_36.png" group-title="Brazil",[BD]sportv2@@1[geo-blocked]
+https://epg.pw/stream/e251f1772ee379deaac0c3e28571b9d8f0dcd8dcb2a735af55e6615d530659ac.ctv
+#EXTINF:-1 tvg-name="SporTV 1" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/11/24/large/20221124225810685184_36.png" group-title="Brazil",[HD]sportv 3uhd
+https://epg.pw/stream/8465193ca244c56520ada6945862078b9bef8a4726eb67fa846fd39f7d191419.ctv
 
