@@ -73,10 +73,6 @@ https://epg.pw/stream/e7b98ff73e023352f7de64aead29db82769598badffdc14fa003839745
 https://epg.pw/stream/f721d9fdfdb4c83ea363129cb2b34e3aafb24c17483b1eb321c2df8b09eb94a8.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Golf" tvg-id="3504" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143639349572_52.png" group-title="United Kingdom",[BD]sky sport golf fhd@@1
 https://epg.pw/stream/6e60d55b004bec456cc760391203e0fa6d64a3b06ea7dfae7437cb3ac7ad0215.ctv
-#EXTINF:-1 tvg-name="Eir Sport 1" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/03/20170303121401611433_54.png" group-title="United Kingdom",[BD]eir sports 1 4k+
-https://epg.pw/stream/2439c3deae6fb2d3a9eac447a493e33238803f66cbd9870bb665b095dbe0b6f6.ctv
-#EXTINF:-1 tvg-name="EuroSport 2 HD UK" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/11/20150211200901737509_55.jpg" group-title="United Kingdom",[BD]eurosport1 hd@@2
-https://epg.pw/stream/8a17de165258b32377e3855ca7fdbeab0b78e6269e365b9569af68186962b239.m3u8
 #EXTINF:-1 tvg-name="Sky Football" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114203553929017_16.png" group-title="United Kingdom",[BD]sky sp football fhd
 https://epg.pw/stream/223c1acebefd05f36a884fd0bde0adb9d2e385dd32bb4e174e65f8917041434d.ctv
 #EXTINF:-1 tvg-name="Sky Sports News HQ" tvg-id="3766" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128083517380732_67.jpg" group-title="United Kingdom",[BD]sky sport new fhd@@1
@@ -85,6 +81,10 @@ https://epg.pw/stream/8eb4a464e6a0f2f1f6781474069dbbaf3b51fda65499ae152bb8a22312
 https://epg.pw/stream/7ed58ecb5b9b232520aef16452ed9911e1e5c13cb6f09547a968e715997519ca.ctv
 #EXTINF:-1 tvg-name="Sky Sports Racing" tvg-id="3827" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/07/large/20190907212020803818_26.png" group-title="United Kingdom",[BD]sky sport racing@@1
 https://epg.pw/stream/a430af9c8949f5389b756393a2e3f2775f27657d5abc763a4f999fe267496e87.ctv
+#EXTINF:-1 tvg-name="Eir Sport 1" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/03/20170303121401611433_54.png" group-title="United Kingdom",[BD]eir sports 1 4k+
+https://epg.pw/stream/2439c3deae6fb2d3a9eac447a493e33238803f66cbd9870bb665b095dbe0b6f6.ctv
+#EXTINF:-1 tvg-name="EuroSport 2 HD UK" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/11/20150211200901737509_55.jpg" group-title="United Kingdom",[BD]eurosport1 hd@@2
+https://epg.pw/stream/8a17de165258b32377e3855ca7fdbeab0b78e6269e365b9569af68186962b239.m3u8
 #EXTINF:-1 tvg-name="SporTV 1" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/11/24/large/20221124225810685184_36.png" group-title="Brazil",[BD]sportv tur[geo-blocked]
 https://epg.pw/stream/987bb67c867b3395ffefb5d7e6be957c6d28ed8032bb8745aae0c6bc53dcf92f.m3u8
 #EXTINF:-1 tvg-name="SporTV 1" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/11/24/large/20221124225810685184_36.png" group-title="Brazil",[BD]sportv 1 hd+
