@@ -569,5 +569,23 @@ https://epg.pw/stream/a2867c004f0ecc58f616e960bb33d6a4482cd03a4868c16232333d91ad
 https://epg.pw/stream/3be75a40b4a814d1c4a13e4795402cf2fb364ba41948acb291e33637cc338719.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 2" tvg-id="4228" tvg-country="Saudi Arabia" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2019/09/07/large/20190907151834997633_57.jpg" group-title="Saudi Arabia",[BD]bein sports fhd 2
 https://epg.pw/stream/f3e8321e0cf2467172678ce2d8b702b810461d0e35c0d394574f6f0317a1a9ed.m3u8
+#EXTINF:-1 tvg-name="HUBPREMIER EFL 1" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/20/large/20220820205053968567_10.PNG" group-title="Singapore",[BD]hub premier 11 fhd
+https://epg.pw/stream/3be8d8be6ce3f3a54dcb83e59b2488fbf46fd4d6957f5d69b7d772e384f0c946.ctv
+#EXTINF:-1 tvg-name="HUBPREMIER EFL 1" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/20/large/20220820205053968567_10.PNG" group-title="Singapore",[BD]hub premier 1 fhd[geo-blocked]
+https://epg.pw/stream/080ad2ce993a3e5561e0b48b47fecd0c4e47f30204d80406e69a61646c756067.ctv
+#EXTINF:-1 tvg-name="HUBPREMIER EFL 2" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/20/large/20220920223013988266_34.jpg" group-title="Singapore",[BD]hub premier 5 fhd
+https://epg.pw/stream/fe5c0ae09415afa7c8cdafe0b4aee7f582b2ff6dd2fe9a25ac853e6a65ba3d42.ctv
+#EXTINF:-1 tvg-name="HUBPREMIER EFL 2" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/20/large/20220920223013988266_34.jpg" group-title="Singapore",[BD]hub premier 3 fhd[geo-blocked]
+https://epg.pw/stream/1fe427bbb7c13218513e5489560ea7ff31e381793c2449a66f5bc90c6691a729.ctv
+#EXTINF:-1 tvg-name="HUBPREMIER EFL 2" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/20/large/20220920223013988266_34.jpg" group-title="Singapore",[BD]hub premier 4 fhd
+https://epg.pw/stream/1618832c5d02a13cfe6edd7316ab904d40ba4c7a9bab049af87ad6dca9eac953.ctv
+#EXTINF:-1 tvg-name="HUBPREMIER EFL 2" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/20/large/20220920223013988266_34.jpg" group-title="Singapore",[BD]hub premier 3 fhd@@1[geo-blocked]
+https://epg.pw/stream/4b0e5cd27024db6f81dcc51f30cad8992ec7064c510c97b11e7c874aea1ef0db.ctv
+#EXTINF:-1 tvg-name="HUBPREMIER EFL 2" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/20/large/20220920223013988266_34.jpg" group-title="Singapore",[BD]hub premier 6 fhd
+https://epg.pw/stream/862eafd297f769841ac94e7e902567f974f7cb3e15ef8d93a812c8875450cf76.ctv
+#EXTINF:-1 tvg-name="HUBPREMIER EFL 2" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/20/large/20220920223013988266_34.jpg" group-title="Singapore",[BD]hub premier 8 fhd
+https://epg.pw/stream/691e01bd903082d0b6d15f99f40882f0ad33b4938e7f908488aebfb2e76a5fac.ctv
+#EXTINF:-1 tvg-name="HUBPREMIER EFL 2" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/20/large/20220920223013988266_34.jpg" group-title="Singapore",[BD]hub premier 7 fhd
+https://epg.pw/stream/1e654214ddd0ded34d4f672fb2cb71e48d25b59b5fe98f3c626aade59832273f.ctv
 
 
