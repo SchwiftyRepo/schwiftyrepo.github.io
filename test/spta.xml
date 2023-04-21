@@ -489,5 +489,43 @@ https://epg.pw/stream/2dfe8757d03ddc73fe6ccca3dbecb91e958fc1dce5e2fe612e6e67419d
 https://epg.pw/stream/5572ec640a9b3e29b0ba03f307ac8887419385ba8136c6759d6aacd16cc8f569.ctv
 #EXTINF:-1 tvg-name="Sport Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2022/04/15/large/20220415000118080279_93.png" group-title="Italy",[BD]sport italia
 https://epg.pw/stream/821c193a3f88dca802f08b9f2473f1efdd0953b4442c7383f3906898f50131e5.m3u8
+#EXTINF:-1 tvg-name="ASTRO Arena 2" tvg-id="7808" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/11/11/large/20221111223229263458_39.jpg" group-title="Malaysia",[BD]arena 2 hd[geo-blocked]
+https://epg.pw/stream/3391b6bff9ba85a02bb2635a3718c4611f6b5c95a4a1e42f61cc7af84129268d.m3u8
+#EXTINF:-1 tvg-name="Astro Supersports 1" tvg-id="3397" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162758081741_50.jpg" group-title="Malaysia",[BD]astro supersport 10@@1
+https://epg.pw/stream/a8ccbf38eba655fa8f3b9d355441ca9c83fc495ca98ffdd2f81f58a3a9bea89b.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 1" tvg-id="3397" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162758081741_50.jpg" group-title="Malaysia",[BD]astro supersport 1@@1
+https://epg.pw/stream/9420e53ebd1e35fdeee4ceb23abc2c8d1a1a763981c4afe5b55c586b92f515a8.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 1" tvg-id="3397" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162758081741_50.jpg" group-title="Malaysia",[HD]astro supersport@@1
+https://epg.pw/stream/9728a55716c43a9a92fd97bfeccb4d4df360bf91d12fd7b2cde6571d85f483d4.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 2" tvg-id="3387" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="Malaysia",[BD]astro supersport 2@@1
+https://epg.pw/stream/1f7bc5874d9b02c61e531fbeaaf41f19633f5062de8caa2460b6e2af9dd19ffa.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 2" tvg-id="3387" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="Malaysia",[BD]astro supersport 2 fhd
+https://epg.pw/stream/0572a61ec4a4998a1c76061fd80a35351b1586fe842c06154f3ec1951632922e.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 3" tvg-id="3406" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162857392352_67.jpg" group-title="Malaysia",[BD]astro supersport 3@@2
+https://epg.pw/stream/daa14b9eb342f1c51ac21a07420169a5500d52a999fda3c8522c8657a09f9f2f.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 3" tvg-id="3406" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162857392352_67.jpg" group-title="Malaysia",[BD]astro supersport 3
+https://epg.pw/stream/3cb6cf2791f4c33f632f3f7fca8605cc31213cd726598b624362e2507fbcf920.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astro super sport 4k
+https://epg.pw/stream/1915aa09b086cd94645a306fccf83f09bc2323e20227782cc149173039422e0f.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astro supersport 4@@3
+https://epg.pw/stream/0a5556038fb3bc1916d5ed01d6bf368e4a2cc2df6463e29c7b90fceaa8b4eac9.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astro supersport 8@@1
+https://epg.pw/stream/949bbecd8ee24b534969f586dfed17cab3d22dfaa09128105e82c62e19fc3e52.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astro supersport 9@@1[geo-blocked]
+https://epg.pw/stream/d8854481281de28b4d7ab801a81adce13127134535cf9a3a68b76c29cdf3184a.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astro supersport 7@@1
+https://epg.pw/stream/e89a260d65d30eb6e47e321992a34e578c0c273b715a91557dfae805d67c49b3.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astro supersport 6@@1
+https://epg.pw/stream/5094d4ee5946f6cb92efbe229739657f798ad56b04b68c410d7fccbd27a84a5f.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astrosupersport
+https://epg.pw/stream/cad7f9a7b0206e4ba32464cb43a1bf24a9568731a0bc5c1da77eae0d6846aa75.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[HD]astro supersport 4@@1
+https://epg.pw/stream/304360e2a0fac0478f60e036430dcf8b1c463ee3f49050ab35d6400d42c33d09.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[HD]astro supersport 4[geo-blocked]
+https://epg.pw/stream/62676c69ec67efdddbc06dbd1b14c407439574431589848773aa337bc8249f83.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[HD]astro supersport[geo-blocked]
+https://epg.pw/stream/c7de0cce6cfc6952c0cdd1cb927b5187bef41a29790edc801dfef3fa197bb558.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 5" tvg-id="7806" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162956180653_58.jpg" group-title="Malaysia",[BD]astro supersport 5@@1[geo-blocked]
+https://epg.pw/stream/9a05326577ef03eef61974a84f40375e927b6d25873e497836698dd9cfceab9b.ctv
 
 
