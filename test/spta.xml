@@ -547,4 +547,27 @@ https://epg.pw/stream/4735ca15643c46968e1e97a9ec73f6e1bb872a85c77878df76e383145d
 https://epg.pw/stream/8c1099d61eadd6fd6f5b3536aa80a85dd428d5c2bfc44286e3937b6cd1ddf2fa.ctv
 #EXTINF:-1 tvg-name="DIGISPORT" tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/12/20150812151235649450_59.jpg" group-title="Romania",[BD]digi sport 2@@1
 https://epg.pw/stream/6b1904e33cd15d12d376813aeb8060264140e62603ce24c4b14be4bc56effe2b.ctv
+#EXTINF:-1 tvg-name="KSA Sports" tvg-id="" tvg-country="Saudi Arabia" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231338268967_68.png" group-title="Saudi Arabia",[BD]ksa sports 3 (1080p) [not 24/7][geo-blocked]
+https://epg.pw/stream/51d95746a73c81cde43cd2b3a56024c701c8c4b6777acba5699d29528d30829e.m3u8
+#EXTINF:-1 tvg-name="KSA Sports" tvg-id="" tvg-country="Saudi Arabia" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231338268967_68.png" group-title="Saudi Arabia",[BD]ksa sports 1 (1080p) [not 24/7][geo-blocked]
+https://epg.pw/stream/6b7cd3b019d78752ec3d8c869ed37a99b36541c3dcbc8f10f0ededb58e43bfe3.m3u8
+#EXTINF:-1 tvg-name="KSA Sports" tvg-id="" tvg-country="Saudi Arabia" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231338268967_68.png" group-title="Saudi Arabia",[BD]ksa sports 1[geo-blocked]
+https://epg.pw/stream/aa9050b75331f8de10f233fdbeac3bbbefdd4f4f07dab8580217e11a53427b40.m3u8
+#EXTINF:-1 tvg-name="A1 Sports" tvg-id="" tvg-country="Saudi Arabia" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/22/20170222125202753389_78.jpg" group-title="Saudi Arabia",[HD]mysports 1 hd[geo-blocked]
+https://epg.pw/stream/8e760dd4b88807cff12f06cb00082218fec9a06621b8718f2d9432ad6446a636.m3u8
+#EXTINF:-1 tvg-name="A1 Sports" tvg-id="" tvg-country="Saudi Arabia" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/22/20170222125202753389_78.jpg" group-title="Saudi Arabia",[BD]SportsGrid@@1[geo-blocked]
+https://epg.pw/stream/485b1342c6295635475019020e48e81e5710d34ef639db69c61021a3a4d9e686.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-id="4223" tvg-country="Saudi Arabia" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2019/09/07/large/20190907150947924872_73.jpg" group-title="Saudi Arabia",[HD]bein sports 1
+https://epg.pw/stream/75de084b2e05f80ad77f0ed378a056da5676bd1f472943b505547b1d8bcb7126.ctv
+#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-id="4228" tvg-country="Saudi Arabia" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2019/09/07/large/20190907151834997633_57.jpg" group-title="Saudi Arabia",[HD]bein sports xtra@@2[geo-blocked]
+https://epg.pw/stream/a57af7c7b002a8f8bdcf284ab4c09b7e1678203f8f7e7888994d9863a4053eb6.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-id="4228" tvg-country="Saudi Arabia" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2019/09/07/large/20190907151834997633_57.jpg" group-title="Saudi Arabia",[SD]bein sports ñ[geo-blocked]
+https://epg.pw/stream/257768507855418045e0d8b6e8d1979999253f06e35efe800831d8bd05289943.ctv
+#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-id="4228" tvg-country="Saudi Arabia" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2019/09/07/large/20190907151834997633_57.jpg" group-title="Saudi Arabia",[HD]bein sports 7@@1
+https://epg.pw/stream/a2867c004f0ecc58f616e960bb33d6a4482cd03a4868c16232333d91ad6dd2d8.ctv
+#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-id="4228" tvg-country="Saudi Arabia" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2019/09/07/large/20190907151834997633_57.jpg" group-title="Saudi Arabia",[HD]bein sports xtra ñ@@2[geo-blocked]
+https://epg.pw/stream/3be75a40b4a814d1c4a13e4795402cf2fb364ba41948acb291e33637cc338719.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-id="4228" tvg-country="Saudi Arabia" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2019/09/07/large/20190907151834997633_57.jpg" group-title="Saudi Arabia",[BD]bein sports fhd 2
+https://epg.pw/stream/f3e8321e0cf2467172678ce2d8b702b810461d0e35c0d394574f6f0317a1a9ed.m3u8
+
 
