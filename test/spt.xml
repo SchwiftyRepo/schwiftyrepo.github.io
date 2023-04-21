@@ -205,5 +205,25 @@ https://epg.pw/stream/0cce532e17ae27f684f826b0727b0fc9ded05fb555fb9951a52377df04
 https://epg.pw/stream/e3a6388860dd2b2dd3c1d9f3c751dcb31e3c3cac8c957d83d09fd1c2513372c8.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 2 ID" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/01/01/20180101170116637568_65.png" group-title="Indonesia",[BD]id hd@@2
 https://epg.pw/stream/4beafd16d79721e0a9214483a7c6e68a99a9435f6bdaac38a2945c1136487403.m3u8
+#EXTINF:-1 tvg-name="A-sport" tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Kurdistan",[BD]ziggo sport 4k@@4
+https://epg.pw/stream/44f1360561b92d031b99ed57d94c85bbc2b66dcdf17334be522054262a391db7.ctv
+#EXTINF:-1 tvg-name="A-sport" tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Kurdistan",[SD]xsport ua
+https://epg.pw/stream/daff8f637d98f1ba568a3a402e5bfea11391f3f51d6a9e792cefdf5ac0f48a8e.ctv
+#EXTINF:-1 tvg-name="A-sport" tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Kurdistan",[HD]dazn 2 sport[geo-blocked]
+https://epg.pw/stream/f64f95523184060bce53e9244f99a08f46ab216a58cf43c0cc6bf21faba5dceb.m3u8
+#EXTINF:-1 tvg-name="A-sport" tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Kurdistan",[BD]ssc sport 4[geo-blocked]
+https://epg.pw/stream/b975cd52ccb6f52c9b9363490eadf0246f40f85a0e8579d8dc7f7e0dde61a293.m3u8
+#EXTINF:-1 tvg-name="A-sport" tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Kurdistan",[VGA]sport ru[geo-blocked]
+https://epg.pw/stream/9f7d28411aa7196f20ce0d31d35b9942de26ad0e041ed5a48310d2bb97c6216d.m3u8
+#EXTINF:-1 tvg-name="A-sport" tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Kurdistan",[HD]Auto Motor Sport[geo-blocked]
+https://epg.pw/stream/e668bd5636d6ef6c27d23394bb6674c59194face7540ee3977fa02d33a42f5b3.m3u8
+#EXTINF:-1 tvg-name="A-sport" tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Kurdistan",[BD]tyc sport op2
+https://epg.pw/stream/debde109fb849e40938a0f7e945125504758b8e873aa5c2a481436247a60230a.ctv
+#EXTINF:-1 tvg-name="A-sport" tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Kurdistan",[BD]unifi sport 2[geo-blocked]
+https://epg.pw/stream/e8fe4927894959696606f511088d22c6dd4034a210bd517002dcede729c8fa3d.ctv
+#EXTINF:-1 tvg-name="A-sport" tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Kurdistan",[BD]ftf sport
+https://epg.pw/stream/7833caa91e07ac4544ddeba751cbee8076aa3fd1cc4a47aa62ec97dbfbb00da9.m3u8
+#EXTINF:-1 tvg-name="A-sport" tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/08/09/20170809042132191729_22.jpg" group-title="Kurdistan",[BD]alfa sport[geo-blocked]
+https://epg.pw/stream/f8b68ec12d1def75360cae3634b448ea866a4ed14d88b84c3d54d7bd42e4c906.m3u8
 
 
