@@ -1,5 +1,10 @@
 {
     "items": [
+	{
+            "type": "item",
+            "title": "BT Sport 1 FHD",
+            "link": "https://epg.pw/stream/0a12fd57177cbeaca0647421ce1044f483637d9eb868cf1e77a13066dc29dd45.ctv"
+        },
         {
             "type": "item",
             "title": "BT Sport 1 FHD",
@@ -9,11 +14,6 @@
             "type": "item",
             "title": "BT Sport 1 FHD",
             "link": "https://epg.pw/stream/796a04f5b3e64b5ab40ba82e6243c07c22b9ef0c23e0f4b066dfdd6fe4c45696.ctv"
-        },
-        {
-            "type": "item",
-            "title": "BT Sport 1 FHD",
-            "link": "https://epg.pw/stream/0a12fd57177cbeaca0647421ce1044f483637d9eb868cf1e77a13066dc29dd45.ctv"
         },
         {
             "type": "item",
@@ -80,37 +80,37 @@
             "title": "Sky Sports Main Event UHD",
             "link": "https://epg.pw/stream/d7aa831a82af9dde75b5cd8b247b15a9be518a902dd45e51fbe2dfd5c9e70e98.ctv"
         },
-		{
+	{
             "type": "item",
             "title": "Sky Sports Main Event UHD",
             "link": "https://epg.pw/stream/00932090d48a2826dc9c46eeb20eab130db00a069678a2f11a4fbdd2c969aa78.ctv"
         },
-		{
+	{
             "type": "item",
             "title": "Sky Sports Main Event UHD",
             "link": "https://epg.pw/stream/a91321e782a97f72c395c353e991cedc60db8ae5af281924f18a66064bdf0e09.ctv"
         },
-		{
+	{
             "type": "item",
             "title": "Sky Sports Main Event UHD",
             "link": "https://epg.pw/stream/df3455b5bb680ffd296ee44a0187d4d07face6ea64b0542edd5f77e0443cdfef.ctv"
         },
-		{
+	{
             "type": "item",
             "title": "Sky Sports Main Event UHD",
             "link": "https://epg.pw/stream/f79112d5993e5d73502eef4a5c40c65778092003ab1c98decae8d7f991eabc4f.ctv"
         },
-		{
+	{
             "type": "item",
             "title": "Sky Sports Main Event UHD",
             "link": "https://epg.pw/stream/4aba1cca1d68e5a98d1720dfa29a4a6260c470bf1c1f010306b5c55363189c1f.ctv"
         },
-		{
+	{
             "type": "item",
             "title": "Sky Sports Main Event UHD",
             "link": "https://epg.pw/stream/095a80d5b7d4f8585276cfb39fa4c1bc8a188801483c7c50baf0428f7c14e639.ctv"
         },
-		{
+	{
             "type": "item",
             "title": "Sky Sports Main Event FHD",
             "link": "https://epg.pw/stream/96aea25640c3509dc0b65709a14d031aab884f0739e22e3e9281b7004d387f39.ctv"
