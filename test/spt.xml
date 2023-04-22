@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="BT Sport 1" tvg-id="3689" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226165752289673_93.png" group-title="01-United Kingdom",[BD]bt sport 1 fhd 50fps@@1
+#EXTINF:-1 tvg-name="BT Sport 1 FHD" tvg-id="3689" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226165752289673_93.png" group-title="01-United Kingdom",[BD]bt sport 1 fhd 50fps@@1
 https://epg.pw/stream/a5ca1c26a9fe8e00918cbe78f32521409845433f59a4922312d4e55738eac135.ctv
-#EXTINF:-1 tvg-name="BT Sport 1" tvg-id="3689" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226165752289673_93.png" group-title="01-United Kingdom",[BD]bt sport 1 fhd@@1
+#EXTINF:-1 tvg-name="BT Sport 1 FHD" tvg-id="3689" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226165752289673_93.png" group-title="01-United Kingdom",[BD]bt sport 1 fhd@@1
 https://epg.pw/stream/796a04f5b3e64b5ab40ba82e6243c07c22b9ef0c23e0f4b066dfdd6fe4c45696.ctv
-#EXTINF:-1 tvg-name="BT Sport 1" tvg-id="3689" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226165752289673_93.png" group-title="01-United Kingdom",[BD]bt sports 1 fhd
+#EXTINF:-1 tvg-name="BT Sport 1 FHD" tvg-id="3689" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226165752289673_93.png" group-title="01-United Kingdom",[BD]bt sports 1 fhd
 https://epg.pw/stream/0a12fd57177cbeaca0647421ce1044f483637d9eb868cf1e77a13066dc29dd45.ctv
-#EXTINF:-1 tvg-name="BT Sport 2" tvg-id="3690" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170013137342_92.png" group-title="01-United Kingdom",[BD]bt sport 2 fhd@@1
+#EXTINF:-1 tvg-name="BT Sport 2 FHD" tvg-id="3690" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170013137342_92.png" group-title="01-United Kingdom",[BD]bt sport 2 fhd@@1
 https://epg.pw/stream/3af65a9b58e18e0f782c747fc1d80c022ecfd1c2ba0131357d9ce6c06d36d897.ctv
-#EXTINF:-1 tvg-name="BT Sport 2" tvg-id="3690" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170013137342_92.png" group-title="01-United Kingdom",[BD]bt sport 2 fhd 50fps@@1
+#EXTINF:-1 tvg-name="BT Sport 2 FHD" tvg-id="3690" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170013137342_92.png" group-title="01-United Kingdom",[BD]bt sport 2 fhd 50fps@@1
 https://epg.pw/stream/9ba365ec1a74579e407d1dc4abfa6233227c36810575eefa9b873d42c3d09585.ctv
-#EXTINF:-1 tvg-name="BT Sport 3" tvg-id="3718" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170338360811_47.png" group-title="01-United Kingdom",[BD]bt sport 3 fhd@@1
+#EXTINF:-1 tvg-name="BT Sport 3 FHD" tvg-id="3718" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170338360811_47.png" group-title="01-United Kingdom",[BD]bt sport 3 fhd@@1
 https://epg.pw/stream/4081ac77ca79f1be8c1ec227d386ce59236d511e3614002d5f9f031ff0725945.ctv
-#EXTINF:-1 tvg-name="BT Sport 3" tvg-id="3718" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170338360811_47.png" group-title="01-United Kingdom",[BD]bt sport 3 fhd 50fps@@1
+#EXTINF:-1 tvg-name="BT Sport 3 FHD" tvg-id="3718" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170338360811_47.png" group-title="01-United Kingdom",[BD]bt sport 3 fhd 50fps@@1
 https://epg.pw/stream/babccd84bd0fa9393bc59f3bcc8769fd666412f9e96bf210af3480889f6d01ff.ctv
-#EXTINF:-1 tvg-name="BT Sport 3" tvg-id="3718" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170338360811_47.png" group-title="01-United Kingdom",[BD]bt sports 3 fhd
+#EXTINF:-1 tvg-name="BT Sport 3 FHD" tvg-id="3718" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170338360811_47.png" group-title="01-United Kingdom",[BD]bt sports 3 fhd
 https://epg.pw/stream/a3c5a9bb9392386290b2432e41f7a2cfe10585b37ead01cf2d6ef82b5aa341a8.ctv
-#EXTINF:-1 tvg-name="BT Sport 3" tvg-id="3718" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170338360811_47.png" group-title="01-United Kingdom",[BD]BT SPORT 3
+#EXTINF:-1 tvg-name="BT Sport 3 FHD" tvg-id="3718" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170338360811_47.png" group-title="01-United Kingdom",[BD]BT SPORT 3
 https://epg.pw/stream/2445b713f506d51b7622c136748975bf551144ef9f9c90afde8c6e4f55cf392e.ctv
-#EXTINF:-1 tvg-name="BT Sport 4" tvg-id="61707" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/05/large/20230105002351579599_18.png" group-title="01-United Kingdom",[BD]bt sport 4 fhd@@1
+#EXTINF:-1 tvg-name="BT Sport 4 FHD" tvg-id="61707" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/05/large/20230105002351579599_18.png" group-title="01-United Kingdom",[BD]bt sport 4 fhd@@1
 https://epg.pw/stream/7a6d94c7d0e1c01210935fb53c8ae152b957cb591704a879b30e8e0649d88a49.ctv
-#EXTINF:-1 tvg-name="BT Sport 4" tvg-id="61707" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/05/large/20230105002351579599_18.png" group-title="01-United Kingdom",[BD]bt sport 4 fhd 50fps@@1
+#EXTINF:-1 tvg-name="BT Sport 4 FHD" tvg-id="61707" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/05/large/20230105002351579599_18.png" group-title="01-United Kingdom",[BD]bt sport 4 fhd 50fps@@1
 https://epg.pw/stream/2f025fe90826a17addd76213b13be0363819b0f2d5d9da7936519a12e743d49d.ctv
 #EXTINF:-1 tvg-name="Sky Sports Main Event UHD" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sports main event 4k iptv@@2
 https://epg.pw/stream/8db9947646937eac8b7da85976ad8e4f9ce836a58bc9d7ace6439528f4261b9d.ctv
