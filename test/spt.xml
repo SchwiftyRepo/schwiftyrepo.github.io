@@ -55,6 +55,8 @@ https://epg.pw/stream/9e08428ec58d8ca5cf8d7eb09f10341713880435770b3bdc7165e11e05
 https://epg.pw/stream/98d1644250675171af3cf3de4fc10476c5f604cc4bad02e7bd4a7cd9a0db2f57.ctv
 #EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 13@@1
 https://epg.pw/stream/974e32b1fe24895a0e26c6f8790b00d86c4e0b067362377c108fe2292acc4100.ctv
+#EXTINF:-1 tvg-name="Sky Sports Main Event FHD" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event fhd@@1
+https://epg.pw/stream/96aea25640c3509dc0b65709a14d031aab884f0739e22e3e9281b7004d387f39.ctv
 #EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-id="3628" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143714315388_48.png" group-title="01-United Kingdom",[BD]sky sports cricket[geo-blocked]
 https://epg.pw/stream/e1479cd661eb611a602536427d48b7512dc665ccdc17997d5a49ca108e54164d.m3u8
 #EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/25/large/20220225195048821818_33.png" group-title="01-United Kingdom",[HD]sky sports f1 hd
