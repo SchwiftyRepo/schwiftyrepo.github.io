@@ -667,4 +667,18 @@ https://epg.pw/stream/137047bf383c3122c56413610b23e5f8998479eeda0165baa8ff06293f
 https://epg.pw/stream/68d3bb281a75fca0b2383c7bd39684ec6f6a39c54cf0fa8004c48a1423ebe74a.ctv
 #EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@4
 https://epg.pw/stream/a9c0cd2ffc6bedf7fe399b5e8fcc5a6550a882a80b381dd2882e5d4a07e63652.ctv
+#EXTINF:-1 tvg-name="SKY Bundesliga 1" tvg-id="" tvg-country="06-Bundesliga" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105085747465258_51.png" group-title="06-Bundesliga",[BD]sky bundesliga 4@@1
+https://epg.pw/stream/568170bf05ee8f21c8072e627a7045b4f211d4f9df1ea1ae1a4ee05dc4a4343b.ctv
+#EXTINF:-1 tvg-name="SKY Bundesliga 1" tvg-id="" tvg-country="06-Bundesliga" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105085747465258_51.png" group-title="06-Bundesliga",[BD]sky bundesliga 5@@1
+https://epg.pw/stream/d79c24a79c73e222726614ff264ef2d9ceeafff3b8ae8e92b001e1180ce75220.ctv
+#EXTINF:-1 tvg-name="SKY Bundesliga 1" tvg-id="" tvg-country="06-Bundesliga" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105085747465258_51.png" group-title="06-Bundesliga",[BD]sky bundesliga 2@@1
+https://epg.pw/stream/0f1f00a95e76e593f18e41c1e224c828c80d79e6ab9b2054f645434ed77398d8.ctv
+#EXTINF:-1 tvg-name="SKY Bundesliga 1" tvg-id="" tvg-country="06-Bundesliga" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105085747465258_51.png" group-title="06-Bundesliga",[BD]sky bundesliga 1[geo-blocked]
+https://epg.pw/stream/184178e76856006d155f5dd458ec5efe52f3b4c99bcdc8e61155cb685f9eb96e.ctv
+#EXTINF:-1 tvg-name="SKY Bundesliga 1" tvg-id="" tvg-country="06-Bundesliga" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105085747465258_51.png" group-title="06-Bundesliga",[BD]sky bundesliga 6
+https://epg.pw/stream/ac0b07c9e52da6dd3d3be5203e288b3fbe521b769cd265945ab2b86e3ae9b19a.ctv
+#EXTINF:-1 tvg-name="SKY Bundesliga 1" tvg-id="" tvg-country="06-Bundesliga" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105085747465258_51.png" group-title="06-Bundesliga",[BD]sky bundesliga 3@@1
+https://epg.pw/stream/39dee4ac2255d1c25bd630395fdd43088126a945c1b00224c03f087d74a2db9c.ctv
+#EXTINF:-1 tvg-name="SKY Bundesliga 1" tvg-id="" tvg-country="06-Bundesliga" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105085747465258_51.png" group-title="06-Bundesliga",[BD]sky bundesliga
+https://epg.pw/stream/177581f6be416e4c5f7db7c96e9993676b59fb1b2c44983251b9b7565083cab1.ctv
 
