@@ -1,70 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="BT Sport 1" tvg-id="3689" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226165752289673_93.png" group-title="01-United Kingdom",[BD]bt sport 1 fhd 50fps@@1
+#EXTINF:-1 tvg-name="BT Sport 1 FHD" tvg-id="3689" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226165752289673_93.png" group-title="01-United Kingdom",[BD]bt sport 1 fhd 50fps@@1
 https://epg.pw/stream/a5ca1c26a9fe8e00918cbe78f32521409845433f59a4922312d4e55738eac135.ctv
-#EXTINF:-1 tvg-name="BT Sport 1" tvg-id="3689" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226165752289673_93.png" group-title="01-United Kingdom",[BD]bt sport 1 fhd@@1
+#EXTINF:-1 tvg-name="BT Sport 1 FHD" tvg-id="3689" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226165752289673_93.png" group-title="01-United Kingdom",[BD]bt sport 1 fhd@@1
 https://epg.pw/stream/796a04f5b3e64b5ab40ba82e6243c07c22b9ef0c23e0f4b066dfdd6fe4c45696.ctv
-#EXTINF:-1 tvg-name="BT Sport 1" tvg-id="3689" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226165752289673_93.png" group-title="01-United Kingdom",[BD]bt sports 1 fhd
+#EXTINF:-1 tvg-name="BT Sport 1 FHD" tvg-id="3689" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226165752289673_93.png" group-title="01-United Kingdom",[BD]bt sports 1 fhd
 https://epg.pw/stream/0a12fd57177cbeaca0647421ce1044f483637d9eb868cf1e77a13066dc29dd45.ctv
-#EXTINF:-1 tvg-name="BT Sport 2" tvg-id="3690" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170013137342_92.png" group-title="01-United Kingdom",[BD]bt sport 2 fhd@@1
+#EXTINF:-1 tvg-name="BT Sport 2 FHD" tvg-id="3690" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170013137342_92.png" group-title="01-United Kingdom",[BD]bt sport 2 fhd@@1
 https://epg.pw/stream/3af65a9b58e18e0f782c747fc1d80c022ecfd1c2ba0131357d9ce6c06d36d897.ctv
-#EXTINF:-1 tvg-name="BT Sport 2" tvg-id="3690" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170013137342_92.png" group-title="01-United Kingdom",[BD]bt sport 2 fhd 50fps@@1
+#EXTINF:-1 tvg-name="BT Sport 2 FHD" tvg-id="3690" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170013137342_92.png" group-title="01-United Kingdom",[BD]bt sport 2 fhd 50fps@@1
 https://epg.pw/stream/9ba365ec1a74579e407d1dc4abfa6233227c36810575eefa9b873d42c3d09585.ctv
-#EXTINF:-1 tvg-name="BT Sport 3" tvg-id="3718" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170338360811_47.png" group-title="01-United Kingdom",[BD]bt sport 3 fhd@@1
+#EXTINF:-1 tvg-name="BT Sport 3 FHD" tvg-id="3718" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170338360811_47.png" group-title="01-United Kingdom",[BD]bt sport 3 fhd@@1
 https://epg.pw/stream/4081ac77ca79f1be8c1ec227d386ce59236d511e3614002d5f9f031ff0725945.ctv
-#EXTINF:-1 tvg-name="BT Sport 3" tvg-id="3718" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170338360811_47.png" group-title="01-United Kingdom",[BD]bt sport 3 fhd 50fps@@1
+#EXTINF:-1 tvg-name="BT Sport 3 FHD" tvg-id="3718" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170338360811_47.png" group-title="01-United Kingdom",[BD]bt sport 3 fhd 50fps@@1
 https://epg.pw/stream/babccd84bd0fa9393bc59f3bcc8769fd666412f9e96bf210af3480889f6d01ff.ctv
-#EXTINF:-1 tvg-name="BT Sport 3" tvg-id="3718" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170338360811_47.png" group-title="01-United Kingdom",[BD]bt sports 3 fhd
+#EXTINF:-1 tvg-name="BT Sport 3 FHD" tvg-id="3718" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170338360811_47.png" group-title="01-United Kingdom",[BD]bt sports 3 fhd
 https://epg.pw/stream/a3c5a9bb9392386290b2432e41f7a2cfe10585b37ead01cf2d6ef82b5aa341a8.ctv
-#EXTINF:-1 tvg-name="BT Sport 3" tvg-id="3718" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170338360811_47.png" group-title="01-United Kingdom",[BD]BT SPORT 3
+#EXTINF:-1 tvg-name="BT Sport 3 FHD" tvg-id="3718" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170338360811_47.png" group-title="01-United Kingdom",[BD]BT SPORT 3
 https://epg.pw/stream/2445b713f506d51b7622c136748975bf551144ef9f9c90afde8c6e4f55cf392e.ctv
-#EXTINF:-1 tvg-name="BT Sport 4" tvg-id="61707" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/05/large/20230105002351579599_18.png" group-title="01-United Kingdom",[BD]bt sport 4 fhd@@1
+#EXTINF:-1 tvg-name="BT Sport 4 FHD" tvg-id="61707" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/05/large/20230105002351579599_18.png" group-title="01-United Kingdom",[BD]bt sport 4 fhd@@1
 https://epg.pw/stream/7a6d94c7d0e1c01210935fb53c8ae152b957cb591704a879b30e8e0649d88a49.ctv
-#EXTINF:-1 tvg-name="BT Sport 4" tvg-id="61707" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/05/large/20230105002351579599_18.png" group-title="01-United Kingdom",[BD]bt sport 4 fhd 50fps@@1
+#EXTINF:-1 tvg-name="BT Sport 4 FHD" tvg-id="61707" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/05/large/20230105002351579599_18.png" group-title="01-United Kingdom",[BD]bt sport 4 fhd 50fps@@1
 https://epg.pw/stream/2f025fe90826a17addd76213b13be0363819b0f2d5d9da7936519a12e743d49d.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sports main event 4k iptv@@1
-https://epg.pw/stream/ace4ec095266f8f46292553127bc4d0a418fe5623aca3ce983854c500199589b.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sports main event 4k iptv@@2
+#EXTINF:-1 tvg-name="Sky Sports Main Event UHD" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sports main event 4k iptv@@2
 https://epg.pw/stream/8db9947646937eac8b7da85976ad8e4f9ce836a58bc9d7ace6439528f4261b9d.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sports main event 4k iptv@@3
+#EXTINF:-1 tvg-name="Sky Sports Main Event UHD" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sports main event 4k iptv@@3
 https://epg.pw/stream/ff3ab656ebda4968327b79f7ff64c20ede6c20414793eadc440e7f2b5c6c091c.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event fhd@@1
-https://epg.pw/stream/96aea25640c3509dc0b65709a14d031aab884f0739e22e3e9281b7004d387f39.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 8@@1
+#EXTINF:-1 tvg-name="Sky Sports Main Event UHD" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 8@@1
 https://epg.pw/stream/d76b48450389a9749b6e03076994ce9f2711c7aa7397e6b4c9f6bdfdab6adc11.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 9@@1
+#EXTINF:-1 tvg-name="Sky Sports Main Event UHD" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 9@@1
 https://epg.pw/stream/c47b0defcd25f266c72a6e851e4a91fc599c60958a6ce7ba4aa225313c23d48b.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 1@@1
+#EXTINF:-1 tvg-name="Sky Sports Main Event UHD" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 1@@1
 https://epg.pw/stream/c5dd51609c719e00b7c09f0d6fead6db31e40fb78d72ce95851ffd3aa7db8467.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 6@@1
+#EXTINF:-1 tvg-name="Sky Sports Main Event UHD" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 6@@1
 https://epg.pw/stream/d7aa831a82af9dde75b5cd8b247b15a9be518a902dd45e51fbe2dfd5c9e70e98.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 3@@1
+#EXTINF:-1 tvg-name="Sky Sports Main Event UHD" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 3@@1
 https://epg.pw/stream/00932090d48a2826dc9c46eeb20eab130db00a069678a2f11a4fbdd2c969aa78.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 7@@1
+#EXTINF:-1 tvg-name="Sky Sports Main Event UHD" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 7@@1
 https://epg.pw/stream/a91321e782a97f72c395c353e991cedc60db8ae5af281924f18a66064bdf0e09.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 5@@1
+#EXTINF:-1 tvg-name="Sky Sports Main Event UHD" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 5@@1
 https://epg.pw/stream/df3455b5bb680ffd296ee44a0187d4d07face6ea64b0542edd5f77e0443cdfef.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 4@@1
+#EXTINF:-1 tvg-name="Sky Sports Main Event UHD" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 4@@1
 https://epg.pw/stream/f79112d5993e5d73502eef4a5c40c65778092003ab1c98decae8d7f991eabc4f.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 0@@1
+#EXTINF:-1 tvg-name="Sky Sports Main Event UHD" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 0@@1
 https://epg.pw/stream/4aba1cca1d68e5a98d1720dfa29a4a6260c470bf1c1f010306b5c55363189c1f.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 2@@1
+#EXTINF:-1 tvg-name="Sky Sports Main Event UHD" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 2@@1
 https://epg.pw/stream/095a80d5b7d4f8585276cfb39fa4c1bc8a188801483c7c50baf0428f7c14e639.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 14@@1
-https://epg.pw/stream/9e08428ec58d8ca5cf8d7eb09f10341713880435770b3bdc7165e11e057d946e.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 11@@1
-https://epg.pw/stream/98d1644250675171af3cf3de4fc10476c5f604cc4bad02e7bd4a7cd9a0db2f57.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 13@@1
-https://epg.pw/stream/974e32b1fe24895a0e26c6f8790b00d86c4e0b067362377c108fe2292acc4100.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 12@@1
-https://epg.pw/stream/c17db8d01406c01fc4e01ee562bb8a1e2da4f964020dca820286604ebaa37764.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event 10@@1
-https://epg.pw/stream/546ef0bf31c03aa9cb5efa5d95da760e1e80e3daea2ecf47b6b2946d1bf4125b.ctv
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[HD]sky sp main event fhd
-https://epg.pw/stream/164ef066a50dc8515e831e5ffb3f9b54b53a639fd7f0065b3528b10958b39902.ctv
-#EXTINF:-1 tvg-name="Sky Sports Action" tvg-id="" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/19/large/20200419203603251150_67.png" group-title="01-United Kingdom",[BD]on sports action[geo-blocked]
-https://epg.pw/stream/29ae384f128fe5d6c491c6f98bfdfba11c2575f475ef1710408db031325b5ee6.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Main Event FHD" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event fhd@@1
+https://epg.pw/stream/96aea25640c3509dc0b65709a14d031aab884f0739e22e3e9281b7004d387f39.ctv
+#EXTINF:-1 tvg-name="Sky Sports Main Event FHD" tvg-id="7121" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="01-United Kingdom",[BD]sky sport main event fhd@@1
+https://epg.pw/stream/96aea25640c3509dc0b65709a14d031aab884f0739e22e3e9281b7004d387f39.ctv
 #EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-id="3628" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143714315388_48.png" group-title="01-United Kingdom",[BD]sky sports cricket[geo-blocked]
 https://epg.pw/stream/e1479cd661eb611a602536427d48b7512dc665ccdc17997d5a49ca108e54164d.m3u8
 #EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/25/large/20220225195048821818_33.png" group-title="01-United Kingdom",[HD]sky sports f1 hd
@@ -73,8 +59,6 @@ https://epg.pw/stream/e7b98ff73e023352f7de64aead29db82769598badffdc14fa003839745
 https://epg.pw/stream/f721d9fdfdb4c83ea363129cb2b34e3aafb24c17483b1eb321c2df8b09eb94a8.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Golf" tvg-id="3504" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143639349572_52.png" group-title="01-United Kingdom",[BD]sky sport golf fhd@@1
 https://epg.pw/stream/6e60d55b004bec456cc760391203e0fa6d64a3b06ea7dfae7437cb3ac7ad0215.ctv
-#EXTINF:-1 tvg-name="Sky Football" tvg-id="" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114203553929017_16.png" group-title="01-United Kingdom",[BD]sky sp football fhd
-https://epg.pw/stream/223c1acebefd05f36a884fd0bde0adb9d2e385dd32bb4e174e65f8917041434d.ctv
 #EXTINF:-1 tvg-name="Sky Sports News HQ" tvg-id="3766" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128083517380732_67.jpg" group-title="01-United Kingdom",[BD]sky sport new fhd@@1
 https://epg.pw/stream/8eb4a464e6a0f2f1f6781474069dbbaf3b51fda65499ae152bb8a22312e27e17.ctv
 #EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-id="6567" tvg-country="01-United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143617749987_14.png" group-title="01-United Kingdom",[BD]sky sp premier league fhd
@@ -95,33 +79,33 @@ mmsh://212.200.255.151/rtv1
 https://epg.pw/stream/e251f1772ee379deaac0c3e28571b9d8f0dcd8dcb2a735af55e6615d530659ac.ctv
 #EXTINF:-1 tvg-name="SporTV 1" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/11/24/large/20221124225810685184_36.png" group-title="Brazil",[HD]sportv 3uhd
 https://epg.pw/stream/8465193ca244c56520ada6945862078b9bef8a4726eb67fa846fd39f7d191419.ctv
-#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="United States",[HD]Tennis Channel Deutschland[geo-blocked]
+#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="05-Tennis" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="05-Tennis",[HD]Tennis Channel Deutschland[geo-blocked]
 https://epg.pw/stream/26558042fbd63b8456f12ecfcdd16ebb1ff6e12f715a0b6185718e1115c8ba9f.m3u8
-#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="United States",[BD]super tennis@@1[geo-blocked]
+#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="05-Tennis" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="05-Tennis",[BD]super tennis@@1[geo-blocked]
 https://epg.pw/stream/2a28b383a640bfb94657c740acf25f84d4aa4a7394781892a81fea3e8f2c30d3.m3u8
-#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="United States",[HD]Tennis Channel International[geo-blocked]
+#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="05-Tennis" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="05-Tennis",[HD]Tennis Channel International[geo-blocked]
 https://epg.pw/stream/8a3b50e5a5227fe8c0bc8b015bcdebc34824759be853eaa9cae9ceddfc00d1f8.m3u8
-#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="United States",[BD]super tennis@@2[geo-blocked]
+#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="05-Tennis" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="05-Tennis",[BD]super tennis@@2[geo-blocked]
 https://epg.pw/stream/f402e663f31912848f9dfe776432678da018927555dc035fdc1fccd99feb20e4.m3u8
-#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="United States",[HD]Tennis Channel International[geo-blocked]
+#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="05-Tennis" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="05-Tennis",[HD]Tennis Channel International[geo-blocked]
 https://epg.pw/stream/eb688a09de63b8575ca9a206af9684e25fef266ae82736b8cc4e7114127799dc.m3u8
-#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="United States",[SD]tennis
+#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="05-Tennis" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="05-Tennis",[SD]tennis
 https://epg.pw/stream/3194fbd18368c211567e9901edf29ac8c699a9d633eab73f3ea4cd4d733a8c89.m3u8
-#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="United States",[HD]Tennis Channel International[geo-blocked]
+#EXTINF:-1 tvg-name="Tennis" tvg-id="3132" tvg-country="05-Tennis" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/13/large/20190913231324405054_32.jpg" group-title="05-Tennis",[HD]Tennis Channel International[geo-blocked]
 https://epg.pw/stream/74efe10177487b81131c1bd594507b604c63733416d2ad4682c2fdff73e16396.m3u8
-#EXTINF:-1 tvg-name="UFC TV" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020637494753_10.png" group-title="United States",[HD]xfc tv[geo-blocked]
+#EXTINF:-1 tvg-name="UFC TV" tvg-id="" tvg-country="04-Fight Sports" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020637494753_10.png" group-title="04-Fight Sports",[HD]xfc tv[geo-blocked]
 https://epg.pw/stream/4f6c63a314d66fb1f35443b933273d7c6133a71d27a1fd385fefc904e11528f1.m3u8
-#EXTINF:-1 tvg-name="UFC TV" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020637494753_10.png" group-title="United States",[VGA]ufc
+#EXTINF:-1 tvg-name="UFC TV" tvg-id="" tvg-country="04-Fight Sports" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020637494753_10.png" group-title="04-Fight Sports",[VGA]ufc
 https://epg.pw/stream/68a9b24116e23b1c6464bdb078799757c040f7a4c3f69c7939631174ade80811.m3u8
-#EXTINF:-1 tvg-name="WWE Network" tvg-id="51764" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909024956017826_38.jpg" group-title="United States",[BD]wwe network 2@@1[geo-blocked]
+#EXTINF:-1 tvg-name="WWE Network" tvg-id="51764" tvg-country="04-Fight Sports" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909024956017826_38.jpg" group-title="04-Fight Sports",[BD]wwe network 2@@1[geo-blocked]
 https://epg.pw/stream/0c8bf7119022405b31855898f4a3331dc3ecc69bd6797132cd459559e2594e6e.m3u8
-#EXTINF:-1 tvg-name="WWE Network" tvg-id="51764" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909024956017826_38.jpg" group-title="United States",[BD]wwe network hd
+#EXTINF:-1 tvg-name="WWE Network" tvg-id="51764" tvg-country="04-Fight Sports" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909024956017826_38.jpg" group-title="04-Fight Sports",[BD]wwe network hd
 https://epg.pw/stream/56f8957bd07fb73857e81caad86414ee3ead1defb1bff20a4d14c1ff1fadf1d4.ctv
-#EXTINF:-1 tvg-name="Pro Wrestling Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530202414290742_89.png" group-title="United States",[BD]TNA Wrestling[geo-blocked]
+#EXTINF:-1 tvg-name="Pro Wrestling Channel" tvg-id="" tvg-country="04-Fight Sports" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530202414290742_89.png" group-title="04-Fight Sports",[BD]TNA Wrestling[geo-blocked]
 https://epg.pw/stream/642e76be45bf8170797390136f7c48161d2e578834e82c60b799d0c41b80042d.m3u8
-#EXTINF:-1 tvg-name="Pro Wrestling Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530202414290742_89.png" group-title="United States",[BD]IMPACT Wrestling[geo-blocked]
+#EXTINF:-1 tvg-name="Pro Wrestling Channel" tvg-id="" tvg-country="04-Fight Sports" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530202414290742_89.png" group-title="04-Fight Sports",[BD]IMPACT Wrestling[geo-blocked]
 https://epg.pw/stream/e4a4d109c04ddde3325448908240bae57c6c0a5f8cdedf64d4d25604670eea13.m3u8
-#EXTINF:-1 tvg-name="Pro Wrestling Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530202414290742_89.png" group-title="United States",[BD]Impact Wrestling (1080p)[geo-blocked]
+#EXTINF:-1 tvg-name="Pro Wrestling Channel" tvg-id="" tvg-country="04-Fight Sports" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530202414290742_89.png" group-title="04-Fight Sports",[BD]Impact Wrestling (1080p)[geo-blocked]
 https://epg.pw/stream/8eae44a8f4b0147b4c0f25a156876820dcfc57f1618fa5f8aba3657580a37303.m3u8
 #EXTINF:-1 tvg-name="TIDE SPORTS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/30800292494b4dd11efbee2b2b06f7d2.png" group-title="United States",[BD]SportsGrid (1080p)[geo-blocked]
 https://epg.pw/stream/2e8868ad2a5e18a570ee4f4e3b85d3934490c46ae982ae87a68c6b4eaa5124b2.m3u8
@@ -239,42 +223,6 @@ https://epg.pw/stream/d710bce7fe459d241fededfc512add2a73225144fc788352b578293e65
 https://epg.pw/stream/235f6f712a64ca2d8910d5586a992eb1394878bea95dc92a1726082f61bec58e.m3u8
 #EXTINF:-1 tvg-name="Arena Sport" tvg-id="" tvg-country="Croatia" tvg-language="Croatian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/18/20140518040405912889_73.png" group-title="Croatia",[BD]arena sport 6@@1[geo-blocked]
 https://epg.pw/stream/b1b866a4633154d7e24374f54f7677eabfbaeba4a5d3720d8b6d9bb2667c1ba6.m3u8
-#EXTINF:-1 tvg-name="Astro Supersports 1" tvg-id="3397" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162758081741_50.jpg" group-title="Malaysia",[BD]astro supersport 10@@1
-https://epg.pw/stream/a8ccbf38eba655fa8f3b9d355441ca9c83fc495ca98ffdd2f81f58a3a9bea89b.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 1" tvg-id="3397" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162758081741_50.jpg" group-title="Malaysia",[BD]astro supersport 1@@1
-https://epg.pw/stream/9420e53ebd1e35fdeee4ceb23abc2c8d1a1a763981c4afe5b55c586b92f515a8.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 1" tvg-id="3397" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162758081741_50.jpg" group-title="Malaysia",[HD]astro supersport@@1
-https://epg.pw/stream/9728a55716c43a9a92fd97bfeccb4d4df360bf91d12fd7b2cde6571d85f483d4.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 2" tvg-id="3387" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="Malaysia",[BD]astro supersport 2@@1
-https://epg.pw/stream/1f7bc5874d9b02c61e531fbeaaf41f19633f5062de8caa2460b6e2af9dd19ffa.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 2" tvg-id="3387" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="Malaysia",[BD]astro supersport 2 fhd
-https://epg.pw/stream/0572a61ec4a4998a1c76061fd80a35351b1586fe842c06154f3ec1951632922e.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 3" tvg-id="3406" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162857392352_67.jpg" group-title="Malaysia",[BD]astro supersport 3@@2
-https://epg.pw/stream/daa14b9eb342f1c51ac21a07420169a5500d52a999fda3c8522c8657a09f9f2f.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 3" tvg-id="3406" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162857392352_67.jpg" group-title="Malaysia",[BD]astro supersport 3
-https://epg.pw/stream/3cb6cf2791f4c33f632f3f7fca8605cc31213cd726598b624362e2507fbcf920.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astro super sport 4k
-https://epg.pw/stream/1915aa09b086cd94645a306fccf83f09bc2323e20227782cc149173039422e0f.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astro supersport 4@@3
-https://epg.pw/stream/0a5556038fb3bc1916d5ed01d6bf368e4a2cc2df6463e29c7b90fceaa8b4eac9.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astro supersport 8@@1
-https://epg.pw/stream/949bbecd8ee24b534969f586dfed17cab3d22dfaa09128105e82c62e19fc3e52.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astro supersport 9@@1[geo-blocked]
-https://epg.pw/stream/d8854481281de28b4d7ab801a81adce13127134535cf9a3a68b76c29cdf3184a.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astro supersport 7@@1
-https://epg.pw/stream/e89a260d65d30eb6e47e321992a34e578c0c273b715a91557dfae805d67c49b3.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astro supersport 6@@1
-https://epg.pw/stream/5094d4ee5946f6cb92efbe229739657f798ad56b04b68c410d7fccbd27a84a5f.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[BD]astrosupersport
-https://epg.pw/stream/cad7f9a7b0206e4ba32464cb43a1bf24a9568731a0bc5c1da77eae0d6846aa75.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[HD]astro supersport 4@@1
-https://epg.pw/stream/304360e2a0fac0478f60e036430dcf8b1c463ee3f49050ab35d6400d42c33d09.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[HD]astro supersport 4[geo-blocked]
-https://epg.pw/stream/62676c69ec67efdddbc06dbd1b14c407439574431589848773aa337bc8249f83.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-id="3434" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Malaysia",[HD]astro supersport[geo-blocked]
-https://epg.pw/stream/c7de0cce6cfc6952c0cdd1cb927b5187bef41a29790edc801dfef3fa197bb558.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 5" tvg-id="7806" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162956180653_58.jpg" group-title="Malaysia",[BD]astro supersport 5@@1[geo-blocked]
-https://epg.pw/stream/9a05326577ef03eef61974a84f40375e927b6d25873e497836698dd9cfceab9b.ctv
 #EXTINF:-1 tvg-name="BEIN SPORT 1 HD " tvg-id="7189" tvg-country="United Arab Emirates" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/13/large/20160613225651926400_64.png" group-title="United Arab Emirates",[HD]bein sports 1 hd@@3[geo-blocked]
 https://epg.pw/stream/33de3f2d530b48ced0a2928257c2e5c389e4a0b6a1a1ae02aadae55fb3770a2e.ctv
 #EXTINF:-1 tvg-name="BEIN SPORT Ar2" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/25/20161225034447187747_87.jpg" group-title="United Arab Emirates",[BD]bein sport 4k
@@ -329,62 +277,6 @@ https://epg.pw/stream/493149f90bea162572d93bd3c189f4c2d26ef1b9dfc287c88f5f4c31ae
 https://epg.pw/stream/91bfeaa489a794c3b25bc7ffe9a5b10f8532cb680cef379482b61b5cab5a8bc5.m3u8
 #EXTINF:-1 tvg-name="Claro Sports" tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/08/20150608032418779210_46.png" group-title="Colombia",[BD]claro sport[geo-blocked]
 https://epg.pw/stream/db13651823546c4b5c05fc5fe8af99c12b35b5ff1d5f799dbc5bd0ebc12c68d5.m3u8
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@5
-https://epg.pw/stream/cb84349543a0a046d8f18bf93cde81e16cc38adac09b27ceaa661fd6e08ffb40.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@6
-https://epg.pw/stream/285597e8e275c1ec271cc5c2b2b3a848b7334c96dc454cb3caa457370c2ca8fc.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@8
-https://epg.pw/stream/90c3f70d3c048aa14f0058a51a0eb75c397909bb32febee409adbf175a3d2178.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 720 iptv@@3
-https://epg.pw/stream/1879c925a270fabdf93dd32738280ab8777fe3927ffbe528d547264430e8aff8.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@9
-https://epg.pw/stream/dba72b0e6726149466d13f4ea89a35200741d6a762f4a1509b9bd546d6b5567f.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@10
-https://epg.pw/stream/29500b7f7162462e461dcc7d5040344866d078bd7a9c84bcc637d2124dd1890e.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 720 iptv@@4
-https://epg.pw/stream/b95648cce0b7f18661334a4b699686eb02547e28768b2cdf60f4a559ce8033ec.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 720 iptv@@5[geo-blocked]
-https://epg.pw/stream/4e5e7e010b08155052d15ab7f827bba543c9877836d79b6aee4eacaa6a4064eb.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@13
-https://epg.pw/stream/b71f6772786774168c96feadce2f6fea82dcc0e250252543e043e053a7d1ab79.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@14
-https://epg.pw/stream/e21ff5764d675fdaa17c31765e8013a6403f0627647347069f04f29cbdda836d.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@15
-https://epg.pw/stream/5a7a41880525de35b0248e93299e8c6c8bb8ceaa1357039aa93e195f4a268518.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 hd
-https://epg.pw/stream/33cbb973e2c5def7b886c1258a71019de30ecd29eaa51d651eea70fd7597b045.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@16
-https://epg.pw/stream/98acc5fda33a1046a640c1bfb42e19cae4108573d7799318de27182ba2538ca9.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@17
-https://epg.pw/stream/9681f7e4bd300c32b8ad85f4afe8892110b4d4be3e47a812c7ba4df4a2715350.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@18
-https://epg.pw/stream/82a93ab6a18ff030b9ab06616b1ed2798e67d0014e164df8725b4b16c2c45626.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@19
-https://epg.pw/stream/516b1b9bd3e00e7a7d1198c966c2932bd21369a66a31ac30b1b4c9d68848c36e.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@21
-https://epg.pw/stream/2d516eecbe5cb62fe4732676f7a96b59b7194ab538fff34f9d062857ceeeabd2.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[HD]dazn f1 hd@@1
-https://epg.pw/stream/3749ce45c008126d201321eb78d3368be56bce3abcb65c7581b76e0b5493233b.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@23
-https://epg.pw/stream/50ef765c88e148b9cd2118383d3077ad7f3cfe7ec7280c1c6ee179719c19c5ae.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@24
-https://epg.pw/stream/dce9c3591e13c1c671d224bbe1c1ac75996ce93b9f62757cfe1bd899d35e33ec.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@25
-https://epg.pw/stream/0d36ecae87d2f83a389d954e50dd8cd198a5b093c213b5374a91853cab74eb4f.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@26
-https://epg.pw/stream/7a40e44d513c814ac0cd5a671d532e24bfc1dd098449fa3466bc4be2df8bb6ab.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@27
-https://epg.pw/stream/11de823032638c6bbca28a594d65b70766991801ff630787c3e379daca9b5083.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@28
-https://epg.pw/stream/17119433a39a17d1d55ae2ba7a95cd986c1d4fa3d87be4a5346b12a2319e269c.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@30
-https://epg.pw/stream/dceacc0593bf30cab0719f46bd74757fe973aed49d1f2707246d92069ad198fb.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv
-https://epg.pw/stream/137047bf383c3122c56413610b23e5f8998479eeda0165baa8ff06293f023a57.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@3
-https://epg.pw/stream/68d3bb281a75fca0b2383c7bd39684ec6f6a39c54cf0fa8004c48a1423ebe74a.ctv
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="Spain",[BD]dazn f1 1080 iptv@@4
-https://epg.pw/stream/a9c0cd2ffc6bedf7fe399b5e8fcc5a6550a882a80b381dd2882e5d4a07e63652.ctv
 #EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Spain",[SD]m+ liga de campeones hd
 https://epg.pw/stream/c0293e107a1e7e0f6cd7d393283b96bad127136087e46d15246078fed91b89aa.ctv
 #EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Spain",[SD]m+ liga de campeones 3
@@ -651,25 +543,155 @@ https://epg.pw/stream/341f133d229a678831fe517745c64712455a83b8d0d9557b20da6022a5
 https://epg.pw/stream/cd5836b2c98726c130ec7706a1ea088e1f316bf5f0625ad89318952b6fb5240c.m3u8
 #EXTINF:-1 tvg-name="Dubai Sport 1" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717150805793825_52.jpg" group-title="United Arab Emirates",[BD]dubai sports 3@@5
 https://epg.pw/stream/518c402d4575e2134d9c1045722bc96fecabad98fdc3544b1f442bbb12e289e4.m3u8
-#EXTINF:-1 tvg-name="Now Sports 2" tvg-id="4208" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="02-EPL",[BD]now sport hk 2@@1
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/25/large/20220225195048821818_33.png" group-title="03-Formula 1",[HD]sky sports f1 hd
+https://epg.pw/stream/e7b98ff73e023352f7de64aead29db82769598badffdc14fa00383974595bab0.ctv
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/25/large/20220225195048821818_33.png" group-title="03-Formula 1",[BD]sky sports f1[geo-blocked]
+https://epg.pw/stream/f721d9fdfdb4c83ea363129cb2b34e3aafb24c17483b1eb321c2df8b09eb94a8.m3u8
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@5
+https://epg.pw/stream/cb84349543a0a046d8f18bf93cde81e16cc38adac09b27ceaa661fd6e08ffb40.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@6
+https://epg.pw/stream/285597e8e275c1ec271cc5c2b2b3a848b7334c96dc454cb3caa457370c2ca8fc.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@8
+https://epg.pw/stream/90c3f70d3c048aa14f0058a51a0eb75c397909bb32febee409adbf175a3d2178.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 720 iptv@@3
+https://epg.pw/stream/1879c925a270fabdf93dd32738280ab8777fe3927ffbe528d547264430e8aff8.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@9
+https://epg.pw/stream/dba72b0e6726149466d13f4ea89a35200741d6a762f4a1509b9bd546d6b5567f.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@10
+https://epg.pw/stream/29500b7f7162462e461dcc7d5040344866d078bd7a9c84bcc637d2124dd1890e.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 720 iptv@@4
+https://epg.pw/stream/b95648cce0b7f18661334a4b699686eb02547e28768b2cdf60f4a559ce8033ec.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 720 iptv@@5[geo-blocked]
+https://epg.pw/stream/4e5e7e010b08155052d15ab7f827bba543c9877836d79b6aee4eacaa6a4064eb.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@13
+https://epg.pw/stream/b71f6772786774168c96feadce2f6fea82dcc0e250252543e043e053a7d1ab79.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@14
+https://epg.pw/stream/e21ff5764d675fdaa17c31765e8013a6403f0627647347069f04f29cbdda836d.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@15
+https://epg.pw/stream/5a7a41880525de35b0248e93299e8c6c8bb8ceaa1357039aa93e195f4a268518.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 hd
+https://epg.pw/stream/33cbb973e2c5def7b886c1258a71019de30ecd29eaa51d651eea70fd7597b045.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@16
+https://epg.pw/stream/98acc5fda33a1046a640c1bfb42e19cae4108573d7799318de27182ba2538ca9.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@17
+https://epg.pw/stream/9681f7e4bd300c32b8ad85f4afe8892110b4d4be3e47a812c7ba4df4a2715350.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@18
+https://epg.pw/stream/82a93ab6a18ff030b9ab06616b1ed2798e67d0014e164df8725b4b16c2c45626.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@19
+https://epg.pw/stream/516b1b9bd3e00e7a7d1198c966c2932bd21369a66a31ac30b1b4c9d68848c36e.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@21
+https://epg.pw/stream/2d516eecbe5cb62fe4732676f7a96b59b7194ab538fff34f9d062857ceeeabd2.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[HD]dazn f1 hd@@1
+https://epg.pw/stream/3749ce45c008126d201321eb78d3368be56bce3abcb65c7581b76e0b5493233b.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@23
+https://epg.pw/stream/50ef765c88e148b9cd2118383d3077ad7f3cfe7ec7280c1c6ee179719c19c5ae.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@24
+https://epg.pw/stream/dce9c3591e13c1c671d224bbe1c1ac75996ce93b9f62757cfe1bd899d35e33ec.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@25
+https://epg.pw/stream/0d36ecae87d2f83a389d954e50dd8cd198a5b093c213b5374a91853cab74eb4f.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@26
+https://epg.pw/stream/7a40e44d513c814ac0cd5a671d532e24bfc1dd098449fa3466bc4be2df8bb6ab.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@27
+https://epg.pw/stream/11de823032638c6bbca28a594d65b70766991801ff630787c3e379daca9b5083.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@28
+https://epg.pw/stream/17119433a39a17d1d55ae2ba7a95cd986c1d4fa3d87be4a5346b12a2319e269c.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@30
+https://epg.pw/stream/dceacc0593bf30cab0719f46bd74757fe973aed49d1f2707246d92069ad198fb.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv
+https://epg.pw/stream/137047bf383c3122c56413610b23e5f8998479eeda0165baa8ff06293f023a57.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@3
+https://epg.pw/stream/68d3bb281a75fca0b2383c7bd39684ec6f6a39c54cf0fa8004c48a1423ebe74a.ctv
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-country="03-Formula 1" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826000856498323_49.png" group-title="03-Formula 1",[BD]dazn f1 1080 iptv@@4
+https://epg.pw/stream/a9c0cd2ffc6bedf7fe399b5e8fcc5a6550a882a80b381dd2882e5d4a07e63652.ctv
+#EXTINF:-1 tvg-name="SKY Bundesliga 1" tvg-id="" tvg-country="06-Bundesliga" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105085747465258_51.png" group-title="06-Bundesliga",[BD]sky bundesliga 4@@1
+https://epg.pw/stream/568170bf05ee8f21c8072e627a7045b4f211d4f9df1ea1ae1a4ee05dc4a4343b.ctv
+#EXTINF:-1 tvg-name="SKY Bundesliga 1" tvg-id="" tvg-country="06-Bundesliga" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105085747465258_51.png" group-title="06-Bundesliga",[BD]sky bundesliga 5@@1
+https://epg.pw/stream/d79c24a79c73e222726614ff264ef2d9ceeafff3b8ae8e92b001e1180ce75220.ctv
+#EXTINF:-1 tvg-name="SKY Bundesliga 1" tvg-id="" tvg-country="06-Bundesliga" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105085747465258_51.png" group-title="06-Bundesliga",[BD]sky bundesliga 2@@1
+https://epg.pw/stream/0f1f00a95e76e593f18e41c1e224c828c80d79e6ab9b2054f645434ed77398d8.ctv
+#EXTINF:-1 tvg-name="SKY Bundesliga 1" tvg-id="" tvg-country="06-Bundesliga" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105085747465258_51.png" group-title="06-Bundesliga",[BD]sky bundesliga 1[geo-blocked]
+https://epg.pw/stream/184178e76856006d155f5dd458ec5efe52f3b4c99bcdc8e61155cb685f9eb96e.ctv
+#EXTINF:-1 tvg-name="SKY Bundesliga 1" tvg-id="" tvg-country="06-Bundesliga" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105085747465258_51.png" group-title="06-Bundesliga",[BD]sky bundesliga 6
+https://epg.pw/stream/ac0b07c9e52da6dd3d3be5203e288b3fbe521b769cd265945ab2b86e3ae9b19a.ctv
+#EXTINF:-1 tvg-name="SKY Bundesliga 1" tvg-id="" tvg-country="06-Bundesliga" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105085747465258_51.png" group-title="06-Bundesliga",[BD]sky bundesliga 3@@1
+https://epg.pw/stream/39dee4ac2255d1c25bd630395fdd43088126a945c1b00224c03f087d74a2db9c.ctv
+#EXTINF:-1 tvg-name="SKY Bundesliga 1" tvg-id="" tvg-country="06-Bundesliga" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105085747465258_51.png" group-title="06-Bundesliga",[BD]sky bundesliga
+https://epg.pw/stream/177581f6be416e4c5f7db7c96e9993676b59fb1b2c44983251b9b7565083cab1.ctv
+
+#EXTINF:-1 tvg-name="EPL 01" tvg-id="3397" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162758081741_50.jpg" group-title="02-EPL",[BD]astro supersport 10@@1
+https://epg.pw/stream/a8ccbf38eba655fa8f3b9d355441ca9c83fc495ca98ffdd2f81f58a3a9bea89b.ctv
+#EXTINF:-1 tvg-name="EPL 02" tvg-id="3397" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162758081741_50.jpg" group-title="02-EPL",[BD]astro supersport 1@@1
+https://epg.pw/stream/9420e53ebd1e35fdeee4ceb23abc2c8d1a1a763981c4afe5b55c586b92f515a8.ctv
+#EXTINF:-1 tvg-name="EPL 03" tvg-id="3397" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162758081741_50.jpg" group-title="02-EPL",[HD]astro supersport@@1
+https://epg.pw/stream/9728a55716c43a9a92fd97bfeccb4d4df360bf91d12fd7b2cde6571d85f483d4.ctv
+#EXTINF:-1 tvg-name="EPL 04" tvg-id="3387" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="02-EPL",[BD]astro supersport 2@@1
+https://epg.pw/stream/1f7bc5874d9b02c61e531fbeaaf41f19633f5062de8caa2460b6e2af9dd19ffa.ctv
+#EXTINF:-1 tvg-name="EPL 05" tvg-id="3387" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="02-EPL",[BD]astro supersport 2 fhd
+https://epg.pw/stream/0572a61ec4a4998a1c76061fd80a35351b1586fe842c06154f3ec1951632922e.ctv
+#EXTINF:-1 tvg-name="EPL 06" tvg-id="3406" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162857392352_67.jpg" group-title="02-EPL",[BD]astro supersport 3@@2
+https://epg.pw/stream/daa14b9eb342f1c51ac21a07420169a5500d52a999fda3c8522c8657a09f9f2f.ctv
+#EXTINF:-1 tvg-name="EPL 07" tvg-id="3406" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162857392352_67.jpg" group-title="02-EPL",[BD]astro supersport 3
+https://epg.pw/stream/3cb6cf2791f4c33f632f3f7fca8605cc31213cd726598b624362e2507fbcf920.ctv
+#EXTINF:-1 tvg-name="EPL 08" tvg-id="3434" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="02-EPL",[BD]astro super sport 4k
+https://epg.pw/stream/1915aa09b086cd94645a306fccf83f09bc2323e20227782cc149173039422e0f.ctv
+#EXTINF:-1 tvg-name="EPL 09" tvg-id="3434" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="02-EPL",[BD]astro supersport 4@@3
+https://epg.pw/stream/0a5556038fb3bc1916d5ed01d6bf368e4a2cc2df6463e29c7b90fceaa8b4eac9.ctv
+#EXTINF:-1 tvg-name="EPL 10" tvg-id="3434" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="02-EPL",[BD]astro supersport 8@@1
+https://epg.pw/stream/949bbecd8ee24b534969f586dfed17cab3d22dfaa09128105e82c62e19fc3e52.ctv
+#EXTINF:-1 tvg-name="EPL 11" tvg-id="3434" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="02-EPL",[BD]astro supersport 9@@1[geo-blocked]
+https://epg.pw/stream/d8854481281de28b4d7ab801a81adce13127134535cf9a3a68b76c29cdf3184a.ctv
+#EXTINF:-1 tvg-name="EPL 12" tvg-id="3434" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="02-EPL",[BD]astro supersport 7@@1
+https://epg.pw/stream/e89a260d65d30eb6e47e321992a34e578c0c273b715a91557dfae805d67c49b3.ctv
+#EXTINF:-1 tvg-name="EPL 13" tvg-id="3434" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="02-EPL",[BD]astro supersport 6@@1
+https://epg.pw/stream/5094d4ee5946f6cb92efbe229739657f798ad56b04b68c410d7fccbd27a84a5f.ctv
+#EXTINF:-1 tvg-name="EPL 14" tvg-id="3434" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="02-EPL",[BD]astrosupersport
+https://epg.pw/stream/cad7f9a7b0206e4ba32464cb43a1bf24a9568731a0bc5c1da77eae0d6846aa75.ctv
+#EXTINF:-1 tvg-name="EPL 15" tvg-id="3434" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="02-EPL",[HD]astro supersport 4@@1
+https://epg.pw/stream/304360e2a0fac0478f60e036430dcf8b1c463ee3f49050ab35d6400d42c33d09.ctv
+#EXTINF:-1 tvg-name="EPL 16" tvg-id="3434" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="02-EPL",[HD]astro supersport 4[geo-blocked]
+https://epg.pw/stream/62676c69ec67efdddbc06dbd1b14c407439574431589848773aa337bc8249f83.ctv
+#EXTINF:-1 tvg-name="EPL 17" tvg-id="3434" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="02-EPL",[HD]astro supersport[geo-blocked]
+https://epg.pw/stream/c7de0cce6cfc6952c0cdd1cb927b5187bef41a29790edc801dfef3fa197bb558.ctv
+#EXTINF:-1 tvg-name="EPL 18" tvg-id="7806" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162956180653_58.jpg" group-title="02-EPL",[BD]astro supersport 5@@1[geo-blocked]
+https://epg.pw/stream/9a05326577ef03eef61974a84f40375e927b6d25873e497836698dd9cfceab9b.ctv
+#EXTINF:-1 tvg-name="EPL 19" tvg-id="4208" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="02-EPL",[BD]now sport hk 2@@1
 https://epg.pw/stream/25691f043f0d488ca20f90b1ebeee2b6400698aa88cc469c18f460ab799cba1f.ctv
-#EXTINF:-1 tvg-name="Now Sports 2" tvg-id="4208" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="02-EPL",[BD]now sports 2
+#EXTINF:-1 tvg-name="EPL 20" tvg-id="4208" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="02-EPL",[BD]now sports 2
 https://epg.pw/stream/93a3d727ce84cd096b27b7663459d77a588eb0e1eda79be49dcb7c929ff5aebb.ctv
-#EXTINF:-1 tvg-name="Now Sports 2" tvg-id="4208" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="02-EPL",[BD]now sports 2 hd
+#EXTINF:-1 tvg-name="EPL 21" tvg-id="4208" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="02-EPL",[BD]now sports 2 hd
 https://epg.pw/stream/95af30f5a7e972127ed9bd310ce55ded0efbb78ea28afc65b8aac18113b5bc8f.ctv
-#EXTINF:-1 tvg-name="Now Sports 3" tvg-id="4211" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095639627752_84.jpg" group-title="02-EPL",[BD]now sport hk 3@@1
+#EXTINF:-1 tvg-name="EPL 22" tvg-id="4211" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095639627752_84.jpg" group-title="02-EPL",[BD]now sport hk 3@@1
 https://epg.pw/stream/b1b31b9919302205a9ead62295f33b57f6f9daf495d8fd1447344ac17eff2e92.ctv
-#EXTINF:-1 tvg-name="Now Sports 3" tvg-id="4211" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095639627752_84.jpg" group-title="02-EPL",[HD]now sports 3
+#EXTINF:-1 tvg-name="EPL 23" tvg-id="4211" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095639627752_84.jpg" group-title="02-EPL",[HD]now sports 3
 https://epg.pw/stream/3847bbe2444b3fd54967b0e75f511971559d997d7b1a0b1be4fe1fdeb25dba57.ctv
-#EXTINF:-1 tvg-name="Now Sports 3" tvg-id="4211" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095639627752_84.jpg" group-title="02-EPL",[VGA]tnt sports 3@@1
+#EXTINF:-1 tvg-name="EPL 24" tvg-id="4211" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095639627752_84.jpg" group-title="02-EPL",[VGA]tnt sports 3@@1
 https://epg.pw/stream/84403554a6e5d0316690e475672b2cd328983fea86c719f10fab9d56f4ca3630.ctv
-#EXTINF:-1 tvg-name="Now Sports 4" tvg-id="4213" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095725690158_52.jpg" group-title="02-EPL",[HD]nova sports 4
+#EXTINF:-1 tvg-name="EPL 25" tvg-id="4213" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095725690158_52.jpg" group-title="02-EPL",[HD]nova sports 4
 https://epg.pw/stream/0eb91980802099e06dcceb7c863c3307051a99ec61ba86b1a85bf90bb4f8dcad.ctv
-#EXTINF:-1 tvg-name="Now Sports 5" tvg-id="4216" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095851867371_23.jpg" group-title="02-EPL",[BD]now sport hk 5@@1
+#EXTINF:-1 tvg-name="EPL 26" tvg-id="4216" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095851867371_23.jpg" group-title="02-EPL",[BD]now sport hk 5@@1
 https://epg.pw/stream/ce68839f8a9cda194332af5c7517d3a5a5e2d274fd28f72ee2b120e2351f00d2.ctv
-#EXTINF:-1 tvg-name="Now Sports 5" tvg-id="4216" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095851867371_23.jpg" group-title="02-EPL",[HD]tnt sports 5[geo-blocked]
+#EXTINF:-1 tvg-name="EPL 27" tvg-id="4216" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095851867371_23.jpg" group-title="02-EPL",[HD]tnt sports 5[geo-blocked]
 https://epg.pw/stream/b48b4b1dba044c3fdd16bfdb79245fba8942c57561b255007779174c9c930367.m3u8
-#EXTINF:-1 tvg-name="Now Sports 6" tvg-id="4218" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806100009683117_34.jpg" group-title="02-EPL",[BD]now sport hk 6@@1[geo-blocked]
+#EXTINF:-1 tvg-name="EPL 28" tvg-id="4218" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806100009683117_34.jpg" group-title="02-EPL",[BD]now sport hk 6@@1[geo-blocked]
 https://epg.pw/stream/dd5731176cfa5e58bb337e9f09a25966e9e93c78c0c7925cb4561aab23adcc81.ctv
-#EXTINF:-1 tvg-name="Now Sports 7" tvg-id="4221" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806100138911158_22.jpg" group-title="02-EPL",[BD]now sport hk 7@@1
+#EXTINF:-1 tvg-name="EPL 29" tvg-id="4221" tvg-country="02-EPL" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806100138911158_22.jpg" group-title="02-EPL",[BD]now sport hk 7@@1
 https://epg.pw/stream/c5036c51453ff9fbbc085756e6cbbc5c237d76cfba825d2c141bb6de3063ca2d.ctv
+#EXTINF:-1 tvg-name="EPL 30" tvg-id="" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/20/large/20220820205053968567_10.PNG" group-title="02-EPL",[BD]hub premier 11 fhd
+https://epg.pw/stream/3be8d8be6ce3f3a54dcb83e59b2488fbf46fd4d6957f5d69b7d772e384f0c946.ctv
+#EXTINF:-1 tvg-name="EPL 31" tvg-id="" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/20/large/20220820205053968567_10.PNG" group-title="02-EPL",[BD]hub premier 1 fhd[geo-blocked]
+https://epg.pw/stream/080ad2ce993a3e5561e0b48b47fecd0c4e47f30204d80406e69a61646c756067.ctv
+#EXTINF:-1 tvg-name="EPL 32" tvg-id="" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/20/large/20220920223013988266_34.jpg" group-title="02-EPL",[BD]hub premier 5 fhd
+https://epg.pw/stream/fe5c0ae09415afa7c8cdafe0b4aee7f582b2ff6dd2fe9a25ac853e6a65ba3d42.ctv
+#EXTINF:-1 tvg-name="EPL 33" tvg-id="" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/20/large/20220920223013988266_34.jpg" group-title="02-EPL",[BD]hub premier 3 fhd[geo-blocked]
+https://epg.pw/stream/1fe427bbb7c13218513e5489560ea7ff31e381793c2449a66f5bc90c6691a729.ctv
+#EXTINF:-1 tvg-name="EPL 34" tvg-id="" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/20/large/20220920223013988266_34.jpg" group-title="02-EPL",[BD]hub premier 4 fhd
+https://epg.pw/stream/1618832c5d02a13cfe6edd7316ab904d40ba4c7a9bab049af87ad6dca9eac953.ctv
+#EXTINF:-1 tvg-name="EPL 35" tvg-id="" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/20/large/20220920223013988266_34.jpg" group-title="02-EPL",[BD]hub premier 3 fhd@@1[geo-blocked]
+https://epg.pw/stream/4b0e5cd27024db6f81dcc51f30cad8992ec7064c510c97b11e7c874aea1ef0db.ctv
+#EXTINF:-1 tvg-name="EPL 36" tvg-id="" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/20/large/20220920223013988266_34.jpg" group-title="02-EPL",[BD]hub premier 6 fhd
+https://epg.pw/stream/862eafd297f769841ac94e7e902567f974f7cb3e15ef8d93a812c8875450cf76.ctv
+#EXTINF:-1 tvg-name="EPL 37" tvg-id="" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/20/large/20220920223013988266_34.jpg" group-title="02-EPL",[BD]hub premier 8 fhd
+https://epg.pw/stream/691e01bd903082d0b6d15f99f40882f0ad33b4938e7f908488aebfb2e76a5fac.ctv
+#EXTINF:-1 tvg-name="EPL 38" tvg-id="" tvg-country="02-EPL" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/20/large/20220920223013988266_34.jpg" group-title="02-EPL",[BD]hub premier 7 fhd
+https://epg.pw/stream/1e654214ddd0ded34d4f672fb2cb71e48d25b59b5fe98f3c626aade59832273f.ctv
+
