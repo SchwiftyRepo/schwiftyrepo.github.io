@@ -1,9 +1,14 @@
-<dir>
-    <name>BT Sport 1</name>
-  <link></link>
-</dir>
-
-<dir>
-    <name>BT Sport 2</name>
-    <link></link>
-</dir>
+{
+    "items": [
+        {
+            "type": "dir",
+            "title": "English Channels",
+            "link": "https://schwiftyrepo.github.io/test/eng.xml"
+        },
+        {
+            "type": "dir",
+            "title": "Foreign Channels",
+            "link": "https://schwiftyrepo.github.io/test/for.xml"
+        }
+    ]
+}
