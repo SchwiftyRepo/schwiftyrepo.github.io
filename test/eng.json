@@ -2,13 +2,6 @@
     "items": [
         {
             "type": "item",
-            "title": "ACC Network",
-            "link": [
-                "https://cnl.salamus1.lol/cnl/accn/playlist.m3u8|Referer=https://licenses4.me/"
-            ]
-        },
-        {
-            "type": "item",
             "title": "BT Sport 1",
             "link": [
                 "https://fls.salamus1.lol/fls/eplayerdigitvbt1/playlist.m3u8|Referer=https://licenses4.me/"
@@ -23,9 +16,37 @@
         },
         {
             "type": "item",
-            "title": "BT Sport 3",
+            "title": "Sky Sports Arena",
             "link": [
-                "https://epg.pw/stream/2445b713f506d51b7622c136748975bf551144ef9f9c90afde8c6e4f55cf392e.ctv"
+                "https://fls.salamus1.lol/fls/skyarena/playlist.m3u8|Referer=https://licenses4.me/"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Sky Sports Cricket",
+            "link": [
+                "https://fls.salamus1.lol/fls/eplayerskycric/playlist.m3u8|Referer=https://licenses4.me/"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Sky Sports Football",
+            "link": [
+                "https://fls.salamus1.lol/fls/eplayerskyfoot/playlist.m3u8|Referer=https://licenses4.me/"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Sky Sports Main Event",
+            "link": [
+                "https://fls.salamus1.lol/fls/eplayerskymain2/playlist.m3u8|Referer=https://licenses4.me/"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Sky Sports Premier League",
+            "link": [
+                "https://fls.salamus1.lol/fls/eplayerSKYPL/playlist.m3u8|Referer=https://licenses4.me/"
             ]
         },
         {
@@ -77,41 +98,7 @@
                 "https://cnl.salamus1.lol/cnl/nbatv/playlist.m3u8|Referer=https://licenses4.me/"
             ]
         },
-        {
-            "type": "item",
-            "title": "Sky Sports Arena",
-            "link": [
-                "https://fls.salamus1.lol/fls/skyarena/playlist.m3u8|Referer=https://licenses4.me/"
-            ]
-        },
-        {
-            "type": "item",
-            "title": "Sky Sports Cricket",
-            "link": [
-                "https://fls.salamus1.lol/fls/eplayerskycric/playlist.m3u8|Referer=https://licenses4.me/"
-            ]
-        },
-        {
-            "type": "item",
-            "title": "Sky Sports Football",
-            "link": [
-                "https://fls.salamus1.lol/fls/eplayerskyfoot/playlist.m3u8|Referer=https://licenses4.me/"
-            ]
-        },
-        {
-            "type": "item",
-            "title": "Sky Sports Main Event",
-            "link": [
-                "https://fls.salamus1.lol/fls/eplayerskymain2/playlist.m3u8|Referer=https://licenses4.me/"
-            ]
-        },
-        {
-            "type": "item",
-            "title": "Sky Sports Premier League",
-            "link": [
-                "https://fls.salamus1.lol/fls/eplayerSKYPL/playlist.m3u8|Referer=https://licenses4.me/"
-            ]
-        },
+        
         {
             "type": "item",
             "title": "SS Action",
