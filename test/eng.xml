@@ -67,21 +67,15 @@
   </link>
 </item>
 <item>
-  <title>Fox Sports1</title>
+  <title>Fox Sports 1</title>
   <link>
     <sublink>https://cnl.salamus1.lol/cnl/eplayerfs1/playlist.m3u8|Referer=https://licenses4.me/</sublink>
   </link>
 </item>
 <item>
-  <title>Fox Sports2</title>
+  <title>Fox Sports 2</title>
   <link>
     <sublink>https://cnl.salamus1.lol/cnl/eplayerfs2/playlist.m3u8|Referer=https://licenses4.me/</sublink>
-  </link>
-</item>
-<item>
-  <title>NBA TV</title>
-  <link>
-    <sublink>https://cnl.salamus1.lol/cnl/nbatv/playlist.m3u8|Referer=https://licenses4.me/</sublink>
   </link>
 </item>
 <item>
@@ -160,6 +154,12 @@
   <title>SS Variety 4</title>
   <link>
     <sublink>https://cnl.salamus1.lol/cnl/eplayerSuperSportVariety4/playlist.m3u8|Referer=https://licenses4.me/</sublink>
+  </link>
+</item>
+<item>
+  <title>NBA TV</title>
+  <link>
+    <sublink>https://cnl.salamus1.lol/cnl/nbatv/playlist.m3u8|Referer=https://licenses4.me/</sublink>
   </link>
 </item>
 <item>
