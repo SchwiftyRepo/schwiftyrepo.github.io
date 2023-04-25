@@ -5,6 +5,11 @@
             "title": "UK Sports",
             "link": "https://schwiftyrepo.github.io/test/mix1.json"
         },
+	{
+            "type": "dir",
+            "title": "UK Sports 1",
+            "link": "https://schwiftyrepo.github.io/test/eng.json"
+        },
         {
             "type": "dir",
             "title": "EPL Channels",
