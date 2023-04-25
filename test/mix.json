@@ -15,6 +15,11 @@
             "title": "EPL Channels",
             "link": "https://schwiftyrepo.github.io/test/mix2.json"
         }
+	{
+            "type": "dir",
+            "title": "Foreign Channels",
+            "link": "https://schwiftyrepo.github.io/test/for.json"
+        }
         
     ]
 }
