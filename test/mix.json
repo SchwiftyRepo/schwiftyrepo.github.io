@@ -2,17 +2,17 @@
     "items": [
          {
             "type": "plugin",
-            "title": "Live TV",
+            "title": "[COLORwhite]Live TV[/COLOR]",
             "link": "plugin.video.bolt_module/?mode=menu&serv_type=live_tv"
         },
         {
             "type": "dir",
-            "title": "English Channels",
+            "title": "[COLORwhite]English Channels[/COLOR]",
             "link": "https://schwiftyrepo.github.io/test/eng.xml"
         },
         {
             "type": "dir",
-            "title": "Foreign Channels",
+            "title": "[COLORwhite]Foreign Channels[/COLOR]",
             "link": "https://schwiftyrepo.github.io/test/for.xml"
         },
         {
