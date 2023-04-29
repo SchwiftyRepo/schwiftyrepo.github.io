@@ -3,7 +3,7 @@
          {
             "type": "plugin",
             "title": "Live TV",
-            "link": "plugin.video.bolt/?mode=menu&serv_type=live_tv"
+            "link": "plugin.video.bolt_module/?mode=menu&serv_type=live_tv"
         },
         {
             "type": "dir",
