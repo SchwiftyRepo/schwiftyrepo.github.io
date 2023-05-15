@@ -1,0 +1,64 @@
+{
+    "items": [
+
+{
+            "type": "dir",
+            "title": "[COLORwhite]Only Fools And Horses S01[/COLOR]",
+            "nginx_dir": "http://136.243.83.126/Only.Fools.And.Horses.S01/",
+			"thumbnail": "https://i.imgur.com/ScOTyeG.jpg"
+			
+        },
+        {
+            "type": "dir",
+            "title": "[COLORwhite]Only Fools And Horses S02[/COLOR]",
+            "nginx_dir": "http://136.243.83.126/Only.Fools.And.Horses.S02/",
+			"thumbnail": "https://i.imgur.com/ScOTyeG.jpg"
+			
+        },
+        {
+            "type": "dir",
+            "title": "[COLORwhite]Only Fools And Horses S03[/COLOR]",
+            "nginx_dir": "http://136.243.83.126/Only.Fools.And.Horses.S03/",
+			"thumbnail": "https://i.imgur.com/ScOTyeG.jpg"
+			
+        },
+        {
+            "type": "dir",
+            "title": "[COLORwhite]Only Fools And Horses S04[/COLOR]",
+            "nginx_dir": "http://136.243.83.126/Only.Fools.And.Horses.S04/",
+			"thumbnail": "https://i.imgur.com/ScOTyeG.jpg"
+			
+        },
+        {
+            "type": "dir",
+            "title": "[COLORwhite]Only Fools And Horses S05[/COLOR]",
+            "nginx_dir": "http://136.243.83.126/Only.Fools.And.Horses.S05/",
+			"thumbnail": "https://i.imgur.com/ScOTyeG.jpg"
+			
+        },
+        {
+            "type": "dir",
+            "title": "[COLORwhite]Only Fools And Horses S06[/COLOR]",
+            "nginx_dir": "http://136.243.83.126/Only.Fools.And.Horses.S06/",
+			"thumbnail": "https://i.imgur.com/ScOTyeG.jpg"
+			
+        },
+        {
+            "type": "dir",
+            "title": "[COLORwhite]Only Fools And Horses S07[/COLOR]",
+            "nginx_dir": "http://136.243.83.126/Only.Fools.And.Horses.S07/",
+			"thumbnail": "https://i.imgur.com/ScOTyeG.jpg"
+			
+        },
+        {
+            "type": "dir",
+            "title": "[COLORwhite]Only Fools And Horses Christmas Specials[/COLOR]",
+            "nginx_dir": "http://vod.simpletv.eu/media/storage/Only_Fools_and_Horses_Xmas_Specials_1991/",
+			"thumbnail": "https://i.imgur.com/ScOTyeG.jpg"
+			
+        }
+        
+  ]
+  
+  
+}
