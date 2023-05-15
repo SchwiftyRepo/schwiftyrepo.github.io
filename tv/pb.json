@@ -1,0 +1,51 @@
+{
+    "items": [
+        
+        {
+            "type": "dir",
+            "title": "Peaky Blinders S01[/COLOR]",
+            "nginx_dir": "http://vod.simpletv.eu/media/storage/Peaky_Blinders_season_1_2016/",
+			"thumbnail": "https://i.imgur.com/qPuRsw1.jpg"
+			
+        },
+		{
+            "type": "dir",
+            "title": "Peaky Blinders S02[/COLOR]",
+            "nginx_dir": "http://vod.simpletv.eu/media/storage/Peaky_Blinders_season_2_2016/",
+			"thumbnail": "https://i.imgur.com/qPuRsw1.jpg"
+			
+        },
+		{
+            "type": "dir",
+            "title": "Peaky Blinders S03[/COLOR]",
+            "nginx_dir": "http://vod.simpletv.eu/media/storage/Peaky_Blinders_season_3_2016/",
+			"thumbnail": "https://i.imgur.com/qPuRsw1.jpg"
+			
+        },
+		{
+            "type": "dir",
+            "title": "Peaky Blinders S04[/COLOR]",
+            "nginx_dir": "http://vod.simpletv.eu/media/storage/Peaky_Blinders_season_4_2017/",
+			"thumbnail": "https://i.imgur.com/qPuRsw1.jpg"
+			
+        },
+		{
+            "type": "dir",
+            "title": "Peaky Blinders S05[/COLOR]",
+            "nginx_dir": "http://vod.simpletv.eu/media/storage/Peaky_Blinders_Season_5_2019/",
+			"thumbnail": "https://i.imgur.com/qPuRsw1.jpg"
+			
+        },
+		{
+            "type": "dir",
+            "title": "Peaky Blinders S06[/COLOR]",
+			"thumbnail": "https://i.imgur.com/qPuRsw1.jpg",
+            "nginx_dir": "http://vod.simpletv.eu/media/storage/Peaky_Blinders_Season_6_2022/"
+			
+        }
+		
+		
+	]
+	
+
+}
