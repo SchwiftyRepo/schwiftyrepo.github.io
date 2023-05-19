@@ -5,6 +5,11 @@
             "title": "[COLORwhite]Live TV[/COLOR]",
             "link": "plugin.video.bolt_module/?mode=menu&serv_type=live_tv"
         },
+	{
+            "type": "plugin",
+            "title": "[COLORwhite]Live Games[/COLOR]",
+            "link": "plugin.video.bolt_module/?mode=menu&serv_type=sched"
+        },
         {
             "type": "dir",
             "title": "[COLORwhite]English Channels[/COLOR]",
